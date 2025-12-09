@@ -6,7 +6,7 @@ import os
 import time
 from pathlib import Path
 
-TOKEN = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwdWJsaWNfaWQiOiI0ZjU4MDJiMi1hN2ZiLTRmNjMtOGE1NS0wOTJjYzIzNDg0ODYiLCJyb2xlIjoidXNlciIsImV4cCI6MTc2MjkwMDkwMn0.JmeD1OnXBgtTlnrlrOH6LvyXfZYD9GcyZzdrt1pVAsM"
+TOKEN = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwdWJsaWNfaWQiOiI0ZjU4MDJiMi1hN2ZiLTRmNjMtOGE1NS0wOTJjYzIzNDg0ODYiLCJyb2xlIjoidXNlciIsImV4cCI6MTc2NDYyMjQ0NH0.jv5afKbFip5R9q6Ex6jHPaRLGLvVjwFjQUi7rKnYh0g"
 PROTOCOL = "https"
 HOSTNAME = "mathgenealogy.org"
 PORT = "8000"

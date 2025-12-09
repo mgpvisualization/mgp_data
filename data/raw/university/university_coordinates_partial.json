@@ -1,0 +1,8418 @@
+{
+  "Massachusetts Institute of Technology, United States": [
+    42.3582529,
+    -71.0966272
+  ],
+  "University of California, Berkeley, United States": [
+    37.8754996,
+    -122.2390685
+  ],
+  "Universiteit van Amsterdam, Netherlands": [
+    52.3681334,
+    4.8898042
+  ],
+  "Stanford University, United States": [
+    37.4313138,
+    -122.1693654
+  ],
+  "University of Wisconsin-Madison, United States": [
+    43.0802745,
+    -89.4309587
+  ],
+  "Harvard University, United States": [
+    42.3657432,
+    -71.1222139
+  ],
+  "University of Michigan, United States": [
+    42.2942142,
+    -83.7100389
+  ],
+  "Rijksuniversiteit Groningen, Netherlands": [
+    53.2194416,
+    6.5629863
+  ],
+  "Princeton University, United States": [
+    40.3386752,
+    -74.6583655
+  ],
+  "Technische Universiteit Eindhoven, Netherlands": [
+    51.4486602,
+    5.4903996
+  ],
+  "University of California, Los Angeles, United States": [
+    34.0708777,
+    -118.4468503
+  ],
+  "University of Cambridge, United Kingdom": [
+    52.2109456,
+    0.092005
+  ],
+  "Universit\u00e9 de Gen\u00e8ve, Switzerland": [
+    46.1972358,
+    6.136766
+  ],
+  "Cornell University, United States": [
+    42.4529076,
+    -76.4800842
+  ],
+  "Universiteit Leiden, Netherlands": [
+    52.1686355,
+    4.4597028
+  ],
+  "Purdue University, United States": [
+    40.430028,
+    -86.9264211
+  ],
+  "The University of Chicago, United States": [
+    41.7913274,
+    -87.6008421
+  ],
+  "University of Maryland College Park, United States": [
+    38.9904124,
+    -76.9438586
+  ],
+  "University of Texas at Austin, United States": [
+    30.2851494,
+    -97.7339352
+  ],
+  "ETH Z\u00fcrich, Switzerland": [
+    47.413218,
+    8.5374914
+  ],
+  "University of Oxford, United Kingdom": [
+    51.7525461,
+    -1.21433
+  ],
+  "Columbia University, United States": [
+    40.8071816,
+    -73.9614833
+  ],
+  "University of Washington, United States": [
+    47.6554303,
+    -122.3001692
+  ],
+  "Technische Universiteit Delft, Netherlands": [
+    51.9988274,
+    4.3739604
+  ],
+  "Lomonosov Moscow State University, Russia": [
+    55.7011843,
+    37.5276192
+  ],
+  "Carnegie Mellon University, United States": [
+    40.4441897,
+    -79.9427192
+  ],
+  "California Institute of Technology, United States": [
+    34.1370138,
+    -118.1252883
+  ],
+  "New York University, United States": [
+    40.7292053,
+    -73.9950148
+  ],
+  "North Carolina State University, United States": [
+    35.7718497,
+    -78.674087
+  ],
+  "Universiteit Utrecht, Netherlands": [
+    52.0906639,
+    5.1231525
+  ],
+  "University of Pennsylvania, United States": [
+    39.9503945,
+    -75.1946713
+  ],
+  "University of California, San Diego, United States": [
+    32.8792438,
+    -117.2311247
+  ],
+  "Yale University, United States": [
+    41.2571306,
+    -72.9896696
+  ],
+  "The Ohio State University, United States": [
+    40.0056802,
+    -83.0286612
+  ],
+  "Northwestern University, United States": [
+    42.0557157,
+    -87.6752945
+  ],
+  "Brown University, United States": [
+    41.8186395,
+    -71.4088009
+  ],
+  "Rheinische Friedrich-Wilhelms-Universit\u00e4t Bonn, Germany": [
+    50.7338124,
+    7.1022465
+  ],
+  "Georg-August-Universit\u00e4t G\u00f6ttingen, Germany": [
+    51.5592251,
+    9.9524442
+  ],
+  "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen, Germany": [
+    48.1504757,
+    11.5798356
+  ],
+  "University of Toronto, Canada": [
+    43.6608141,
+    -79.3960322
+  ],
+  "Georgia Institute of Technology, United States": [
+    33.7760948,
+    -84.3988077
+  ],
+  "The Pennsylvania State University, United States": [
+    40.8025835,
+    -77.8559383
+  ],
+  "Technische Universit\u00e4t Berlin, Germany": [
+    52.5110159,
+    13.3269541
+  ],
+  "Technische Universit\u00e4t M\u00fcnchen, Germany": [
+    48.2654976,
+    11.6692249
+  ],
+  "Iowa State University, United States": [
+    42.0279608,
+    -93.6447375
+  ],
+  "Rutgers University, New Brunswick, United States": [
+    40.4976786,
+    -74.4460046
+  ],
+  "The Johns Hopkins University, United States": [
+    39.296875,
+    -76.6147318
+  ],
+  "University of Waterloo, Canada": [
+    43.4701994,
+    -80.5452429
+  ],
+  "University of Southern California, United States": [
+    34.021869,
+    -118.2858579
+  ],
+  "State University of New York at Stony Brook, United States": [
+    40.9090809,
+    -73.1205518
+  ],
+  "Humboldt-Universit\u00e4t zu Berlin, Germany": [
+    52.5183402,
+    13.3929202
+  ],
+  "Universit\u00e4t Leipzig, Germany": [
+    51.3384539,
+    12.3786386
+  ],
+  "Michigan State University, United States": [
+    42.7023794,
+    -84.4803869
+  ],
+  "Imperial College London, United Kingdom": [
+    51.4989595,
+    -0.1756407
+  ],
+  "University of Rochester, United States": [
+    43.129864,
+    -77.628784
+  ],
+  "Virginia Polytechnic Institute and State University, United States": [
+    37.2219268,
+    -80.4272818
+  ],
+  "The University of Iowa, United States": [
+    41.6682891,
+    -91.5795068
+  ],
+  "Universit\u00e4t Stuttgart, Germany": [
+    48.7453828,
+    9.1032675
+  ],
+  "Rheinisch-Westf\u00e4lische Technische Hochschule Aachen, Germany": [
+    50.7791657,
+    6.0689209
+  ],
+  "Texas A&M University, United States": [
+    30.6108618,
+    -96.3520606
+  ],
+  "University of Warwick, United Kingdom": [
+    52.3813073,
+    -1.5639569
+  ],
+  "Indiana University, United States": [
+    39.1802358,
+    -86.5093526
+  ],
+  "Vrije Universiteit Amsterdam, Netherlands": [
+    52.3340539,
+    4.8651882
+  ],
+  "University of Florida, United States": [
+    29.6411884,
+    -82.3562296
+  ],
+  "Duke University, United States": [
+    36.0001557,
+    -78.9442297
+  ],
+  "University of London, United Kingdom": [
+    51.5218979,
+    -0.1288676
+  ],
+  "Technische Universit\u00e4t Darmstadt, Germany": [
+    49.8611518,
+    8.681944
+  ],
+  "Katholieke Universiteit Leuven, Belgium": [
+    51.2205068,
+    4.4046263
+  ],
+  "Ruprecht-Karls-Universit\u00e4t Heidelberg, Germany": [
+    49.4186003,
+    8.6692402
+  ],
+  "Rice University, United States": [
+    29.7167915,
+    -95.4047811
+  ],
+  "Universit\u00e4t M\u00fcnster, Germany": [
+    51.9673422,
+    7.5992433
+  ],
+  "Florida State University, United States": [
+    30.442216,
+    -84.297453
+  ],
+  "University of Colorado at Boulder, United States": [
+    40.0075984,
+    -105.2691008
+  ],
+  "Universiteit Twente, Netherlands": [
+    52.2433268,
+    6.8509157
+  ],
+  "University of California, Davis, United States": [
+    38.5337904,
+    -121.7907544
+  ],
+  "University of Pittsburgh, United States": [
+    40.444153,
+    -79.962461
+  ],
+  "Technische Universit\u00e4t Kaiserslautern, Germany": [
+    49.4246142,
+    7.7542142
+  ],
+  "University of British Columbia, Canada": [
+    49.2578915,
+    -123.2429755
+  ],
+  "Universidade de S\u00e3o Paulo, Brazil": [
+    -23.5652201,
+    -46.712583
+  ],
+  "Technische Universit\u00e4t Dresden, Germany": [
+    51.0282765,
+    13.7359828
+  ],
+  "University of California, Santa Barbara, United States": [
+    34.4146025,
+    -119.84581
+  ],
+  "Universit\u00e4t Hamburg, Germany": [
+    53.5571213,
+    9.9871189
+  ],
+  "Universit\u00e4t des Saarlandes, Germany": [
+    49.2542421,
+    7.0415117
+  ],
+  "Universit\u00e4t Wien, Austria": [
+    48.2131278,
+    16.3606855
+  ],
+  "University of California, Irvine, United States": [
+    33.6491782,
+    -117.8391158
+  ],
+  "Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg, Germany": [
+    49.4583219,
+    11.08546
+  ],
+  "University of Arizona, United States": [
+    32.235681,
+    -110.951744
+  ],
+  "Arizona State University, United States": [
+    33.4213174,
+    -111.9331631
+  ],
+  "University of Virginia, United States": [
+    38.0410576,
+    -78.5055084
+  ],
+  "Freie Universit\u00e4t Berlin, Germany": [
+    52.4528565,
+    13.2907249
+  ],
+  "University of Illinois at Chicago, United States": [
+    41.8697203,
+    -87.6704716
+  ],
+  "The University of Edinburgh, United Kingdom": [
+    55.9426681,
+    -3.1889932
+  ],
+  "Rensselaer Polytechnic Institute, United States": [
+    42.7298969,
+    -73.6796678
+  ],
+  "Washington University in St. Louis, United States": [
+    38.6472402,
+    -90.3084017
+  ],
+  "Universit\u00e9 de Paris, France": [
+    48.82972,
+    2.3398294
+  ],
+  "University of Massachusetts Amherst, United States": [
+    42.3875741,
+    -72.5299209
+  ],
+  "Universit\u00e4t Z\u00fcrich, Switzerland": [
+    47.3737735,
+    8.550955
+  ],
+  "University of Utah, United States": [
+    40.7628137,
+    -111.8368719
+  ],
+  "Albert-Ludwigs-Universit\u00e4t Freiburg im Breisgau, Germany": [
+    48.0022957,
+    7.8491401
+  ],
+  "City University of New York, United States": [
+    43.0421907,
+    -76.1349233
+  ],
+  "University of Notre Dame, United States": [
+    41.7045677,
+    -86.2382203
+  ],
+  "Radboud Universiteit Nijmegen, Netherlands": [
+    51.8215173,
+    5.8634209
+  ],
+  "Kharkiv National University of Radioelectronics, Ukraine": [
+    50.0150803,
+    36.2286428
+  ],
+  "University of Oregon, United States": [
+    44.0444197,
+    -123.0717603
+  ],
+  "Ruhr-Universit\u00e4t Bochum, Germany": [
+    51.4441576,
+    7.2610046
+  ],
+  "Christian-Albrechts-Universit\u00e4t zu Kiel, Germany": [
+    54.3458218,
+    10.113073
+  ],
+  "University of Tokyo, Japan": [
+    35.7117157,
+    139.7637457
+  ],
+  "St. Petersburg State University, Russia": [
+    59.9406782,
+    30.2964999
+  ],
+  "Universit\u00e4t zu K\u00f6ln, Germany": [
+    50.9143639,
+    6.9424345
+  ],
+  "Martin-Luther-Universit\u00e4t Halle-Wittenberg, Germany": [
+    51.4842986,
+    11.9733091
+  ],
+  "University of Kentucky, United States": [
+    38.0266291,
+    -84.5047222
+  ],
+  "University of California, Riverside, United States": [
+    33.9727335,
+    -117.3474449
+  ],
+  "Katholieke Universiteit Nijmegen, Netherlands": [
+    51.8230283,
+    5.8715568
+  ],
+  "University of Wisconsin-Milwaukee, United States": [
+    43.077639,
+    -87.8819425
+  ],
+  "University of Connecticut, United States": [
+    41.8111114,
+    -72.2483889
+  ],
+  "Universidade Estadual de Campinas, Brazil": [
+    -22.822656,
+    -47.0627959
+  ],
+  "Technische Universit\u00e4t Wien, Austria": [
+    48.1989256,
+    16.3698784
+  ],
+  "Universidad Complutense de Madrid, Spain": [
+    40.4314742,
+    -3.7900439
+  ],
+  "McGill University, Canada": [
+    45.5068861,
+    -73.5787118
+  ],
+  "Technion-Israel Institute of Technology, Israel": [
+    32.7768128,
+    35.0225446
+  ],
+  "University of Georgia, United States": [
+    33.9404278,
+    -83.373049
+  ],
+  "Johann Wolfgang Goethe-Universit\u00e4t Frankfurt am Main, Germany": [
+    50.1272173,
+    8.6676228
+  ],
+  "Boston University, United States": [
+    42.3504215,
+    -71.1032247
+  ],
+  "Oregon State University, United States": [
+    44.563056,
+    -123.2839234
+  ],
+  "Syracuse University, United States": [
+    43.0171129,
+    -76.1185536
+  ],
+  "Wayne State University, United States": [
+    42.3571895,
+    -83.0709436
+  ],
+  "Voronezh State University, Russia": [
+    51.7049872,
+    39.1851657
+  ],
+  "Universit\u00e9 Bordeaux 1, France": [
+    44.8009863,
+    -0.5963088
+  ],
+  "Louisiana State University, United States": [
+    30.4062005,
+    -91.1854129
+  ],
+  "Universit\u00e4t Dortmund, Germany": [
+    51.4914844,
+    7.4122739
+  ],
+  "University of Belgrade, Serbia": [
+    44.8179654,
+    20.4507765
+  ],
+  "Hebrew University of Jerusalem, Israel": [
+    31.7918555,
+    35.244723
+  ],
+  "University of Alberta, Canada": [
+    53.52682,
+    -113.5244937
+  ],
+  "University of Tennessee - Knoxville, United States": [
+    35.9516352,
+    -83.9308819
+  ],
+  "Universit\u00e9 de Montr\u00e9al, Canada": [
+    45.5047577,
+    -73.6145418
+  ],
+  "University of Missouri - Columbia, United States": [
+    38.9364147,
+    -92.329703
+  ],
+  "Uppsala universitet, Sweden": [
+    59.8576363,
+    17.6294616
+  ],
+  "Universit\u00e4t Bremen, Germany": [
+    53.1079646,
+    8.8556646
+  ],
+  "Australian National University, Australia": [
+    -35.2812742,
+    149.1172023
+  ],
+  "Uniwersytet Jagiello\u0144ski, Poland": [
+    50.061563,
+    19.9334091
+  ],
+  "University of Nebraska-Lincoln, United States": [
+    40.8305567,
+    -96.6697373
+  ],
+  "Tel Aviv University, Israel": [
+    32.1123577,
+    34.8050129
+  ],
+  "University of Leeds, United Kingdom": [
+    53.8057925,
+    -1.555111
+  ],
+  "\u00c9cole Polytechnique, France": [
+    48.7127874,
+    2.2107453
+  ],
+  "Charles University, Czech Republic": [
+    50.0888947,
+    14.4162757
+  ],
+  "Universit\u00e4t Bielefeld, Germany": [
+    52.0376829,
+    8.4932878
+  ],
+  "University of Houston, United States": [
+    29.7207902,
+    -95.3440627
+  ],
+  "Vanderbilt University, United States": [
+    36.1438011,
+    -86.8028189
+  ],
+  "Case Western Reserve University, United States": [
+    41.501387,
+    -81.6007022
+  ],
+  "Monash University, Australia": [
+    -37.7839745,
+    144.9586743
+  ],
+  "Colorado State University, United States": [
+    40.5706567,
+    -105.0853995
+  ],
+  "University of California, Santa Cruz, United States": [
+    36.9594073,
+    -122.0578714
+  ],
+  "Uniwersytet Warszawski, Poland": [
+    52.1724311,
+    21.0127974
+  ],
+  "Universit\u00e9 Libre de Bruxelles, Belgium": [
+    50.8134718,
+    4.3812357
+  ],
+  "George Mason University, United States": [
+    38.8313333,
+    -77.3079884
+  ],
+  "University of Bristol, United Kingdom": [
+    51.4905582,
+    -2.6304825
+  ],
+  "National University of Singapore, Singapore": [
+    1.2959845,
+    103.7766186
+  ],
+  "Universit\u00e4t Rostock, Germany": [
+    54.4308835,
+    12.6856683
+  ],
+  "Technische Universit\u00e4t Chemnitz, Germany": [
+    50.8142025,
+    12.9293622
+  ],
+  "University of South Carolina, United States": [
+    33.9928841,
+    -81.0268676
+  ],
+  "University of Durham, United Kingdom": [
+    54.7887211,
+    -1.5931807
+  ],
+  "Auburn University, United States": [
+    32.5919528,
+    -85.4959775
+  ],
+  "Philipps-Universit\u00e4t Marburg, Germany": [
+    50.8124763,
+    8.7722345
+  ],
+  "Universit\u00e9 Catholique de Louvain, Belgium": [
+    50.8214382,
+    4.3499855
+  ],
+  "Universit\u00e0 di Roma La Sapienza, Italy": [
+    41.9028669,
+    12.5076071
+  ],
+  "Technische Universit\u00e4t Dortmund, Germany": [
+    51.4914844,
+    7.4122739
+  ],
+  "University of Kansas, United States": [
+    38.9535052,
+    -95.263093
+  ],
+  "University of New South Wales, Australia": [
+    -33.9175994,
+    151.2312369
+  ],
+  "University College London, United Kingdom": [
+    51.5242031,
+    -0.1330007
+  ],
+  "Justus-Liebig-Universit\u00e4t Gie\u00dfen, Germany": [
+    50.5620266,
+    8.6811044
+  ],
+  "Universit\u00e4t Duisburg-Essen, Germany": [
+    51.4641041,
+    7.005847
+  ],
+  "Institute of Mathematics of the National Academy of Sciences of Ukraine, Ukraine": [
+    50.4443723,
+    30.5163819
+  ],
+  "Helsingin yliopisto, Finland": [
+    60.2267221,
+    25.01767
+  ],
+  "Washington State University, United States": [
+    46.7337716,
+    -117.1498035
+  ],
+  "Aarhus University, Denmark": [
+    56.1670905,
+    10.2026177
+  ],
+  "Johannes Gutenberg-Universit\u00e4t Mainz, Germany": [
+    49.9920397,
+    8.2371107
+  ],
+  "Universit\u00e4t Ulm, Germany": [
+    48.4206167,
+    9.9470045
+  ],
+  "Kyoto University, Japan": [
+    35.0270467,
+    135.7814382
+  ],
+  "Universidad de Buenos Aires, Argentina": [
+    -34.5086718,
+    -58.688352
+  ],
+  "Lehigh University, United States": [
+    40.6068028,
+    -75.3782488
+  ],
+  "Universit\u00e4t Berlin, Germany": [
+    52.5185794,
+    13.3935975
+  ],
+  "Universit\u00e9 de Rennes 1, France": [
+    48.1164284,
+    -1.6764295
+  ],
+  "Brandeis University, United States": [
+    42.3665095,
+    -71.2580196
+  ],
+  "Kansas State University, United States": [
+    39.2094557,
+    -96.5884991
+  ],
+  "Oklahoma State University, United States": [
+    36.1313523,
+    -97.0890651
+  ],
+  "University of Cincinnati, United States": [
+    39.1294152,
+    -84.5205018
+  ],
+  "University of Nottingham, United Kingdom": [
+    52.9387428,
+    -1.2002957
+  ],
+  "University of Bucharest, Romania": [
+    44.4356445,
+    26.1009263
+  ],
+  "Simon Fraser University, Canada": [
+    49.2767096,
+    -122.917803
+  ],
+  "Weizmann Institute of Science, Israel": [
+    31.9078499,
+    34.8133409
+  ],
+  "Tulane University, United States": [
+    29.9412196,
+    -90.1201009
+  ],
+  "The George Washington University, United States": [
+    38.8994972,
+    -77.0482121
+  ],
+  "Universit\u00e4t Bern, Switzerland": [
+    46.9509726,
+    7.4386841
+  ],
+  "University of Bath, United Kingdom": [
+    51.3766938,
+    -2.3234206
+  ],
+  "The University of Oklahoma, United States": [
+    35.4755069,
+    -97.4961201
+  ],
+  "Universit\u00e9 Claude Bernard Lyon 1, France": [
+    45.7816645,
+    4.8681545
+  ],
+  "University of Manchester, United Kingdom": [
+    53.4660226,
+    -2.2330858
+  ],
+  "Johannes Kepler Universit\u00e4t Linz, Austria": [
+    48.3360899,
+    14.3205799
+  ],
+  "Seoul National University, South Korea": [
+    37.4670085,
+    126.949073
+  ],
+  "University of Texas at Dallas, United States": [
+    32.9875855,
+    -96.749784
+  ],
+  "University of Liverpool, United Kingdom": [
+    53.4072429,
+    -2.9658337
+  ],
+  "Lund University, Sweden": [
+    55.7126504,
+    13.2107587
+  ],
+  "University of Glasgow, United Kingdom": [
+    55.871666,
+    -4.2778997
+  ],
+  "Universit\u00e0 di Pisa, Italy": [
+    43.4025782,
+    10.41282
+  ],
+  "University of Adelaide, Australia": [
+    -34.9189226,
+    138.6042367
+  ],
+  "Southern Methodist University, United States": [
+    32.8418011,
+    -96.7815281
+  ],
+  "Clemson University, United States": [
+    34.6686916,
+    -82.8374348
+  ],
+  "University of Sydney, Australia": [
+    -33.8889073,
+    151.1894111
+  ],
+  "McMaster University, Canada": [
+    43.2639397,
+    -79.9178252
+  ],
+  "University of Delaware, United States": [
+    39.6803338,
+    -75.7530749
+  ],
+  "Texas Tech University, United States": [
+    33.5937526,
+    -101.8995955
+  ],
+  "Vilniaus universitetas, Lithuania": [
+    54.682847,
+    25.2878406
+  ],
+  "Aix-Marseille Universit\u00e9, France": [
+    43.5259126,
+    5.4141035
+  ],
+  "Dartmouth College, United States": [
+    43.7046757,
+    -72.2942089
+  ],
+  "Universidade Federal do Rio de Janeiro, Brazil": [
+    -22.8533498,
+    -43.2331703
+  ],
+  "K\u00f8benhavns Universitet, Denmark": [
+    55.6801502,
+    12.572327
+  ],
+  "Babe\u015f-Bolyai University, Romania": [
+    46.7677836,
+    23.5919766
+  ],
+  "Universidad de Granada, Spain": [
+    37.1809009,
+    -3.6000115
+  ],
+  "Temple University, United States": [
+    39.981188,
+    -75.1562828
+  ],
+  "Steklov Institute of Mathematics, Russia": [
+    55.6947768,
+    37.5644492
+  ],
+  "Jyv\u00e4skyl\u00e4n yliopisto, Finland": [
+    62.2366345,
+    25.7313236
+  ],
+  "University of Southampton, United Kingdom": [
+    50.9617568,
+    -1.4239975
+  ],
+  "Universit\u00e4t Mannheim, Germany": [
+    49.4832445,
+    8.4645749
+  ],
+  "Tsinghua University, China": [
+    40.0022905,
+    116.320963
+  ],
+  "University of South Florida, United States": [
+    28.0599999,
+    -82.4138362
+  ],
+  "Universit\u00e4t Potsdam, Germany": [
+    52.4014435,
+    13.0087916
+  ],
+  "University of York, United Kingdom": [
+    53.9453903,
+    -1.0314593
+  ],
+  "Stockholm University, Sweden": [
+    59.366141,
+    18.059593
+  ],
+  "University of Ljubljana, Slovenia": [
+    46.0744053,
+    14.5141463
+  ],
+  "Universit\u00e4t Basel, Switzerland": [
+    47.5585374,
+    7.5826363
+  ],
+  "Heinrich-Heine-Universit\u00e4t D\u00fcsseldorf, Germany": [
+    51.1907733,
+    6.7935167
+  ],
+  "University of Melbourne, Australia": [
+    -37.8241371,
+    144.9170886
+  ],
+  "University of Birmingham, United Kingdom": [
+    52.4522956,
+    -1.9312857
+  ],
+  "State University of New York at Binghamton, United States": [
+    42.0877998,
+    -75.9706607
+  ],
+  "Emory University, United States": [
+    33.8004547,
+    -84.3172378
+  ],
+  "Carleton University, Canada": [
+    45.3858581,
+    -75.6950041
+  ],
+  "Otto-von-Guericke-Universit\u00e4t Magdeburg, Germany": [
+    52.1383797,
+    11.6334707
+  ],
+  "London School of Economics and Political Science, United Kingdom": [
+    51.514605,
+    -0.1164525
+  ],
+  "University of Ottawa, Canada": [
+    45.4225271,
+    -75.6833904
+  ],
+  "Universit\u00e4t Paderborn, Germany": [
+    51.707521,
+    8.7724141
+  ],
+  "Universit\u00e9 de Grenoble, France": [
+    45.192103,
+    5.7172935
+  ],
+  "Northeastern University, United States": [
+    42.3351053,
+    -71.0892579
+  ],
+  "Universit\u00e4t Augsburg, Germany": [
+    48.3364737,
+    10.8985237
+  ],
+  "Erasmus Universiteit Rotterdam, Netherlands": [
+    51.9176312,
+    4.5259623
+  ],
+  "Universitat Polit\u00e8cnica de Catalunya, Spain": [
+    41.2214475,
+    1.7301449
+  ],
+  "Kent State University, United States": [
+    41.1442325,
+    -81.3398321
+  ],
+  "Uniwersytet Wroc\u0142awski, Poland": [
+    51.1120183,
+    17.0347171
+  ],
+  "Peking University, China": [
+    40.1733654,
+    116.15722
+  ],
+  "Universit\u00e9 Paris-Saclay, France": [
+    48.7121501,
+    2.1735087
+  ],
+  "Technische Universit\u00e4t Graz, Austria": [
+    47.0582807,
+    15.4602462
+  ],
+  "Universit\u00e4t Regensburg, Germany": [
+    48.9966127,
+    12.0940697
+  ],
+  "Chinese University of Hong Kong, HongKong": [
+    22.4137195,
+    114.2098955
+  ],
+  "Heriot-Watt University, United Kingdom": [
+    55.9102959,
+    -3.3234475
+  ],
+  "University of Louisiana at Lafayette, United States": [
+    30.2117256,
+    -92.0195772
+  ],
+  "Universidad Aut\u00f3noma de Madrid, Spain": [
+    40.5453765,
+    -3.6949578
+  ],
+  "University of Zagreb, Croatia": [
+    42.6425285,
+    18.1026638
+  ],
+  "Universit\u00e0 degli Studi di Padova, Italy": [
+    45.4066496,
+    11.8774407
+  ],
+  "University of Sheffield, United Kingdom": [
+    53.3729622,
+    -1.5059315
+  ],
+  "Universit\u00e9 Montpellier II, France": [
+    43.6321029,
+    3.8642865
+  ],
+  "Chinese Academy of Sciences, China": [
+    39.9093367,
+    116.3297146
+  ],
+  "University of Alabama-Tuscaloosa, United States": [
+    33.2027319,
+    -87.5619417
+  ],
+  "Universitetet i Oslo, Norway": [
+    59.9414173,
+    10.7227683
+  ],
+  "Tilburg University, Netherlands": [
+    51.5630609,
+    5.0435985
+  ],
+  "Illinois Institute of Technology, United States": [
+    41.8361641,
+    -87.6264723
+  ],
+  "Taras Shevchenko National University of Kyiv, Ukraine": [
+    50.3842474,
+    30.4742873
+  ],
+  "Link\u00f6pings Universitet, Sweden": [
+    58.3977911,
+    15.5754544
+  ],
+  "Lancaster University, United Kingdom": [
+    54.0098429,
+    -2.7875768
+  ],
+  "E\u00f6tv\u00f6s Lor\u00e1nd University, Hungary": [
+    47.4934799,
+    19.0618993
+  ],
+  "University of Central Florida, United States": [
+    28.599591,
+    -81.1971284
+  ],
+  "Universitat de Val\u00e8ncia, Spain": [
+    39.4604818,
+    -0.3600927
+  ],
+  "Chalmers Tekniska H\u00f6gskola, Sweden": [
+    57.6897462,
+    11.9765259
+  ],
+  "Universit\u00e4t Kaiserslautern, Germany": [
+    49.4246142,
+    7.7542142
+  ],
+  "Universit\u00e4t Konstanz, Germany": [
+    47.6899569,
+    9.1882624
+  ],
+  "New Mexico State University, United States": [
+    32.2729032,
+    -106.7434927
+  ],
+  "Universit\u00e4t Bayreuth, Germany": [
+    49.9270796,
+    11.5872266
+  ],
+  "Indian Statistical Institute, Kolkata, India": [
+    22.6477969,
+    88.3766405
+  ],
+  "University of Sussex, United Kingdom": [
+    50.8674377,
+    -0.0877259
+  ],
+  "Novosibirsk State University, Russia": [
+    54.8461252,
+    83.0942166
+  ],
+  "Universit\u00e9 Laval, Canada": [
+    46.7811622,
+    -71.2768002
+  ],
+  "Universitat Pompeu Fabra, Spain": [
+    41.3892781,
+    2.1911055
+  ],
+  "Scuola Normale Superiore di Pisa, Italy": [
+    43.7196862,
+    10.400398
+  ],
+  "Universidad de Sevilla, Spain": [
+    37.3775547,
+    -5.9782791
+  ],
+  "University of Auckland, New Zealand": [
+    -36.8660955,
+    174.7737331
+  ],
+  "Universit\u00e9 Louis Pasteur - Strasbourg I, France": [
+    48.5829429,
+    7.7645608
+  ],
+  "University of Maryland Baltimore County, United States": [
+    39.252377,
+    -76.7089181
+  ],
+  "Universit\u00e4t Innsbruck, Austria": [
+    47.263316,
+    11.3844733
+  ],
+  "Politechnika Wroc\u0142awska, Poland": [
+    51.1082768,
+    17.065678
+  ],
+  "Universidad de Barcelona, Spain": [
+    41.3868596,
+    2.1634784
+  ],
+  "Uniwersytet \u0141\u00f3dzki, Poland": [
+    51.7713326,
+    19.4740973
+  ],
+  "Uniwersytet im. Adama Mickiewicza w Poznaniu, Poland": [
+    52.4057651,
+    16.8772406
+  ],
+  "University of Calgary, Canada": [
+    51.0750862,
+    -114.1299504
+  ],
+  "Ivan Franko National University of Lviv, Ukraine": [
+    49.8402168,
+    24.0222881
+  ],
+  "Indian Institute of Technology, Kanpur, India": [
+    26.513188,
+    80.2364843
+  ],
+  "University of Texas at Arlington, United States": [
+    32.7315155,
+    -97.1171533
+  ],
+  "Norges Teknisk-Naturvitenskapelige Universitet, Norway": [
+    63.4200134,
+    10.388817
+  ],
+  "University of North Texas, United States": [
+    33.2098926,
+    -97.1514762
+  ],
+  "Trinity College, Dublin, Ireland": [
+    53.3444162,
+    -6.2589561
+  ],
+  "King's College London, United Kingdom": [
+    51.5030855,
+    -0.0900021
+  ],
+  "Universit\u00e4t Greifswald, Germany": [
+    54.0894347,
+    13.4048743
+  ],
+  "University of Victoria, Canada": [
+    48.46206,
+    -123.3114198
+  ],
+  "Universidad de Zaragoza, Spain": [
+    42.568556,
+    -0.5541832
+  ],
+  "Technische Universit\u00e4t Bergakademie Freiberg, Germany": [
+    50.9249694,
+    13.3316359
+  ],
+  "Universidade do Porto, Portugal": [
+    41.1785423,
+    -8.6022233
+  ],
+  "Universit\u00e0 degli Studi di Milano, Italy": [
+    45.4601133,
+    9.1953195
+  ],
+  "University of St. Andrews, United Kingdom": [
+    56.3398198,
+    -2.8117937
+  ],
+  "Universidade de Santiago de Compostela, Spain": [
+    42.8732494,
+    -8.5535718
+  ],
+  "Montana State University, United States": [
+    45.6639222,
+    -111.079277
+  ],
+  "Universit\u00e9 Sorbonne Paris Nord, France": [
+    48.956638,
+    2.3405983
+  ],
+  "Hong Kong University of Science and Technology, HongKong": [
+    22.3386077,
+    114.2620008
+  ],
+  "Universit\u00e9 de Toulouse, France": [
+    43.5943374,
+    1.4503779
+  ],
+  "Universidad de Valladolid, Spain": [
+    41.6516894,
+    -4.7209841
+  ],
+  "University of Science and Technology of China, China": [
+    31.839072,
+    117.2642075
+  ],
+  "Middle East Technical University, Turkey": [
+    39.8755074,
+    32.7855305
+  ],
+  "Universidad Carlos III de Madrid, Spain": [
+    40.3150937,
+    -3.7248793
+  ],
+  "Fernuniversit\u00e4t Hagen, Germany": [
+    51.3772497,
+    7.4950882
+  ],
+  "University of Strathclyde, United Kingdom": [
+    55.8618812,
+    -4.2419566
+  ],
+  "University of Queensland, Australia": [
+    -27.4981424,
+    153.0111536
+  ],
+  "Universiteit Gent, Belgium": [
+    51.0541965,
+    3.7263286
+  ],
+  "Bowling Green State University, United States": [
+    41.3795005,
+    -83.629789
+  ],
+  "Universitetet i Bergen, Norway": [
+    60.3809342,
+    5.3313021
+  ],
+  "Universidade Federal de Pernambuco, Recife, Brazil": [
+    -8.0524236,
+    -34.9510615
+  ],
+  "Polytechnic University, United States": [
+    37.2219268,
+    -80.4272818
+  ],
+  "\u00c9cole Normale Sup\u00e9rieure de Lyon, France": [
+    45.7297811,
+    4.8265819
+  ],
+  "Universit\u00e0 di Bologna, Italy": [
+    44.4982886,
+    11.354457
+  ],
+  "University College Dublin, Ireland": [
+    53.3068763,
+    -6.2246251
+  ],
+  "Kiev State University, Ukraine": [
+    50.4668998,
+    30.6361463
+  ],
+  "Bergische Universit\u00e4t Wuppertal, Germany": [
+    51.2565046,
+    7.1641526
+  ],
+  "Concordia University, Canada": [
+    45.4952441,
+    -73.5785815
+  ],
+  "York University, Canada": [
+    43.7743325,
+    -79.5002705
+  ],
+  "Universidad Aut\u00f3noma de Barcelona, Spain": [
+    41.5015527,
+    2.1062607
+  ],
+  "Western Michigan University, United States": [
+    42.2832928,
+    -85.6102812
+  ],
+  "Sorbonne Universit\u00e9, France": [
+    48.8379885,
+    2.3611216
+  ],
+  "Turun yliopisto, Finland": [
+    60.4560732,
+    22.2864097
+  ],
+  "New Jersey Institute of Technology, United States": [
+    40.7421254,
+    -74.1790316
+  ],
+  "Universitat Aut\u00f2noma de Barcelona, Catalonia": [
+    41.5015527,
+    2.1062607
+  ],
+  "Indian Institute of Technology, Mumbai, India": [
+    19.1326186,
+    72.9149702
+  ],
+  "Universidad de Chile, Chile": [
+    -33.443867,
+    -70.6506654
+  ],
+  "University of Novi Sad, Serbia": [
+    45.2455876,
+    19.851128
+  ],
+  "University of Miami, United States": [
+    25.7172725,
+    -80.2787069
+  ],
+  "Universit\u00e4t Kassel, Germany": [
+    51.3494162,
+    9.8549227
+  ],
+  "Universit\u00e4t Osnabr\u00fcck, Germany": [
+    52.2724039,
+    8.0394187
+  ],
+  "Universit\u00e4t Trier, Germany": [
+    49.7468633,
+    6.687527
+  ],
+  "University of Essex, United Kingdom": [
+    51.8773639,
+    0.9498751
+  ],
+  "Ohio University, United States": [
+    39.3241782,
+    -82.1015648
+  ],
+  "Huazhong University of Science and Technology, China": [
+    30.5202172,
+    114.4118463
+  ],
+  "Bar-Ilan University, Israel": [
+    32.0693292,
+    34.8433434
+  ],
+  "Islamic Azad University, Iran": [
+    34.8367247,
+    48.5619786
+  ],
+  "Baylor University, United States": [
+    31.5504341,
+    -97.1102906
+  ],
+  "Nanyang Technological University, Singapore": [
+    1.3484104,
+    103.6829332
+  ],
+  "Pontif\u00edcia Universidade Cat\u00f3lica do Rio de Janeiro, Brazil": [
+    -22.9796815,
+    -43.2331377
+  ],
+  "Swansea University, United Kingdom": [
+    51.6080596,
+    -3.9773969
+  ],
+  "Universidade de Bras\u00edlia, Brazil": [
+    -15.8450212,
+    -48.099459
+  ],
+  "Universit\u00e0 degli Studi di Firenze, Italy": [
+    43.7701852,
+    11.290338
+  ],
+  "University of Manitoba, Canada": [
+    49.9042395,
+    -97.1617229
+  ],
+  "Universidade Federal de Minas Gerais, Brazil": [
+    -16.351984,
+    -46.8873725
+  ],
+  "Universitat de Barcelona, Catalonia": [
+    41.3868596,
+    2.1634784
+  ],
+  "University of Rhode Island, United States": [
+    41.4875095,
+    -71.5343138
+  ],
+  "Carl-von-Ossietzky-Universit\u00e4t Oldenburg, Germany": [
+    53.1468345,
+    8.1815753
+  ],
+  "T\u00e9l\u00e9com ParisTech, France": [
+    48.7131108,
+    2.199685
+  ],
+  "Fudan University, China": [
+    31.3011748,
+    121.4974703
+  ],
+  "Dalhousie University, Canada": [
+    44.6362011,
+    -63.5919961
+  ],
+  "Southern Illinois University at Carbondale, United States": [
+    37.7225014,
+    -89.215122
+  ],
+  "Instituto Superior T\u00e9cnico, Portugal": [
+    38.7367455,
+    -9.1383914
+  ],
+  "Stevens Institute of Technology, United States": [
+    40.7448096,
+    -74.0252392
+  ],
+  "Technische Universit\u00e4t Ilmenau, Germany": [
+    50.6824953,
+    10.936496
+  ],
+  "Universit\u00e4t Graz, Austria": [
+    47.0778573,
+    15.4498491
+  ],
+  "Universit\u00e9 Grenoble Alpes, France": [
+    45.1915609,
+    5.7672639
+  ],
+  "Masaryk University, Czech Republic": [
+    49.2099967,
+    16.5992487
+  ],
+  "University of Wyoming, United States": [
+    41.314986,
+    -105.5643222
+  ],
+  "Universiteit Antwerpen, Belgium": [
+    51.2243191,
+    4.4114471
+  ],
+  "Universidad Polit\u00e9cnica de Madrid, Spain": [
+    40.3894172,
+    -3.6282748
+  ],
+  "Saint Louis University, United States": [
+    38.635359,
+    -90.231845
+  ],
+  "Tata Institute of Fundamental Research, India": [
+    18.9071237,
+    72.8049637
+  ],
+  "Tufts University, United States": [
+    42.4064499,
+    -71.1180771
+  ],
+  "The University of Memphis, United States": [
+    35.1189387,
+    -89.9372196
+  ],
+  "University of Alabama-Birmingham, United States": [
+    33.5016153,
+    -86.8060476
+  ],
+  "Cardiff University, United Kingdom": [
+    51.4887426,
+    -3.1795999
+  ],
+  "University of East Anglia, United Kingdom": [
+    52.6210623,
+    1.2356187
+  ],
+  "Universit\u00e4t Siegen, Germany": [
+    50.8930953,
+    8.0317286
+  ],
+  "Politecnico di Milano, Italy": [
+    45.048505,
+    9.7016947
+  ],
+  "Lanzhou University, China": [
+    36.0504988,
+    103.8544558
+  ],
+  "Missouri University of Science and Technology, United States": [
+    37.9532435,
+    -91.7742667
+  ],
+  "Universit\u00e9 de Lausanne, Switzerland": [
+    46.5225695,
+    6.5809499
+  ],
+  "University of Athens, Greece": [
+    37.970038,
+    23.7652367
+  ],
+  "Queen Mary, University of London, United Kingdom": [
+    51.5247403,
+    -0.0393136
+  ],
+  "Universit\u00e9 Pantheon-Sorbonne : Paris I, France": [
+    48.8470126,
+    2.3440371
+  ],
+  "National Taiwan University, Taiwan": [
+    25.0168175,
+    121.5384571
+  ],
+  "Claremont Graduate University, United States": [
+    34.1103852,
+    -117.7175884
+  ],
+  "Universidade de Lisboa, Portugal": [
+    38.7525379,
+    -9.1568456
+  ],
+  "Georgia State University, United States": [
+    33.7535889,
+    -84.3854209
+  ],
+  "Universit\u00e9 de Lille I, France": [
+    50.6087884,
+    3.1327581
+  ],
+  "Ural State University, Russia": [
+    56.8260253,
+    60.5960503
+  ],
+  "University of Sofia, Bulgaria": [
+    42.6552239,
+    23.3550724
+  ],
+  "Ben-Gurion University of the Negev, Israel": [
+    31.2631254,
+    34.8022385
+  ],
+  "University of Arkansas, United States": [
+    36.0970389,
+    -94.1703322
+  ],
+  "University of Reading, United Kingdom": [
+    51.4404358,
+    -0.9417618
+  ],
+  "Ferdowsi University of Mashhad, Iran": [
+    36.3096482,
+    59.5293728
+  ],
+  "Universidad Nacional de C\u00f3rdoba, Argentina": [
+    -31.4369591,
+    -64.1876756
+  ],
+  "North Dakota State University, United States": [
+    46.897155,
+    -96.8182654
+  ],
+  "Indian Institute of Technology, Madras, India": [
+    12.9941561,
+    80.2366826
+  ],
+  "Vrije Universiteit Brussel, Belgium": [
+    50.8225529,
+    4.3954915
+  ],
+  "Utah State University, United States": [
+    41.7526959,
+    -111.808733
+  ],
+  "Universiteit Maastricht, Netherlands": [
+    50.8395403,
+    5.707885
+  ],
+  "Universitat Polit\u00e8cnica de Catalunya, Catalonia": [
+    41.2214475,
+    1.7301449
+  ],
+  "Polska Akademia Nauk, Poland": [
+    52.2377936,
+    21.0181978
+  ],
+  "University of Colorado at Denver, United States": [
+    39.6677728,
+    -104.9360342
+  ],
+  "University of Newcastle, Australia": [
+    -32.8950307,
+    151.6978663
+  ],
+  "Universit\u00e9 de Rouen, France": [
+    49.3849168,
+    1.0720751
+  ],
+  "Wesleyan University, United States": [
+    41.5559033,
+    -72.6559884
+  ],
+  "University of Debrecen, Hungary": [
+    47.55395,
+    21.6215676
+  ],
+  "Universit\u00e9 de Fribourg, Switzerland": [
+    46.8073915,
+    7.1527741
+  ],
+  "Universidade Federal do Rio Grande do Sul, Brazil": [
+    -29.7232062,
+    -53.7204087
+  ],
+  "Drexel University, United States": [
+    39.9569305,
+    -75.1899265
+  ],
+  "Brandenburgische Technische Universit\u00e4t Cottbus, Germany": [
+    51.7670579,
+    14.3250723
+  ],
+  "G\u00f6teborgs universitet, Sweden": [
+    57.6985465,
+    11.9712422
+  ],
+  "University of Hong Kong, HongKong": [
+    22.2826975,
+    114.138455
+  ],
+  "National Chiao Tung University, Taiwan": [
+    24.7867677,
+    120.9972441
+  ],
+  "Universidade de Coimbra, Portugal": [
+    40.1861497,
+    -8.4152502
+  ],
+  "Universiteit Stellenbosch, South Africa": [
+    -33.9326212,
+    18.8650551
+  ],
+  "Macquarie University, Australia": [
+    -33.774197,
+    151.1127138
+  ],
+  "Universit\u00e9 de Franche-Comt\u00e9, France": [
+    47.2360829,
+    6.0147827
+  ],
+  "Universit\u00e9 de Li\u00e8ge, Belgium": [
+    50.6388818,
+    5.579548
+  ],
+  "University of Patras, Greece": [
+    38.2869279,
+    21.7851062
+  ],
+  "University of Tartu, Estonia": [
+    58.381014,
+    26.7195598
+  ],
+  "Indian Institute of Science, India": [
+    13.0222347,
+    77.5671832
+  ],
+  "Uniwersytet \u015al\u0105ski w Katowicach, Poland": [
+    50.2606627,
+    19.0292035
+  ],
+  "University of Szeged, Hungary": [
+    46.2500455,
+    20.1465034
+  ],
+  "Czech Technical University, Czech Republic": [
+    50.1029026,
+    14.3946353
+  ],
+  "Universitat Polit\u00e8cnica de Val\u00e8ncia, Spain": [
+    39.4808517,
+    -0.3420311
+  ],
+  "Universit\u00e0 degli Studi di Napoli Federico II , Italy": [
+    40.847759,
+    14.2566037
+  ],
+  "Universit\u00e9 de Pau et des Pays de l'Adour, France": [
+    43.3146145,
+    -0.3653306
+  ],
+  "National Technical University of Athens, Greece": [
+    37.9878,
+    23.7317689
+  ],
+  "The American University, United States": [
+    37.8650313,
+    -122.2558215
+  ],
+  "University of Cape Town, South Africa": [
+    -33.9567558,
+    18.4675777
+  ],
+  "Technical University of Denmark, Denmark": [
+    55.7854145,
+    12.5202151
+  ],
+  "Yerevan State University, Armenia": [
+    40.1826439,
+    44.5272916
+  ],
+  "Universit\u00e9 de Bourgogne, France": [
+    47.3133052,
+    5.0688626
+  ],
+  "Universit\u00e9 de Caen Normandie, France": [
+    48.4447651,
+    0.0591698
+  ],
+  "University of Hawaii, United States": [
+    21.3320662,
+    -157.9218882
+  ],
+  "University of New Hampshire, United States": [
+    43.1350987,
+    -70.9462079
+  ],
+  "University of Saskatchewan, Canada": [
+    52.1344194,
+    -106.6277768
+  ],
+  "Universit\u00e9 de Strasbourg, France": [
+    48.5831481,
+    7.7728728
+  ],
+  "Universit\u00e4t Passau, Germany": [
+    48.5675496,
+    13.452108
+  ],
+  "Universit\u00e9 de Neuch\u00e2tel, Switzerland": [
+    46.9942391,
+    6.9375826
+  ],
+  "University of Wollongong, Australia": [
+    -34.4050554,
+    150.8783465
+  ],
+  "Uniwersytet Marii Curie-Sk\u0142odowskiej, Poland": [
+    51.242925,
+    22.5419752
+  ],
+  "Osaka University, Japan": [
+    34.5111992,
+    135.631448
+  ],
+  "Virginia Commonwealth University, United States": [
+    37.5461247,
+    -77.4540609
+  ],
+  "Universit\u00e9 de Nantes, France": [
+    47.2822396,
+    -1.5151203
+  ],
+  "Universit\u00e4t K\u00f6nigsberg, Germany": [
+    51.433254,
+    6.9201244
+  ],
+  "East China Normal University, China": [
+    31.2284923,
+    121.4021139
+  ],
+  "Northern Illinois University, United States": [
+    41.9370934,
+    -88.7826784
+  ],
+  "Comenius University, Slovakia": [
+    48.1402969,
+    17.1158258
+  ],
+  "Sharif University of Technology, Iran": [
+    35.7027174,
+    51.35172
+  ],
+  "Florida Atlantic University, United States": [
+    26.1194037,
+    -80.1416919
+  ],
+  "University of Delhi, India": [
+    28.6883446,
+    77.2147882
+  ],
+  "Boston College, United States": [
+    42.3354481,
+    -71.1682665
+  ],
+  "University of Aberdeen, United Kingdom": [
+    57.1645248,
+    -2.1018364
+  ],
+  "University of Pune, India": [
+    18.5528441,
+    73.8266441
+  ],
+  "University of Western Australia, Australia": [
+    -31.950652,
+    115.7978755
+  ],
+  "Universit\u00e9 de Montpellier, France": [
+    43.6331162,
+    3.8605852
+  ],
+  "Universidad de Oviedo, Spain": [
+    43.353527,
+    -5.875013
+  ],
+  "University of South Australia, Australia": [
+    -37.8062142,
+    140.766463
+  ],
+  "Aalto-yliopisto, Finland": [
+    60.1844626,
+    24.8235709
+  ],
+  "University of Leicester, United Kingdom": [
+    52.6118219,
+    -1.1064551
+  ],
+  "University of Mississippi, United States": [
+    34.3646125,
+    -89.5396349
+  ],
+  "Tarbiat Modares University, Iran": [
+    35.72344,
+    51.3839097
+  ],
+  "Universit\u00e9 de Bordeaux, France": [
+    44.8312782,
+    -0.5708167
+  ],
+  "Zhejiang University, China": [
+    30.521595,
+    120.7195312
+  ],
+  "Loughborough University, United Kingdom": [
+    52.763845,
+    -1.2372582
+  ],
+  "West Virginia University, United States": [
+    39.6348398,
+    -79.9542095
+  ],
+  "Universit\u00e9 de Poitiers, France": [
+    46.5684757,
+    0.3838585
+  ],
+  "The University of North Carolina at Charlotte, United States": [
+    35.3064945,
+    -80.7349705
+  ],
+  "Wuhan University, China": [
+    30.5373581,
+    114.361517
+  ],
+  "Universit\u00e9 du Luxembourg, Luxembourg": [
+    49.6264594,
+    6.1592045
+  ],
+  "Kyushu University, Japan": [
+    33.6707768,
+    130.4444986
+  ],
+  "Russian Academy of Sciences, Russia": [
+    55.7108089,
+    37.5789699
+  ],
+  "\u00c9cole Normale Sup\u00e9rieure, France": [
+    48.8417072,
+    2.3447923
+  ],
+  "Ume\u00e5 University, Sweden": [
+    63.8217763,
+    20.3043163
+  ],
+  "Old Dominion University, United States": [
+    36.8862699,
+    -76.3097248
+  ],
+  "College of William and Mary, United States": [
+    37.2690934,
+    -76.7220509
+  ],
+  "Hungarian Academy of Sciences, Hungary": [
+    47.5012627,
+    19.0461337
+  ],
+  "Clarkson University, United States": [
+    44.6595887,
+    -75.0062397
+  ],
+  "University of Exeter, United Kingdom": [
+    50.1701604,
+    -5.1241802
+  ],
+  "Politechnika Warszawska, Poland": [
+    52.2216394,
+    21.0073798
+  ],
+  "Universit\u00e9 Paris-Est, France": [
+    48.7882159,
+    2.4439219
+  ],
+  "Universit\u00e9 d'Orl\u00e9ans, France": [
+    47.8416678,
+    1.9366943
+  ],
+  "Florida Institute of Technology, United States": [
+    28.064271,
+    -80.623004
+  ],
+  "Universidad de Cantabria, Spain": [
+    43.4714973,
+    -3.8018803
+  ],
+  "University of the Witwatersrand, South Africa": [
+    -26.1888766,
+    28.0247912
+  ],
+  "University of Mumbai, India": [
+    19.0239129,
+    72.8587665
+  ],
+  "Universit\u00e9 de Picardie Jules Verne, France": [
+    49.8741955,
+    2.268363
+  ],
+  "Teknillinen korkeakoulu, Finland": [
+    61.4496421,
+    23.8587746
+  ],
+  "King Abdullah University of Science and Technology, Saudi Arabia": [
+    22.3223754,
+    39.1173835
+  ],
+  "University of Dundee, United Kingdom": [
+    56.4579676,
+    -2.9821483
+  ],
+  "Universit\u00e4t der Bundeswehr M\u00fcnchen, Germany": [
+    48.0766313,
+    11.6359736
+  ],
+  "University of Ni\u0161, Serbia": [
+    43.3228731,
+    21.8931957
+  ],
+  "University College Cork, Ireland": [
+    51.8947384,
+    -8.4903073
+  ],
+  "University of Montana, United States": [
+    46.8541841,
+    -113.9655283
+  ],
+  "Universidad Nacional del Sur, Argentina": [
+    -38.6943186,
+    -62.247165
+  ],
+  "Yaroslavl State University, Russia": [
+    57.632969,
+    39.8868639
+  ],
+  "Technische Universit\u00e4t Clausthal, Germany": [
+    51.8019554,
+    10.3455053
+  ],
+  "Nagoya University, Japan": [
+    35.1533086,
+    136.9677806
+  ],
+  "Universit\u00e9 de B\u00e9ja\u00efa, Algeria": [
+    36.7040811,
+    5.0535872
+  ],
+  "Indian Institute of Technology Delhi, India": [
+    28.5449971,
+    77.1891506
+  ],
+  "City University of Hong Kong, HongKong": [
+    22.3400205,
+    114.1697162
+  ],
+  "University of Massachusetts Lowell, United States": [
+    42.6519097,
+    -71.3173628
+  ],
+  "Pohang University of Science and Technology, South Korea": [
+    36.0180795,
+    129.3208556
+  ],
+  "Nanjing University, China": [
+    32.0565957,
+    118.7740883
+  ],
+  "Pontificia Universidad Cat\u00f3lica de Chile, Chile": [
+    -33.4417749,
+    -70.6403258
+  ],
+  "Universit\u00e0 degli Studi di Pavia, Italy": [
+    45.1869265,
+    9.1568768
+  ],
+  "Shanghai University, China": [
+    31.3159206,
+    121.3880243
+  ],
+  "Universit\u00e9 Tunis-El Manar, Tunisia": [
+    36.829187,
+    10.146311
+  ],
+  "University of Isfahan, Iran": [
+    32.6220743,
+    51.6610219
+  ],
+  "Universit\u00e9 de Lorraine, France": [
+    49.1199381,
+    6.1613478
+  ],
+  "Universidad Nacional de Colombia, Colombia": [
+    4.6387426,
+    -74.0852375
+  ],
+  "University of Guelph, Canada": [
+    43.5327864,
+    -80.2249974
+  ],
+  "Indian Institute of Technology, India": [
+    25.2621544,
+    82.9925896
+  ],
+  "La Trobe University, Australia": [
+    -37.7170218,
+    145.0439453
+  ],
+  "University of Regina, Canada": [
+    50.4152275,
+    -104.589
+  ],
+  "Shandong University, China": [
+    36.3655393,
+    120.6845859
+  ],
+  "Mississippi State University, United States": [
+    33.4386876,
+    -88.7943232
+  ],
+  "Uniwersytet Miko\u0142aja Kopernika, Poland": [
+    53.0211845,
+    18.5688082
+  ],
+  "University of Pretoria, South Africa": [
+    -25.7543354,
+    28.2308578
+  ],
+  "Beijing Normal University, China": [
+    39.9597631,
+    116.359724
+  ],
+  "Colorado School of Mines, United States": [
+    39.7386338,
+    -105.2246389
+  ],
+  "University of Kent, Canterbury, United Kingdom": [
+    51.2950874,
+    1.0673313
+  ],
+  "King Mongkut's University of Technology Thonburi, Thailand": [
+    13.6517717,
+    100.4944087
+  ],
+  "National University of Ireland, Galway, Ireland": [
+    53.2936337,
+    -9.0750599
+  ],
+  "Aalborg Universitet, Denmark": [
+    57.0159071,
+    9.9753082
+  ],
+  "Universidad de M\u00e1laga, Spain": [
+    36.7165576,
+    -4.4953364
+  ],
+  "University of Bridgeport, United States": [
+    41.1646585,
+    -73.1904612
+  ],
+  "\u00c9cole Centrale, France": [
+    -20.8804615,
+    55.4540311
+  ],
+  "Ankara University, Turkey": [
+    40.1311453,
+    32.9512024
+  ],
+  "Tohoku University, Japan": [
+    38.2531931,
+    140.8292395
+  ],
+  "Bo\u011fazi\u00e7i University, Turkey": [
+    41.0832734,
+    29.0505009
+  ],
+  "Kazan State University, Russia": [
+    55.8161754,
+    49.0950551
+  ],
+  "Dublin City University, Ireland": [
+    53.3864895,
+    -6.2592607
+  ],
+  "University of New Brunswick, Canada": [
+    45.9455202,
+    -66.6401861
+  ],
+  "Clark University, United States": [
+    42.2514681,
+    -71.8229509
+  ],
+  "Nankai University, China": [
+    39.1034775,
+    117.1621788
+  ],
+  "Shanghai Jiao Tong University, China": [
+    31.2008912,
+    121.4283949
+  ],
+  "Lule\u00e5 University of Technology, Sweden": [
+    65.6182538,
+    22.1383085
+  ],
+  "Oulun yliopisto, Finland": [
+    65.0593277,
+    25.4673577
+  ],
+  "Brigham Young University, United States": [
+    40.2554083,
+    -111.6496832
+  ],
+  "Aberystwyth University, United Kingdom": [
+    52.4155496,
+    -4.0650542
+  ],
+  "Ivane Javakhishvili Tbilisi State University, Georgia": [
+    41.7170674,
+    44.7213757
+  ],
+  "Odesa University, Ukraine": [
+    46.4526153,
+    30.7571929
+  ],
+  "University of Toledo, United States": [
+    41.6582432,
+    -83.6147873
+  ],
+  "Universidade de Aveiro, Portugal": [
+    40.6320293,
+    -8.6597957
+  ],
+  "Howard University, United States": [
+    38.9218972,
+    -77.0195931
+  ],
+  "Universit\u00e0 di Genova, Italy": [
+    44.4148861,
+    8.9266707
+  ],
+  "Universit\u00e0 di Torino, Italy": [
+    45.0699309,
+    7.6903562
+  ],
+  "European University Institute, Firenze, Italy": [
+    43.802566,
+    11.2829889
+  ],
+  "Universidad Nacional de La Plata, Argentina": [
+    -34.9124004,
+    -57.9566071
+  ],
+  "Politechnika \u0141\u00f3dzka, Poland": [
+    51.752577,
+    19.4529575
+  ],
+  "University of Canterbury, New Zealand": [
+    -43.5240894,
+    172.5803004
+  ],
+  "Yeshiva University, United States": [
+    40.8489807,
+    -73.9298403
+  ],
+  "Worcester Polytechnic Institute, United States": [
+    42.274315,
+    -71.8084567
+  ],
+  "Adelphi University, United States": [
+    40.7197638,
+    -73.6519719
+  ],
+  "Universit\u00e9 de la M\u00e9diterran\u00e9e, France": [
+    43.5747148,
+    1.4024391
+  ],
+  "University of Missouri - Kansas City, United States": [
+    39.0313232,
+    -94.5741909
+  ],
+  "Indian Institute of Science, Bangalore, India": [
+    13.0222347,
+    77.5671832
+  ],
+  "Brunel University, United Kingdom": [
+    51.5326092,
+    -0.4740499
+  ],
+  "Louisiana Tech University, United States": [
+    32.5261061,
+    -92.6481217
+  ],
+  "Universidad Aut\u00f3noma Metropolitana-Iztapalapa, Mexico": [
+    19.3620769,
+    -99.0728976
+  ],
+  "The Institute of Mathematical Sciences, Chennai, India": [
+    12.9940631,
+    80.2473355
+  ],
+  "Aristotle University of Thessaloniki, Greece": [
+    40.6296719,
+    22.9591469
+  ],
+  "Portland State University, United States": [
+    45.5118121,
+    -122.686121
+  ],
+  "Bilkent Universitesi, Turkey": [
+    39.870469,
+    32.7539193
+  ],
+  "Universit\u00e4t zu L\u00fcbeck, Germany": [
+    53.8364566,
+    10.7067179
+  ],
+  "University of Idaho, United States": [
+    46.7237978,
+    -117.020439
+  ],
+  "Universitetet i Troms\u00f8 \u2013 Norges arktiske universitet, Norway": [
+    69.6819069,
+    18.9724906
+  ],
+  "Universidad Central de Venezuela, Venezuela": [
+    10.4901789,
+    -66.8916633
+  ],
+  "Universidade Federal de S\u00e3o Carlos, Brazil": [
+    -21.9834422,
+    -47.8806644
+  ],
+  "National Tsing Hua University, Taiwan": [
+    24.7916987,
+    120.9924295
+  ],
+  "Calcutta University, India": [
+    22.4847326,
+    88.3447527
+  ],
+  "Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al, Canada": [
+    45.5132253,
+    -73.5614111
+  ],
+  "Universidad de Concepci\u00f3n, Chile": [
+    -36.8310137,
+    -73.0346809
+  ],
+  "Universidad del Pa\u00eds Vasco, Spain": [
+    43.1801604,
+    -2.4881732
+  ],
+  "University of Southern Denmark, Denmark": [
+    55.3678532,
+    10.4280534
+  ],
+  "The Open University, United Kingdom": [
+    52.0245378,
+    -0.7092748
+  ],
+  "University of Northern Colorado, United States": [
+    40.4028503,
+    -104.7017242
+  ],
+  "Universit\u00e9 de Limoges, France": [
+    45.8260427,
+    1.2585756
+  ],
+  "Instituto Polit\u00e9cnico Nacional, Mexico": [
+    20.6777272,
+    -105.2225741
+  ],
+  "Florida International University, United States": [
+    25.7553898,
+    -80.3762833
+  ],
+  "Universit\u00e9 Mohammed V -Agdal, Rabat, Morocco": [
+    33.9989406,
+    -6.8426478
+  ],
+  "\u00c9cole des hautes \u00e9tudes en sciences sociales Paris, France": [
+    48.8501342,
+    2.3265803
+  ],
+  "University of South Africa, South Africa": [
+    -25.7509078,
+    28.1938366
+  ],
+  "Memorial University of Newfoundland, Canada": [
+    47.5731529,
+    -52.7356266
+  ],
+  "Universitat Rovira i Virgili, Spain": [
+    41.1226832,
+    1.2501587
+  ],
+  "University of Tehran, Iran": [
+    35.704584,
+    51.394761
+  ],
+  "Indian Institute of Technology, Kharagpur, India": [
+    22.3144275,
+    87.310392
+  ],
+  "Harbin Institute of Technology, China": [
+    45.741589,
+    126.6255626
+  ],
+  "Technische Universit\u00e4t Hamburg-Harburg, Germany": [
+    53.4610001,
+    9.9692264
+  ],
+  "Universidad de Murcia, Spain": [
+    38.0147121,
+    -1.1676358
+  ],
+  "University of Madras, India": [
+    13.0660075,
+    80.2828423
+  ],
+  "Universit\u00e9 de Sherbrooke, Canada": [
+    45.3787408,
+    -71.9297044
+  ],
+  "Illinois State University, United States": [
+    40.5179938,
+    -89.0084607
+  ],
+  "Institut Teknologi Bandung, Indonesia": [
+    -6.8904487,
+    107.6103136
+  ],
+  "Universidade Federal do Cear\u00e1, Brazil": [
+    -4.980084,
+    -39.0564813
+  ],
+  "Michigan Technological University, United States": [
+    47.1099114,
+    -88.5511513
+  ],
+  "Univerza v Mariboru, Slovenia": [
+    46.5592325,
+    15.6432937
+  ],
+  "Hasselt University, Belgium": [
+    50.9255585,
+    5.3910826
+  ],
+  "Flinders University, Australia": [
+    -35.0248753,
+    138.5734181
+  ],
+  "Scuola Internazionale Superiore di Studi Avanzati, Trieste, Italy": [
+    45.6786658,
+    13.7749912
+  ],
+  "Universit\u00e9 C\u00f4te d'Azur, France": [
+    43.7170132,
+    7.2675774
+  ],
+  "Akademia G\u00f3rniczo-Hutnicza, Poland": [
+    50.0657033,
+    19.9189587
+  ],
+  "Universidad de La Laguna, Spain": [
+    28.4847043,
+    -16.3128346
+  ],
+  "Air Force Institute of Technology, United States": [
+    39.7823735,
+    -84.0825729
+  ],
+  "Moscow Institute of Physics and Technology, Russia": [
+    55.929035,
+    37.5186681
+  ],
+  "Central European University, Hungary": [
+    47.5009116,
+    19.0499892
+  ],
+  "Chinese University of Hong Kong, China": [
+    22.4140914,
+    114.2100208
+  ],
+  "Shahid Beheshti University, Iran": [
+    35.8025136,
+    51.3932697
+  ],
+  "Shahid Chamran University of Ahvaz, Iran": [
+    31.3031086,
+    48.652823
+  ],
+  "National University of Ireland, Maynooth, Ireland": [
+    53.3847002,
+    -6.6003964
+  ],
+  "Texas Christian University, United States": [
+    32.7080148,
+    -97.3611939
+  ],
+  "Universit\u00e9 Savoie Mont Blanc, France": [
+    45.559718,
+    5.9124583
+  ],
+  "Bharathiar University, India": [
+    11.0369574,
+    76.8792694
+  ],
+  "Universidad de Salamanca, Spain": [
+    40.9613267,
+    -5.6672043
+  ],
+  "West University of Timisoara, Romania": [
+    45.7473293,
+    21.231261
+  ],
+  "Universidad Nacional de San Luis, Argentina": [
+    -33.2915212,
+    -66.3400936
+  ],
+  "Indian Institute of Technology Guwahati, India": [
+    26.1924787,
+    91.6946357
+  ],
+  "Budapest University of Technology and Economics, Hungary": [
+    47.4784386,
+    19.0577145
+  ],
+  "Sidi Bel Abbes University, Algeria": [
+    35.1795014,
+    -0.660442
+  ],
+  "Bangor University, United Kingdom": [
+    53.2300234,
+    -4.130082
+  ],
+  "Istanbul University, Turkey": [
+    41.0132424,
+    28.9637609
+  ],
+  "Cochin University of Science and Technology, India": [
+    10.0449079,
+    76.3261437
+  ],
+  "Allahabad University, India": [
+    25.4601897,
+    81.8523782
+  ],
+  "Universit\u00e9 d'Avignon, France": [
+    43.9492784,
+    4.8193738
+  ],
+  "The Hong Kong Polytechnic University, HongKong": [
+    22.3044867,
+    114.1796935
+  ],
+  "Institut Polytechnique de Paris, France": [
+    48.7139028,
+    2.2141075
+  ],
+  "University of the Philippines, Philippines": [
+    14.6553595,
+    121.0554022
+  ],
+  "Universit\u00e9 de Cergy-Pontoise, France": [
+    48.9003625,
+    2.0697041
+  ],
+  "\u00c9cole Normale Sup\u00e9rieure Paris, France": [
+    48.8417072,
+    2.3447923
+  ],
+  "Central Michigan University, United States": [
+    43.58355,
+    -84.7746308
+  ],
+  "Hong Kong Baptist University, HongKong": [
+    22.337988,
+    114.1826259
+  ],
+  "Panjab University, Chandigarh, India": [
+    30.7602415,
+    76.7664916
+  ],
+  "Tokyo Institute of Technology, Japan": [
+    35.6050487,
+    139.682751
+  ],
+  "University of Surrey, United Kingdom": [
+    51.2430782,
+    -0.5900545
+  ],
+  "University of Gdansk, Poland": [
+    54.396405,
+    18.57401
+  ],
+  "Universit\u00e9 d'Angers, France": [
+    47.4803871,
+    -0.601219
+  ],
+  "University of Ibadan, Nigeria": [
+    7.4477245,
+    3.8967116
+  ],
+  "University of Sarajevo, Bosnia Herzegovina": [
+    43.8238836,
+    18.3085122
+  ],
+  "Yonsei University, South Korea": [
+    37.567836,
+    126.9393747
+  ],
+  "Georgetown University, United States": [
+    38.9089393,
+    -77.0745796
+  ],
+  "University of Nevada, Reno, United States": [
+    39.5442688,
+    -119.8163105
+  ],
+  "Aligarh Muslim University, India": [
+    10.9234226,
+    76.2427604
+  ],
+  "Univerzita Pavla Jozefa \u0160af\u00e1rika v Ko\u0161iciach, Slovakia": [
+    48.7202089,
+    21.2509388
+  ],
+  "Universit\u00e9 Blaise Pascal, France": [
+    45.7603213,
+    3.1124951
+  ],
+  "Universidade Nova de Lisboa, Portugal": [
+    38.7328407,
+    -9.1602002
+  ],
+  "Universidade Federal da Para\u00edba, Brazil": [
+    -6.7505593,
+    -35.6454502
+  ],
+  "Rutgers University, Newark, United States": [
+    40.7406871,
+    -74.174889
+  ],
+  "Institut National Polytechnique de Toulouse, France": [
+    43.5533611,
+    1.5011523
+  ],
+  "Massey University, New Zealand": [
+    -36.7327011,
+    174.7026709
+  ],
+  "It\u00e4-Suomen yliopisto, Finland": [
+    62.6043509,
+    29.7422326
+  ],
+  "Xi'an Jiaotong University, China": [
+    31.2757194,
+    120.7354789
+  ],
+  "Isfahan University of Technology, Iran": [
+    32.7186844,
+    51.5341465
+  ],
+  "Bryn Mawr College, United States": [
+    40.0286808,
+    -75.3154551
+  ],
+  "University of Crete, Greece": [
+    35.3072756,
+    25.0824949
+  ],
+  "Universiti Teknologi Malaysia, Malaysia": [
+    1.5585223,
+    103.6399138
+  ],
+  "Harish-Chandra Research Institute, India": [
+    25.4116116,
+    81.9094172
+  ],
+  "Universit\u00e9 de Tours, France": [
+    47.383661,
+    0.6735173
+  ],
+  "\u00c9cole Nationale des Ponts et Chauss\u00e9es, France": [
+    48.8411282,
+    2.5882677
+  ],
+  "Universit\u00e4t Salzburg, Austria": [
+    47.8218585,
+    13.0405278
+  ],
+  "Universit\u00e9 Hassan II de Casablanca, Morocco": [
+    33.5419806,
+    -7.6596215
+  ],
+  "Waseda University, Japan": [
+    35.7091798,
+    139.7197213
+  ],
+  "University of KwaZulu-Natal, South Africa": [
+    -29.8664426,
+    30.9813099
+  ],
+  "Universit\u00e0 degli Studi di Udine, Italy": [
+    46.0673056,
+    13.2319945
+  ],
+  "University of Windsor, Canada": [
+    42.3052803,
+    -83.0665413
+  ],
+  "Universidade T\u00e9cnica de Lisboa, Portugal": [
+    38.7148959,
+    -9.1939449
+  ],
+  "Universit\u00e9 de Technologie de Compi\u00e8gne, France": [
+    49.4014677,
+    2.7952289
+  ],
+  "University of Tabriz, Iran": [
+    37.9298041,
+    46.1512104
+  ],
+  "University of Southern Mississippi, United States": [
+    31.3286452,
+    -89.3367312
+  ],
+  "Xiamen University, China": [
+    24.4399419,
+    118.0930178
+  ],
+  "Universit\u00e0 della Svizzera italiana, Switzerland": [
+    46.0109126,
+    8.9581205
+  ],
+  "University of Hyderabad, India": [
+    17.4530357,
+    78.3270312
+  ],
+  "Southern Federal University, Russia": [
+    47.2164127,
+    39.6315514
+  ],
+  "Universidad Nacional del Litoral, Argentina": [
+    -31.6346663,
+    -60.7051439
+  ],
+  "Vidyasagar University, India": [
+    22.4310303,
+    87.2979888
+  ],
+  "University of Haifa, Israel": [
+    32.7609456,
+    35.0204641
+  ],
+  "Universidad de Vigo, Spain": [
+    42.1836893,
+    -8.8134096
+  ],
+  "Jadavpur University, India": [
+    22.4995216,
+    88.3711493
+  ],
+  "University of Vermont, United States": [
+    44.4737365,
+    -73.1941468
+  ],
+  "University of Jammu, India": [
+    32.7182619,
+    74.8694345
+  ],
+  "Universit\u00e9 Paris IV-Sorbonne, France": [
+    48.8486358,
+    2.3436034
+  ],
+  "Universidad Nacional de Rosario, Argentina": [
+    -32.9461498,
+    -60.6370036
+  ],
+  "Universit\u00e9 Cheikh Anta Diop, Senegal": [
+    14.6872494,
+    -17.4644464
+  ],
+  "Facult\u00e9 des Sciences, Paris, France": [
+    48.8468997,
+    2.3574487
+  ],
+  "University of Hong Kong, China": [
+    22.2826975,
+    114.138455
+  ],
+  "Iran University of Science and Technology, Iran": [
+    35.7427943,
+    51.5057386
+  ],
+  "Marquette University, United States": [
+    43.0374344,
+    -87.9294774
+  ],
+  "Sichuan University, China": [
+    30.5601863,
+    103.9973029
+  ],
+  "Athens University of Economics and Business, Greece": [
+    37.9940527,
+    23.7324592
+  ],
+  "Universidade Federal do Paran\u00e1, Brazil": [
+    -23.598444,
+    -51.6733592
+  ],
+  "University of Maine, United States": [
+    44.9015188,
+    -68.6617222
+  ],
+  "Universit\u00e0 degli Studi di Bari, Italy": [
+    40.4504644,
+    17.2656156
+  ],
+  "Universit\u00e9 de Valenciennes et du Hainaut-Cambr\u00e9sis, France": [
+    50.3246878,
+    3.5099489
+  ],
+  "Universidade Federal do Rio Grande do Norte, Brazil": [
+    -5.8377994,
+    -35.2039783
+  ],
+  "Alpen-Adria-Universit\u00e4t Klagenfurt, Austria": [
+    46.6164026,
+    14.2646809
+  ],
+  "Universit\u00e9 des sciences et de la technologie Houari-Boumediene, Algeria": [
+    36.7121849,
+    3.1810204
+  ],
+  "University of California, Merced, United States": [
+    37.365182,
+    -120.4225275
+  ],
+  "University of Limerick, Ireland": [
+    52.6732581,
+    -8.5698097
+  ],
+  "University of Louisville, United States": [
+    38.2133224,
+    -85.7577075
+  ],
+  "Oakland University, United States": [
+    42.6666333,
+    -83.2065575
+  ],
+  "City, University of London, United Kingdom": [
+    51.5276574,
+    -0.103605
+  ],
+  "Chulalongkorn University, Thailand": [
+    13.7431114,
+    100.5328752
+  ],
+  "Gauhati University, India": [
+    26.1534107,
+    91.6657647
+  ],
+  "Imam Khomeini International University, Iran": [
+    36.3216299,
+    50.0082858
+  ],
+  "Universit\u00e9 de Bretagne Occidentale, France": [
+    47.9813699,
+    -4.0975252
+  ],
+  "Universit\u00e9 Paris Cit\u00e9, France": [
+    48.8514684,
+    2.341089
+  ],
+  "Universit\u00e9 de Lyon, France": [
+    45.7297811,
+    4.8265819
+  ],
+  "Wichita State University, United States": [
+    37.719343,
+    -97.2898878
+  ],
+  "Tongji University, China": [
+    31.2847393,
+    121.4969491
+  ],
+  "Donetsk University, Ukraine": [
+    47.9943135,
+    37.8032032
+  ],
+  "University of the Punjab, Pakistan": [
+    31.4886984,
+    74.2926335
+  ],
+  "Universit\u00e0 di Palermo, Italy": [
+    38.0333906,
+    12.5348262
+  ],
+  "Czech Technical University in Prague, Czech Republic": [
+    50.1029026,
+    14.3946353
+  ],
+  "Jacobs University Bremen, Germany": [
+    53.1675194,
+    8.6511191
+  ],
+  "University of Denver, United States": [
+    39.6766157,
+    -104.9623745
+  ],
+  "\u00c5bo Akademi University, Finland": [
+    60.4534537,
+    22.2794289
+  ],
+  "Universidad Nacional de Educaci\u00f3n a Distancia, Spain": [
+    40.3530581,
+    -1.1114493
+  ],
+  "Naval Postgraduate School, United States": [
+    36.596924,
+    -121.8732706
+  ],
+  "University of Arkansas at Little Rock, United States": [
+    34.7223681,
+    -92.3383026
+  ],
+  "IT University of Copenhagen, Denmark": [
+    55.6596553,
+    12.5910769
+  ],
+  "Universit\u00e0 degli Studi di Milano-Bicocca, Italy": [
+    45.518276,
+    9.2139042
+  ],
+  "Universit\u00e9 Gaston Berger, Senegal": [
+    16.0632055,
+    -16.4238814
+  ],
+  "City University of Hong Kong, China": [
+    22.3400205,
+    114.1697162
+  ],
+  "University of Technology, Sydney, Australia": [
+    -33.8832536,
+    151.2003294
+  ],
+  "Victoria University of Wellington, New Zealand": [
+    -36.8482415,
+    174.767756
+  ],
+  "Madurai Kamaraj University, India": [
+    18.9706634,
+    72.8170518
+  ],
+  "Universidad Rey Juan Carlos, Spain": [
+    40.3361179,
+    -3.8771203
+  ],
+  "University of Alabama in Huntsville, United States": [
+    34.7257273,
+    -86.640922
+  ],
+  "\u0130stanbul Teknik \u00dcniversitesi, Turkey": [
+    41.1050465,
+    29.0263114
+  ],
+  "Hacettepe \u00dcniversitesi, Turkey": [
+    39.8674482,
+    32.7353845
+  ],
+  "Jilin University, China": [
+    43.8801188,
+    125.3011857
+  ],
+  "Thammasat University, Thailand": [
+    18.3173369,
+    99.3996064
+  ],
+  "University of Nevada, Las Vegas, United States": [
+    36.0996405,
+    -115.14675
+  ],
+  "Universidade Federal de Santa Catarina, Brazil": [
+    -27.6034133,
+    -48.5224425
+  ],
+  "Keio University, Japan": [
+    35.5538164,
+    139.6414098
+  ],
+  "Moldova State University, Moldova": [
+    47.0188945,
+    28.8244644
+  ],
+  "University of Cyprus, Cyprus": [
+    35.1439124,
+    33.413932
+  ],
+  "Universit\u00e0 degli Studi dell'Insubria, Italy": [
+    45.8142651,
+    8.8273962
+  ],
+  "University of Tasmania, Australia": [
+    -42.906822,
+    147.3218083
+  ],
+  "Tashkent State University, Uzbekistan": [
+    41.3522821,
+    69.2068005
+  ],
+  "Sun Yat-sen University, China": [
+    23.0996034,
+    113.2923509
+  ],
+  "University of Kerman, Iran": [
+    30.0469811,
+    57.2482029
+  ],
+  "Universit\u00e9 de Yaound\u00e9 I, Cameroon": [
+    3.8566243,
+    11.4999807
+  ],
+  "Shahid Bahonar University, Iran": [
+    30.2449918,
+    57.1180444
+  ],
+  "Universidade da Coru\u00f1a, Spain": [
+    43.3708694,
+    -8.3902487
+  ],
+  "Institute of Science and Technology Austria, Austria": [
+    48.3114581,
+    16.2589512
+  ],
+  "Karnatak University, India": [
+    15.4378056,
+    74.9819547
+  ],
+  "University of Portsmouth, United Kingdom": [
+    50.795245,
+    -1.0935529
+  ],
+  "University of Jordan, Jordan": [
+    32.0134092,
+    35.8733821
+  ],
+  "Uzhhorod National University, Ukraine": [
+    48.6191078,
+    22.3053823
+  ],
+  "University of Mazandaran, Iran": [
+    36.6996488,
+    52.6460869
+  ],
+  "Western University, Canada": [
+    43.0054234,
+    -81.274801
+  ],
+  "Ateneo de Manila University, Philippines": [
+    14.6398984,
+    121.0781952
+  ],
+  "Dalian University of Technology, China": [
+    38.8812564,
+    121.52016
+  ],
+  "University of California, San Francisco, United States": [
+    37.7627257,
+    -122.4582568
+  ],
+  "Yazd University, Iran": [
+    31.830437,
+    54.3490356
+  ],
+  "Universitatea din Pitesti, Romania": [
+    44.8538747,
+    24.8678411
+  ],
+  "Naresuan University, Thailand": [
+    16.746551,
+    100.195528
+  ],
+  "University of Turin, Italy": [
+    45.051165,
+    7.6811479
+  ],
+  "CentraleSup\u00e9lec, France": [
+    49.1030195,
+    6.2217617
+  ],
+  "Institut de Math\u00e9matiques de Toulouse, France": [
+    43.5616035,
+    1.4659432
+  ],
+  "Institut National des Sciences Appliqu\u00e9es de Lyon, France": [
+    45.7830905,
+    4.8759894
+  ],
+  "Institut sup\u00e9rieur de l'a\u00e9ronautique et de l'espace, France": [
+    43.5683358,
+    1.4721085
+  ],
+  "Universit\u00e9 Cadi Ayyad, Marrakech, Morocco": [
+    31.6660557,
+    -8.0005263
+  ],
+  "Universidade Federal Fluminense, Brazil": [
+    -22.5323633,
+    -43.2076213
+  ],
+  "Universit\u00e0 degli Studi di Trieste, Italy": [
+    45.660174,
+    13.7947819
+  ],
+  "University of Nigeria, Nigeria": [
+    9.0140933,
+    7.3973738
+  ],
+  "Universit\u00e9 Paris-Est Cr\u00e9teil Val-de-Marne, France": [
+    48.7882159,
+    2.4439219
+  ],
+  "Universidad de Alicante, Spain": [
+    38.3850684,
+    -0.5146732
+  ],
+  "Andhra University, India": [
+    17.7305037,
+    83.3227516
+  ],
+  "Chiang Mai University, Thailand": [
+    18.8009264,
+    98.9521552
+  ],
+  "Universit\u00e9 de Namur, Belgium": [
+    50.4663739,
+    4.8585708
+  ],
+  "Omsk State University, Russia": [
+    55.0257294,
+    73.291211
+  ],
+  "Universidade Federal de Goi\u00e1s, Brazil": [
+    -15.9372878,
+    -50.1382955
+  ],
+  "Universidad Publica de Navarra, Spain": [
+    42.7954702,
+    -1.6289092
+  ],
+  "Institut National des Sciences Appliquees de Toulouse, France": [
+    43.5695982,
+    1.4684402
+  ],
+  "Universit\u00e0 di Salerno, Italy": [
+    40.7720081,
+    14.7911797
+  ],
+  "COMSATS Institute of Information Technology, Pakistan": [
+    33.649666,
+    73.1549168
+  ],
+  "Gandhigram Rural Institute, India": [
+    10.2785114,
+    77.9359783
+  ],
+  "Universidade de \u00c9vora, Portugal": [
+    38.5679436,
+    -7.9106167
+  ],
+  "Hokkaido University, Japan": [
+    43.0790078,
+    141.3377295
+  ],
+  "Ghent University, Belgium": [
+    51.0078485,
+    3.7108831
+  ],
+  "Universidade Estadual Paulista \"J\u00falio de Mesquita Filho\", Brazil": [
+    -23.5240477,
+    -46.6672026
+  ],
+  "Chennai Mathematical Institute, India": [
+    12.8282728,
+    80.2203926
+  ],
+  "University of Akron, United States": [
+    41.0757383,
+    -81.5114532
+  ],
+  "Gubkin Russian State University of Oil and Gas, Russia": [
+    55.6918053,
+    37.5556847
+  ],
+  "University of Puerto Rico, Rio Piedras, United States": [
+    18.4046351,
+    -66.0478486
+  ],
+  "University of Hull, United Kingdom": [
+    53.7732507,
+    -0.3670415
+  ],
+  "University of Ioannina, Greece": [
+    39.6156591,
+    20.8412647
+  ],
+  "Korea University, South Korea": [
+    36.6108894,
+    127.2934174
+  ],
+  "Idaho State University, United States": [
+    42.862567,
+    -112.4321627
+  ],
+  "Universit\u00e9 de Metz, France": [
+    49.1004634,
+    6.1493448
+  ],
+  "University of Hertfordshire, United Kingdom": [
+    51.7517443,
+    -0.2390498
+  ],
+  "Sabanci University, Turkey": [
+    40.8927159,
+    29.3786332
+  ],
+  "Universidade Estadual de Maringa, Brazil": [
+    -23.4051563,
+    -51.9387682
+  ],
+  "Visvesvaraya Technological University, India": [
+    15.7773016,
+    74.4648624
+  ],
+  "Universit\u00e9 de Mons, Belgium": [
+    50.4640242,
+    3.9550519
+  ],
+  "University of the Basque Country, Spain": [
+    43.309277,
+    -2.0106678
+  ],
+  "Universit\u00e0 della Calabria, Italy": [
+    39.3620867,
+    16.2237085
+  ],
+  "Politecnico di Torino, Italy": [
+    45.0636974,
+    7.6575263
+  ],
+  "Universit\u00e9 du Littoral C\u00f4te d'Opale, France": [
+    51.0365306,
+    2.3695964
+  ],
+  "University of Tsukuba, Japan": [
+    36.1070526,
+    140.1006602
+  ],
+  "M\u00e4lardalens h\u00f6gskola, Sweden": [
+    59.3710797,
+    16.5077686
+  ],
+  "University of the Philippines Diliman, Philippines": [
+    14.6503761,
+    121.0676426
+  ],
+  "Universit\u00e0 degli Studi di Ferrara, Italy": [
+    44.8333777,
+    11.6263972
+  ],
+  "Democritus University of Thrace, Greece": [
+    40.9292708,
+    24.3795213
+  ],
+  "Universidade da Beira Interior, Portugal": [
+    40.2677263,
+    -7.4944365
+  ],
+  "Institut National des Sciences Appliqu\u00e9es de Rouen, France": [
+    49.3849168,
+    1.0720751
+  ],
+  "Chelyabinsk State University, Russia": [
+    55.1765832,
+    61.3202216
+  ],
+  "Universit\u00e0 degli Studi dell'Aquila, Italy": [
+    42.3513056,
+    13.3970894
+  ],
+  "University of Massachusetts, Dartmouth, United States": [
+    41.6225037,
+    -71.0073448
+  ],
+  "University of Waikato, New Zealand": [
+    -37.7858739,
+    175.3167665
+  ],
+  "Texas State University, United States": [
+    29.8910885,
+    -97.9376214
+  ],
+  "Le Mans Universit\u00e9, France": [
+    48.0130144,
+    0.1576311
+  ],
+  "Beijing Institute of Technology, China": [
+    39.9578214,
+    116.3098237
+  ],
+  "University of the Western Cape, South Africa": [
+    -33.9327302,
+    18.62864
+  ],
+  "King Fahd University of Petroleum and Minerals, Saudi Arabia": [
+    26.3118224,
+    50.1464282
+  ],
+  "Universit\u00e9 Bourgogne Franche-Comt\u00e9, France": [
+    47.3246247,
+    5.0400572
+  ],
+  "Belorussian State University, Belarus": [
+    53.9232784,
+    27.6009056
+  ],
+  "University of Tunis, Tunisia": [
+    36.8321463,
+    10.1517169
+  ],
+  "Universitatea Politehnica din Bucuresti, Romania": [
+    44.439368,
+    26.0506033
+  ],
+  "Kyungpook National University, South Korea": [
+    35.8905697,
+    128.6108553
+  ],
+  "Universit\u00e9 Jean Monnet - Saint-Etienne, France": [
+    45.4230566,
+    4.4257212
+  ],
+  "Universit\u00e9 de Lille, France": [
+    50.6285707,
+    3.125956
+  ],
+  "Universidad de Extremadura, Spain": [
+    38.8850722,
+    -7.0078329
+  ],
+  "Universidade do Minho, Portugal": [
+    41.5573185,
+    -8.3978382
+  ],
+  "Ko\u00e7 University, Turkey": [
+    41.203159,
+    29.0728654
+  ],
+  "Universitetet i Stavanger, Norway": [
+    58.9377152,
+    5.6965347
+  ],
+  "Universidad de Almer\u00eda, Spain": [
+    36.8298118,
+    -2.405707
+  ],
+  "Universidad de La Rioja, Spain": [
+    42.464787,
+    -2.4264064
+  ],
+  "Beihang University, China": [
+    39.9809427,
+    116.3409787
+  ],
+  "Joensuun yliopisto, Finland": [
+    62.6043509,
+    29.7422326
+  ],
+  "National Taiwan Normal University, Taiwan": [
+    25.0082321,
+    121.5357715
+  ],
+  "Indian Institute of Science Education and Research, Pune, India": [
+    18.5456168,
+    73.807205
+  ],
+  "Universit\u00e4t St.Gallen, Switzerland": [
+    47.4300025,
+    9.3722184
+  ],
+  "Hong Kong University of Science and Technology, China": [
+    22.8916128,
+    113.4790189
+  ],
+  "Southeast University, China": [
+    32.0576478,
+    118.7882819
+  ],
+  "Tomsk State University, Russia": [
+    56.4695177,
+    84.945886
+  ],
+  "University of Kragujevac, Serbia": [
+    44.0225067,
+    20.9204031
+  ],
+  "Al-Farabi Kazakh National University, Kazakhstan": [
+    43.220567,
+    76.9233182
+  ],
+  "Universit\u00e0 degli Studi di Genova, Italy": [
+    44.4148861,
+    8.9266707
+  ],
+  "Universit\u00e9 de Toulon, France": [
+    43.1354075,
+    6.0161592
+  ],
+  "Tampereen yliopisto, Finland": [
+    61.4934627,
+    23.77895
+  ],
+  "Ulyanovsk State University, Russia": [
+    54.3512903,
+    48.387064
+  ],
+  "Wright State University, United States": [
+    39.7842038,
+    -84.0567799
+  ],
+  "Anna University, India": [
+    13.0083174,
+    80.2334438
+  ],
+  "Northeast Normal University, China": [
+    43.858132,
+    125.3250134
+  ],
+  "Beijing University of Technology, China": [
+    39.8739144,
+    116.4772024
+  ],
+  "Universit\u00e9 de Reims Champagne-Ardenne, France": [
+    49.2519504,
+    4.0374455
+  ],
+  "Ulster University, United Kingdom": [
+    54.6038201,
+    -5.9288914
+  ],
+  "University of New England, Australia": [
+    -30.4901137,
+    151.6393281
+  ],
+  "Universidad de Santiago de Chile, Chile": [
+    -33.4489016,
+    -70.6816237
+  ],
+  "Universit\u00e9 Toulouse 1 Capitole, France": [
+    43.6072755,
+    1.4394274
+  ],
+  "Gran Sasso Science Institute, Italy": [
+    42.3455885,
+    13.4004688
+  ],
+  "Khon Kaen University, Thailand": [
+    17.8036539,
+    102.7480313
+  ],
+  "Universit\u00e4t Hildesheim, Germany": [
+    52.133874,
+    9.9757072
+  ],
+  "Universit\u00e0 degli Studi di Siena, Italy": [
+    43.3430807,
+    11.3213141
+  ],
+  "Universit\u00e0 degli Studi di Perugia, Italy": [
+    43.1163861,
+    12.385316
+  ],
+  "Ege \u00dcniversitesi, Turkey": [
+    38.4556928,
+    27.2281857
+  ],
+  "Sungkyunkwan University, South Korea": [
+    37.3003187,
+    126.9697911
+  ],
+  "University of Mysore, India": [
+    12.3059327,
+    76.6403692
+  ],
+  "Otto-Friedrich-Universit\u00e4t Bamberg, Germany": [
+    49.9073867,
+    10.9042038
+  ],
+  "Shanghai Normal University , China": [
+    31.1628058,
+    121.4116751
+  ],
+  "Yildiz Technical University, Turkey": [
+    41.0522441,
+    29.0105277
+  ],
+  "Central China Normal University, China": [
+    30.5204122,
+    114.3562864
+  ],
+  "Universit\u00e0 di Catania, Italy": [
+    37.5038871,
+    15.0875597
+  ],
+  "University of Ilorin, Nigeria": [
+    8.4842739,
+    4.6730806
+  ],
+  "Addis Ababa University, Ethiopia": [
+    9.0495421,
+    38.758428
+  ],
+  "Universidad de la Habana, Cuba": [
+    23.1363847,
+    -82.381942
+  ],
+  "Kharazmi University, Iran": [
+    35.703842,
+    51.4267629
+  ],
+  "Universitat Jaume I, Spain": [
+    39.994312,
+    -0.0713962
+  ],
+  "Universiti Putra Malaysia, Malaysia": [
+    2.9918365,
+    101.720677
+  ],
+  "Universitatea Ovidius Constanta, Romania": [
+    44.1944949,
+    28.6509404
+  ],
+  "Universit\u00e9 d'\u00c9vry, France": [
+    48.6233961,
+    2.4244481
+  ],
+  "Bangalore University, India": [
+    12.9439343,
+    77.5091805
+  ],
+  "University of Plovdiv, Bulgaria": [
+    42.1473652,
+    24.7507537
+  ],
+  "Shivaji University, India": [
+    16.677967,
+    74.2515616
+  ],
+  "University of Natal, South Africa": [
+    -29.8680551,
+    30.978412
+  ],
+  "Universit\u00e9 de Perpignan, France": [
+    42.6821739,
+    2.8990979
+  ],
+  "Universit\u00e0 Commerciale Luigi Bocconi, Italy": [
+    45.4498836,
+    9.1892636
+  ],
+  "South China University of Technology, China": [
+    23.160342,
+    113.3372426
+  ],
+  "Politechnika \u015al\u0105ska, Poland": [
+    50.2901018,
+    18.6768134
+  ],
+  "University of Primorska, Slovenia": [
+    45.5489418,
+    13.7276254
+  ],
+  "University of Qom, Iran": [
+    34.651818,
+    50.890372
+  ],
+  "Universidad de Las Palmas de Gran Canaria, Spain": [
+    28.1118348,
+    -15.4247743
+  ],
+  "Universidad de Castilla - La Mancha, Spain": [
+    38.9973879,
+    -3.9192346
+  ],
+  "Universidade do Estado do Rio de Janeiro, Brazil": [
+    -22.2868125,
+    -42.542038
+  ],
+  "Tezpur University, India": [
+    26.7017291,
+    92.8301932
+  ],
+  "Universidade Federal de Alagoas, Brazil": [
+    -9.5536252,
+    -35.7739006
+  ],
+  "Universit\u00e0 degli Studi di Messina, Italy": [
+    38.2296362,
+    15.5511037
+  ],
+  "Indian Statistical Institute, Bangalore, India": [
+    12.9323681,
+    77.5043591
+  ],
+  "K. N. Toosi University of Technology, Iran": [
+    35.7644597,
+    51.4097293
+  ],
+  "Baku State University, Azerbaijan": [
+    40.3739057,
+    49.8110134
+  ],
+  "University of Kalyani, India": [
+    22.9848568,
+    88.446038
+  ],
+  "Universidade Federal da Bahia, Brazil": [
+    -14.8774809,
+    -40.8120695
+  ],
+  "Shiraz University, Iran": [
+    29.6494974,
+    52.5122319
+  ],
+  "Universidad Pontificia Comillas, Spain": [
+    40.4295621,
+    -3.7114547
+  ],
+  "Indian Institute of Technology, Roorkee, India": [
+    29.8661656,
+    77.8957348
+  ],
+  "University of the Aegean, Greece": [
+    37.4453962,
+    24.941762
+  ],
+  "Fordham University, United States": [
+    40.8617344,
+    -73.8860317
+  ],
+  "Birkbeck, University of London, United Kingdom": [
+    51.5218449,
+    -0.1302155
+  ],
+  "Universidade Estadual Paulista, S\u00e3o Paulo, Brazil": [
+    -22.3957568,
+    -47.5441355
+  ],
+  "Radcliffe College, United States": [
+    38.556192,
+    -121.392832
+  ],
+  "Universidad Cat\u00f3lica del Norte, Chile": [
+    -30.0036839,
+    -70.816404
+  ],
+  "Latvijas Universit\u0101te, Latvia": [
+    56.950744,
+    24.1160594
+  ],
+  "National Sun Yat-Sen University, Taiwan": [
+    22.6280059,
+    120.2662241
+  ],
+  "Universit\u00e4t Altdorf, Germany": [
+    49.3751888,
+    11.3818882
+  ],
+  "Cairo University, Egypt": [
+    30.026812,
+    31.2059186
+  ],
+  "Technische Universit\u00e4t Clausthal-Zellerfeld, Germany": [
+    51.8019554,
+    10.3455053
+  ],
+  "Universit\u00e9 Mohammed I, Oujda, Morocco": [
+    34.6522043,
+    -1.9010415
+  ],
+  "Universit\u00e4t Koblenz-Landau, Germany": [
+    49.2040667,
+    8.1072687
+  ],
+  "Universit\u00e9 de Bretagne-Sud, France": [
+    47.6463418,
+    -2.7435193
+  ],
+  "University of Chinese Academy of Sciences, China": [
+    40.0021965,
+    116.3734052
+  ],
+  "Universit\u00e9 de Provence, France": [
+    43.5164896,
+    5.4480536
+  ],
+  "University of Ballarat, Australia": [
+    -37.6259318,
+    143.8904671
+  ],
+  "Eurasian National University, Kazakhstan": [
+    51.1601126,
+    71.4645985
+  ],
+  "Swedish University of Agricultural Sciences, Sweden": [
+    63.8201574,
+    20.3146663
+  ],
+  "Universidad T\u00e9cnica Federico Santa Mar\u00eda, Chile": [
+    -33.0351828,
+    -71.5952743
+  ],
+  "Vietnam National University - Ho Chi Minh City, Vietnam": [
+    20.9103383,
+    105.5750406
+  ],
+  "Irkutsk State University, Russia": [
+    52.2749584,
+    104.3138016
+  ],
+  "Wirtschaftsuniversit\u00e4t Wien, Austria": [
+    48.2135929,
+    16.4082366
+  ],
+  "Tokyo Metropolitan University, Japan": [
+    35.6200371,
+    139.3828668
+  ],
+  "Technical University of Budapest, Hungary": [
+    47.4701078,
+    19.0471857
+  ],
+  "Suzhou University, China": [
+    31.2787148,
+    120.7237629
+  ],
+  "University of Otago, New Zealand": [
+    -45.8649793,
+    170.5146149
+  ],
+  "Bashkir State University, Russia": [
+    54.7371038,
+    55.9841527
+  ],
+  "Rhodes University, South Africa": [
+    -33.314015,
+    26.5160334
+  ],
+  "Northwestern Polytechnical University, China": [
+    34.2469224,
+    108.9106235
+  ],
+  "Kyung Hee University, South Korea": [
+    37.5971213,
+    127.0519867
+  ],
+  "Medical University of South Carolina, United States": [
+    32.785583,
+    -79.9481581
+  ],
+  "University of Malaya, Malaysia": [
+    3.1257602,
+    101.6558796
+  ],
+  "Chung Yuan Christian University, Taiwan": [
+    24.957069,
+    121.2425976
+  ],
+  "Capital Normal University, China": [
+    39.9288664,
+    116.3000545
+  ],
+  "Instituto Tecnol\u00f3gico de Aeron\u00e1utica, Brazil": [
+    -23.2102123,
+    -45.8764544
+  ],
+  "Anadolu University, Turkey": [
+    39.7918989,
+    30.5005231
+  ],
+  "Delaware State University, United States": [
+    39.1867993,
+    -75.5423583
+  ],
+  "\u00c7ukurova Universitesi, Turkey": [
+    37.0500064,
+    35.3573623
+  ],
+  "Universidad Sim\u00f3n Bol\u00edvar, Venezuela": [
+    10.4119801,
+    -66.8865901
+  ],
+  "Universidade de Tr\u00e1s-os-Montes e Alto Douro, Portugal": [
+    41.2866584,
+    -7.7396657
+  ],
+  "Universidad de C\u00e1diz, Spain": [
+    36.5294785,
+    -6.2059829
+  ],
+  "Peoples' Friendship University, Moscow, Russia": [
+    55.6509317,
+    37.5007268
+  ],
+  "Universit\u00e9 Aix-Marseille III, France": [
+    43.518928,
+    5.4476743
+  ],
+  "Tallinn University of Technology, Estonia": [
+    59.3949741,
+    24.6676189
+  ],
+  "University of Karachi, Pakistan": [
+    24.9437348,
+    67.1206228
+  ],
+  "Universit\u00e9 Cadi Ayyad, Morocco": [
+    31.6660557,
+    -8.0005263
+  ],
+  "Free University of Bozen-Bolzano, Italy": [
+    46.498298,
+    11.3501018
+  ],
+  "Czech Academy of Sciences, Czech Republic": [
+    50.0817718,
+    14.4141475
+  ],
+  "King Mongkut's Institute of Technology Ladkrabang, Thailand": [
+    13.7299068,
+    100.7829827
+  ],
+  "Hunan University, China": [
+    28.1797236,
+    112.9413209
+  ],
+  "Jai Narain Vyas University, Jodhpur, India": [
+    26.2443419,
+    73.020222
+  ],
+  "Universitas Negeri Surabaya, Indonesia": [
+    -7.3015348,
+    112.6693188
+  ],
+  "Universit\u00e9 de La Rochelle, France": [
+    46.1476264,
+    -1.1560269
+  ],
+  "Chongqing University, China": [
+    29.5699826,
+    106.4597701
+  ],
+  "Universit\u00e9 d'Artois, France": [
+    50.2835005,
+    2.793544
+  ],
+  "Observatoire de Paris, France": [
+    48.8358959,
+    2.3357428
+  ],
+  "Erciyes University, Turkey": [
+    38.7073914,
+    35.5337566
+  ],
+  "Universitas Gadjah Mada, Indonesia": [
+    -7.7761953,
+    110.3762098
+  ],
+  "Universit\u00e9 Abou Bekr Belkaid, Tlemcen, Algeria": [
+    34.9196637,
+    -1.3018243
+  ],
+  "Indian Institute of Technology, Patna, India": [
+    25.5424381,
+    84.8516072
+  ],
+  "University of Management and Technology, Pakistan": [
+    31.4514449,
+    74.2940846
+  ],
+  "Indian Institute of Technology Hyderabad, India": [
+    17.5922751,
+    78.1221891
+  ],
+  "Universit\u00e9 de Mons-Hainaut, Belgium": [
+    50.4611455,
+    3.9435225
+  ],
+  "University of Nairobi, Kenya": [
+    -1.2551672,
+    36.7248097
+  ],
+  "Rochester Institute of Technology, United States": [
+    43.0826701,
+    -77.6729322
+  ],
+  "Universit\u00e9 Moulay Ismail, Mekn\u00e8s, Morocco": [
+    33.85595,
+    -5.5746226
+  ],
+  "University of Kashan, Iran": [
+    34.0111285,
+    51.4058367
+  ],
+  "Chiba University, Japan": [
+    35.6274364,
+    140.1033831
+  ],
+  "Auckland University of Technology, New Zealand": [
+    -36.8529871,
+    174.76642
+  ],
+  "Oxford Brookes University, United Kingdom": [
+    51.755223,
+    -1.230104
+  ],
+  "University of Keele, United Kingdom": [
+    53.0016756,
+    -2.2706942
+  ],
+  "University of Guilan, Iran": [
+    37.1922074,
+    49.638155
+  ],
+  "Ecole Centrale de Nantes, France": [
+    47.2492395,
+    -1.5478817
+  ],
+  "Tampereen teknillinen yliopisto, Finland": [
+    61.4496421,
+    23.8587746
+  ],
+  "Coll\u00e8ge de France, France": [
+    48.8493233,
+    2.3461573
+  ],
+  "University of Plymouth, United Kingdom": [
+    50.3757001,
+    -4.1393786
+  ],
+  "James Madison University, United States": [
+    38.4364404,
+    -78.8689648
+  ],
+  "Kuvempu University, India": [
+    13.7327085,
+    75.6281992
+  ],
+  "University of Puerto Rico at Mayaguez, United States": [
+    18.2134782,
+    -67.1495365
+  ],
+  "INSA Rouen Normandie, France": [
+    49.3849168,
+    1.0720751
+  ],
+  "Makerere University, Uganda": [
+    0.335151,
+    32.5682342
+  ],
+  "Indian Institute of Science Education and Research Mohali, India": [
+    30.6628687,
+    76.7276402
+  ],
+  "Sardar Patel University, India": [
+    22.4681154,
+    73.0764439
+  ],
+  "North-West University, Potchefstroom, South Africa": [
+    -26.6882966,
+    27.0912407
+  ],
+  "University of Zanjan, Iran": [
+    36.6716769,
+    48.5055391
+  ],
+  "Manonmaniam Sundaranar University, India": [
+    8.7655468,
+    77.6510044
+  ],
+  "Katholische Universit\u00e4t Eichst\u00e4tt, Germany": [
+    48.8887871,
+    11.190114
+  ],
+  "Ss. Cyril and Methodius University of Skopje, Macedonia": [
+    42.0000955,
+    21.4434717
+  ],
+  "Kobe University, Japan": [
+    34.663757,
+    135.0291256
+  ],
+  "Renmin University of China, China": [
+    39.9695397,
+    116.3071291
+  ],
+  "Benem\u00e9rita Universidad Aut\u00f3noma de Puebla, Mexico": [
+    18.9998493,
+    -98.1991511
+  ],
+  "Ibn Tofail University, Morocco": [
+    34.2456621,
+    -6.5870675
+  ],
+  "University of Macau, Macao": [
+    22.1283648,
+    113.5437784
+  ],
+  "HEC Montr\u00e9al, Canada": [
+    45.5039103,
+    -73.622129
+  ],
+  "University of Wales, United Kingdom": [
+    52.1131319,
+    -4.0752017
+  ],
+  "University of Dayton, United States": [
+    39.7383895,
+    -84.1791613
+  ],
+  "Universit\u00e0 C\u00e0 Foscari Venezia, Italy": [
+    45.4344957,
+    12.3264484
+  ],
+  "Vietnam National University, Hanoi, Vietnam": [
+    21.0388103,
+    105.7818897
+  ],
+  "Payame Noor University, Iran": [
+    36.1888039,
+    49.2217739
+  ],
+  "Tarbiat Moallem University, Iran": [
+    35.8584212,
+    50.9153365
+  ],
+  "Central South University, China": [
+    28.1334119,
+    112.9858525
+  ],
+  "Azarbaijan Shahid Madani University, Iran": [
+    37.8150449,
+    45.9458175
+  ],
+  "University of Tulsa, United States": [
+    36.1523306,
+    -95.9459602
+  ],
+  "Universit\u00e4t der Bundeswehr Hamburg, Germany": [
+    53.5704439,
+    10.1062239
+  ],
+  "Indian Institute of Science Education and Research, Bhopal, India": [
+    23.2885613,
+    77.275686
+  ],
+  "Kurukshetra University, India": [
+    29.9582627,
+    76.8156304
+  ],
+  "Universit\u00e9 de Toulon et du Var, France": [
+    43.1221465,
+    5.938639
+  ],
+  "S\u00fcleyman Demirel University, Turkey": [
+    37.8379545,
+    30.5350457
+  ],
+  "Perm State University, Russia": [
+    58.0142856,
+    56.2439941
+  ],
+  "Universidad del B\u00edo-B\u00edo, Chile": [
+    -36.6003112,
+    -72.0747385
+  ],
+  "Jawaharlal Nehru Technological University, India": [
+    16.9786772,
+    82.2411916
+  ],
+  "University of Baghdad, Iraq": [
+    33.3702761,
+    44.3805126
+  ],
+  "University of Skopje, Macedonia": [
+    42.0000955,
+    21.4434717
+  ],
+  "\u00c9cole Nationale d'Ing\u00e9nieurs de Tunis, Tunisia": [
+    36.8298752,
+    10.1454111
+  ],
+  "Academia Sinica, China": [
+    28.7880099,
+    104.7786118
+  ],
+  "Middle Tennessee State University, United States": [
+    35.8486009,
+    -86.3609036
+  ],
+  "University of Stirling, United Kingdom": [
+    56.1451154,
+    -3.9173938
+  ],
+  "Norges Handelsh\u00f8yskole, Norway": [
+    60.4229355,
+    5.3025145
+  ],
+  "Universit\u00e4t Essen, Germany": [
+    51.466033,
+    7.0018777
+  ],
+  "National Changhua University of Education, Taiwan": [
+    24.0811381,
+    120.558696
+  ],
+  "Southwest University, China": [
+    29.8232372,
+    106.4195884
+  ],
+  "Universidade Federal de Lavras, Brazil": [
+    -20.8970173,
+    -46.9906112
+  ],
+  "Mersin University, Turkey": [
+    36.7860908,
+    34.5310788
+  ],
+  "Stavropol State University, Russia": [
+    45.0378149,
+    41.9618101
+  ],
+  "Vladimir State University, Russia": [
+    56.145542,
+    40.3747247
+  ],
+  "Universidade Federal do Esp\u00edrito Santo, Brazil": [
+    -20.2771567,
+    -40.3045093
+  ],
+  "Lappeenrannan teknillinen yliopisto, Finland": [
+    61.0647666,
+    28.0923586
+  ],
+  "Shahed University, Iran": [
+    35.5505183,
+    51.3492025
+  ],
+  "Hiroshima University, Japan": [
+    34.4019766,
+    132.7123195
+  ],
+  "Belarusian State University, Belarus": [
+    53.8380675,
+    27.4761517
+  ],
+  "Cranfield University, United Kingdom": [
+    52.0701329,
+    -0.6287023
+  ],
+  "National University of Uzbekistan, Uzbekistan": [
+    41.3501118,
+    69.2083334
+  ],
+  "Eski\u015fehir Osmangazi University, Turkey": [
+    39.7485483,
+    30.4761351
+  ],
+  "University of Kerala, India": [
+    10.0460266,
+    76.3233045
+  ],
+  "Vijayanagara Sri Krishnadevaraya University, India": [
+    15.1510145,
+    76.8763434
+  ],
+  "Uniwersytet Pedagogiczny, Poland": [
+    50.0734756,
+    19.9086122
+  ],
+  "Universidad de las Islas Baleares, Spain": [
+    39.6398698,
+    2.642658
+  ],
+  "Universidade da Madeira, Portugal": [
+    32.6589198,
+    -16.9246754
+  ],
+  "Motilal Nehru National Institute of Technology, India": [
+    25.4924552,
+    81.8638651
+  ],
+  "Medical College of Wisconsin, United States": [
+    43.0438671,
+    -88.0224532
+  ],
+  "Alexandria University, Egypt": [
+    31.2104662,
+    29.9131341
+  ],
+  "Sogang University, South Korea": [
+    37.5521044,
+    126.9409839
+  ],
+  "Limburgs Universitair Centrum, Belgium": [
+    50.9255585,
+    5.3910826
+  ],
+  "Ain Shams University, Egypt": [
+    30.0754657,
+    31.2904114
+  ],
+  "International Islamic University Islamabad, Pakistan": [
+    33.6636125,
+    73.0266361
+  ],
+  "Obafemi Awolowo University, Nigeria": [
+    7.5204371,
+    4.5233004
+  ],
+  "Niigata University, Japan": [
+    37.8688823,
+    138.9419567
+  ],
+  "Universidad de Navarra, Spain": [
+    42.801154,
+    -1.6585695
+  ],
+  "Universidad Aut\u00f2noma de San Luis Potos\u00ec , Mexico": [
+    22.1443382,
+    -101.0155732
+  ],
+  "Laborat\u00f3rio Nacional de Computa\u00e7\u00e3o Cient\u00edfica, Brazil": [
+    -22.5298089,
+    -43.217433
+  ],
+  "Universit\u00e9 de Clermont, France": [
+    45.8015132,
+    3.1034438
+  ],
+  "Universidad Centroccidental Lisandro Alvarado, Venezuela": [
+    10.0661162,
+    -69.3624945
+  ],
+  "London South Bank University, United Kingdom": [
+    51.4977032,
+    -0.1018089
+  ],
+  "Uniwersytet Gda\u0144ski, Poland": [
+    54.396405,
+    18.57401
+  ],
+  "Ryerson University, Canada": [
+    43.6585342,
+    -79.3784674
+  ],
+  "Hunan Normal University, China": [
+    28.1909652,
+    112.9450813
+  ],
+  "National Cheng Kung University, Taiwan": [
+    22.999099,
+    120.2162295
+  ],
+  "University of Johannesburg, South Africa": [
+    -26.1849374,
+    27.9997925
+  ],
+  "Sakarya University, Turkey": [
+    40.7421339,
+    30.331007
+  ],
+  "Universidad del Valle, Colombia": [
+    3.43478,
+    -76.5425339
+  ],
+  "National Institute of Technology, Rourkela, India": [
+    22.2501589,
+    84.9066856
+  ],
+  "Universiti Sains Malaysia, Malaysia": [
+    5.3574323,
+    100.3035504
+  ],
+  "Nagarjuna University, India": [
+    16.3798815,
+    80.5254966
+  ],
+  "Shahrood University of Technology, Iran": [
+    36.3871862,
+    54.9170011
+  ],
+  "Morgan State University, United States": [
+    39.3446663,
+    -76.5836094
+  ],
+  "Universidade Federal do ABC, Brazil": [
+    -23.6446564,
+    -46.528415
+  ],
+  "Montanuniversit\u00e4t Leoben, Austria": [
+    47.3853829,
+    15.0935383
+  ],
+  "Open Universiteit, Netherlands": [
+    50.8779457,
+    5.959474
+  ],
+  "Instituto Tecnol\u00f3gico de Estudios Superiores de Monterrey, Mexico": [
+    22.1262368,
+    -101.0391797
+  ],
+  "Universit\u00e9 d'\u00c9vry Val-d'Essonne, France": [
+    48.6233961,
+    2.4244481
+  ],
+  "Marmara \u00dcniversitesi, Turkey": [
+    40.9872142,
+    29.052956
+  ],
+  "Universit\u00e9 de Cocody, Cote d'Ivoire": [
+    5.3467956,
+    -3.994351
+  ],
+  "National Institute of Technology Karnataka, Surathkal, India": [
+    13.0111909,
+    74.7960312
+  ],
+  "Institut Fourier, France": [
+    45.1930685,
+    5.7717646
+  ],
+  "Homi Bhabha National Institute, India": [
+    19.0337334,
+    72.9255983
+  ],
+  "National University of Malaysia, Malaysia": [
+    2.9240809,
+    101.7812216
+  ],
+  "Tula State University, Russia": [
+    54.1673703,
+    37.5851174
+  ],
+  "Universidad de Antioquia, Colombia": [
+    6.2679527,
+    -75.5687748
+  ],
+  "Shinshu University, Japan": [
+    36.7117308,
+    138.4937932
+  ],
+  "National Central University, Taiwan": [
+    24.9684403,
+    121.1915503
+  ],
+  "Semnan University, Iran": [
+    35.6037645,
+    53.4344057
+  ],
+  "Kuban State University, Russia": [
+    45.0203609,
+    39.0309999
+  ],
+  "Fatih University, Turkey": [
+    40.9989167,
+    28.9243942
+  ],
+  "Universit\u00e0 del Salento, Italy": [
+    40.3586434,
+    18.165524
+  ],
+  "Balikesir University, Turkey": [
+    39.5379589,
+    28.0117638
+  ],
+  "University of Dar es Salaam, Tanzania": [
+    -6.7800163,
+    39.2052106
+  ],
+  "Roskilde University, Denmark": [
+    55.6527054,
+    12.1393296
+  ],
+  "University of Iceland, Iceland": [
+    64.1401831,
+    -21.9539633
+  ],
+  "Hue University, Vietnam": [
+    16.4585419,
+    107.5794853
+  ],
+  "Mahidol University, Thailand": [
+    13.794652,
+    100.3218583
+  ],
+  "\u00c9cole Centrale de Lyon, France": [
+    45.7833631,
+    4.76877
+  ],
+  "Universit\u00e4t Erfurt, Germany": [
+    50.9909272,
+    11.0095474
+  ],
+  "University of Mauritius, Mauritius": [
+    -20.2345142,
+    57.4976573
+  ],
+  "Donghua University, China": [
+    31.206218,
+    121.4105479
+  ],
+  "Siberian Federal University, Russia": [
+    55.995019,
+    92.7936064
+  ],
+  "Teacher Training University, Tehran, Iran": [
+    35.7360896,
+    51.3504194
+  ],
+  "University of Lucknow, India": [
+    26.9260862,
+    80.9381237
+  ],
+  "University of Zimbabwe, Zimbabwe": [
+    -17.7853572,
+    31.0520758
+  ],
+  "Moscow State Pedagogical University, Russia": [
+    55.6580397,
+    37.4765234
+  ],
+  "Soochow University, China": [
+    31.2698123,
+    120.7285302
+  ],
+  "Mondragon Unibertsitatea, Spain": [
+    43.2758836,
+    -1.9855612
+  ],
+  "Universidad de Alcal\u00e1, Spain": [
+    40.4823302,
+    -3.3630642
+  ],
+  "\u00c9cole Normale Sup\u00e9rieure de Rabat, Morocco": [
+    33.9899832,
+    -6.8580909
+  ],
+  "University Dijon, France": [
+    47.313058,
+    5.0633492
+  ],
+  "Chung-Ang University, South Korea": [
+    37.5080182,
+    126.9612686
+  ],
+  "Universidad de La Frontera, Chile": [
+    -38.7480605,
+    -72.6182905
+  ],
+  "University of Glamorgan, United Kingdom": [
+    51.5890603,
+    -3.3274657
+  ],
+  "Universidad de Oriente, Cuba": [
+    20.0471679,
+    -75.817589
+  ],
+  "Universit\u00e9 de Besan\u00e7on, France": [
+    47.2479773,
+    5.9896817
+  ],
+  "Universidad de Talca, Chile": [
+    -35.4055941,
+    -71.6347418
+  ],
+  "King Abdulaziz University, Saudi Arabia": [
+    21.4934147,
+    39.2485449
+  ],
+  "Bayero University, Nigeria": [
+    12.0160591,
+    8.5065423
+  ],
+  "Universit\u00e9 Brest, France": [
+    48.4009707,
+    -4.4941906
+  ],
+  "Voronezh State Pedagogical University, Russia": [
+    51.6863903,
+    39.2155311
+  ],
+  "University of New Orleans, United States": [
+    30.0283526,
+    -90.0668428
+  ],
+  "Universit\u00e9 Sorbonne Paris Cit\u00e9, France": [
+    48.8263407,
+    2.3463455
+  ],
+  "Universidade Federal do Amazonas, Brazil": [
+    -3.1010014,
+    -59.9828251
+  ],
+  "Suranaree University of Technology, Thailand": [
+    14.8811061,
+    102.0030695
+  ],
+  "University of Lagos, Nigeria": [
+    6.5120272,
+    3.3935314
+  ],
+  "North-Eastern Hill University, India": [
+    25.6138524,
+    91.901467
+  ],
+  "Kanazawa University, Japan": [
+    36.6575095,
+    136.6473669
+  ],
+  "Griffith University, Australia": [
+    -27.9633383,
+    153.384692
+  ],
+  "Universit\u00e0 degli Studi di Parma, Italy": [
+    44.8042514,
+    10.3352078
+  ],
+  "\u00c9cole Centrale de Lille, France": [
+    50.6065889,
+    3.1363691
+  ],
+  "Indian Institute of Technology Indore, India": [
+    22.5269276,
+    75.9262066
+  ],
+  "Al-Azhar University, Egypt": [
+    30.0451256,
+    31.2648207
+  ],
+  "University of Piraeus, Greece": [
+    37.9417328,
+    23.6530326
+  ],
+  "Academy of Sciences of Moldova, Moldova": [
+    47.0131997,
+    28.8480491
+  ],
+  "Indian Institute of Technology Bhubaneswar, India": [
+    20.1478932,
+    85.6759728
+  ],
+  "University of Khartoum, Sudan": [
+    15.611168,
+    32.5414963
+  ],
+  "Singapore University of Technology and Design, Singapore": [
+    1.3414339,
+    103.9638307
+  ],
+  "Universidade Aberta, Portugal": [
+    38.7181216,
+    -9.1523843
+  ],
+  "University of Electronic Science and Technology of China, China": [
+    30.6782315,
+    104.0980034
+  ],
+  "Ural Federal University, Russia": [
+    56.8435476,
+    60.6452775
+  ],
+  " National Institute of Technology, Surat, India": [
+    21.1634495,
+    72.7861213
+  ],
+  "Djillali Liabes University, Algeria": [
+    35.1795014,
+    -0.660442
+  ],
+  "Ritsumeikan University, Japan": [
+    35.034404,
+    135.726647
+  ],
+  "University of Bradford, United Kingdom": [
+    53.7916522,
+    -1.7661184
+  ],
+  "Union College, United States": [
+    42.8175752,
+    -73.9283917
+  ],
+  "Volgograd State University, Russia": [
+    48.8056041,
+    44.6062856
+  ],
+  "Gulbarga University, India": [
+    17.3137536,
+    76.8756112
+  ],
+  "Universit\u00e9 Mulhouse, France": [
+    47.7282393,
+    7.3102896
+  ],
+  "Ewha Womans University, South Korea": [
+    37.5643371,
+    126.9468925
+  ],
+  "Barry University, United States": [
+    25.8790289,
+    -80.2015168
+  ],
+  "Chonnam National University, South Korea": [
+    35.1769099,
+    126.9068927
+  ],
+  "ShanghaiTech University, China": [
+    31.1794305,
+    121.5902345
+  ],
+  "Marien Ngouabi University, Congo-Brazzaville": [
+    -4.2771433,
+    15.2483076
+  ],
+  "Far Eastern Federal University, Vladivostok, Russia": [
+    43.1156232,
+    131.900814
+  ],
+  "Yeditepe University, Turkey": [
+    40.971332,
+    29.1506076
+  ],
+  "University of Missouri - St. Louis, United States": [
+    38.7086398,
+    -90.3117145
+  ],
+  "Berhampur University, India": [
+    19.2992205,
+    84.8815861
+  ],
+  "Indian Institute of Management Calcutta, India": [
+    22.4440967,
+    88.3017146
+  ],
+  "Instytut Podstawowych Problem\u00f3w Techniki PAN, Poland": [
+    52.206617,
+    20.9814486
+  ],
+  "University of Sargodha, Pakistan": [
+    32.0728372,
+    72.6841928
+  ],
+  "Ostravsk\u00e1 univerzita v Ostrav\u011b, Czech Republic": [
+    49.8434782,
+    18.3045034
+  ],
+  "National Chung Cheng University, Taiwan": [
+    23.5629482,
+    120.4751218
+  ],
+  "Karlstads universitet, Sweden": [
+    59.4065505,
+    13.5823121
+  ],
+  "Kenyatta University, Kenya": [
+    -1.1806955,
+    36.9308468
+  ],
+  "University of Dschang, Cameroon": [
+    5.4409314,
+    10.0712055
+  ],
+  "Bharathidasan University, India": [
+    10.67566,
+    78.7420149
+  ],
+  "Southwestern University of Finance and Economics, China": [
+    30.6729199,
+    104.0180222
+  ],
+  "University of Mohaghegh Ardabili, Iran": [
+    38.2093574,
+    48.2906904
+  ],
+  "Universidad de Cordoba, Spain": [
+    37.8843231,
+    -4.7885498
+  ],
+  "Korea Aerospace University, South Korea": [
+    37.6003073,
+    126.8653933
+  ],
+  "Universidad Nacional del Centro de la Provincia de Buenos Aires, Argentina": [
+    -37.3225793,
+    -59.081889
+  ],
+  "Swinburne University, Australia": [
+    -37.8231885,
+    145.0337136
+  ],
+  "Universit\u00e9 Lumi\u00e8re Lyon 2, France": [
+    45.7206314,
+    4.9175834
+  ],
+  "Dublin Institute of Technology, Ireland": [
+    53.3253629,
+    -6.2657082
+  ],
+  "Yunnan University, China": [
+    24.8296289,
+    102.8512583
+  ],
+  "Pusan National University, South Korea": [
+    35.2343498,
+    129.0784068
+  ],
+  "Conservatoire National des Arts et Metiers, France": [
+    48.866783,
+    2.3554167
+  ],
+  "Beijing Jiaotong University, China": [
+    39.9504404,
+    116.336069
+  ],
+  "University of Limpopo, South Africa": [
+    -23.8906323,
+    29.7417661
+  ],
+  "Tribhuvan University, Nepal": [
+    27.6812723,
+    85.2871529
+  ],
+  "Helmut-Schmidt-Universit\u00e4t, Germany": [
+    53.5687706,
+    10.1112157
+  ],
+  "Euskal Herriko Unibertsitatea, Spain": [
+    43.309277,
+    -2.0106678
+  ],
+  "Instituto de Matem\u00e1tica e Estat\u00edstica, Brazil": [
+    -23.5590862,
+    -46.7316932
+  ],
+  "National University of Ireland, Ireland": [
+    53.3383826,
+    -6.2471783
+  ],
+  "Universit\u00e9 Ibn Zohr, Morocco": [
+    30.3528367,
+    -9.4714187
+  ],
+  "Indian Institute of Science Education and Research, Thiruvananthapuram, India": [
+    8.6826234,
+    77.1351266
+  ],
+  "Chapman University, United States": [
+    33.7933817,
+    -117.8516959
+  ],
+  "Universit\u00e9 d'Antananarivo, Madagascar": [
+    -18.9184098,
+    47.5518958
+  ],
+  "Atat\u00fcrk \u00dcniversitesi, Turkey": [
+    39.9024102,
+    41.2316918
+  ],
+  "Hakim Sabzevari University, Iran": [
+    36.3038487,
+    57.6789956
+  ],
+  "Mansoura University, Egypt": [
+    31.0407772,
+    31.3581295
+  ],
+  "Universit\u00e9 de Yaound\u00e9, Cameroon": [
+    3.8566243,
+    11.4999807
+  ],
+  "Hanyang University, South Korea": [
+    37.5557232,
+    127.0436441
+  ],
+  "Tier\u00e4rztliche Hochschule Hannover, Germany": [
+    52.3534603,
+    9.8039776
+  ],
+  "Universitetet i Agder, Norway": [
+    58.1630985,
+    8.0014426
+  ],
+  "Vinh University, Vietnam": [
+    9.9201893,
+    106.3484141
+  ],
+  "Augusta University, United States": [
+    33.4694103,
+    -81.9884196
+  ],
+  "Tokyo University of Science, Japan": [
+    35.9183873,
+    139.9084751
+  ],
+  "University of Montenegro, Montenegro": [
+    42.1056282,
+    19.0893453
+  ],
+  "Uniwersytet Szczeci\u0144ski, Poland": [
+    53.4184065,
+    14.5356853
+  ],
+  "Universidad Ju\u00e1rez Aut\u00f3noma de Tabasco, Mexico": [
+    17.9822128,
+    -92.9279565
+  ],
+  "Tafresh University, Iran": [
+    34.6808776,
+    50.0533807
+  ],
+  "South Dakota State University, United States": [
+    44.344449,
+    -96.7982371
+  ],
+  "Feng Chia University, Taiwan": [
+    24.1800576,
+    120.6483607
+  ],
+  "Chungnam National University, South Korea": [
+    36.3699984,
+    127.3448268
+  ],
+  "University of Bedfordshire, United Kingdom": [
+    51.8777324,
+    -0.4100517
+  ],
+  "Joint Institute for Nuclear Research, Russia": [
+    56.7369853,
+    37.1885081
+  ],
+  "Soochow University, Taiwan": [
+    25.0947592,
+    121.5454306
+  ],
+  "University of Electro-Communications, Japan": [
+    35.657267,
+    139.5425627
+  ],
+  "Coventry University, United Kingdom": [
+    52.4056372,
+    -1.4997223
+  ],
+  "Inonu University, Turkey": [
+    38.3277902,
+    38.4361843
+  ],
+  "Universit\u00e4t Hohenheim, Germany": [
+    48.7133801,
+    9.212073
+  ],
+  "Dhirubhai Ambani Institute of Information and Communication Technology, India": [
+    23.188408,
+    72.6279691
+  ],
+  "Ajou University, South Korea": [
+    37.2830024,
+    127.0453782
+  ],
+  "Hangzhou University, China": [
+    30.2939312,
+    119.8207925
+  ],
+  "Universidad Michoacana de San Nicol\u00e1s de Hidalgo, Mexico": [
+    19.6892955,
+    -101.2066338
+  ],
+  "Universidad de Madrid, Spain": [
+    40.5453765,
+    -3.6949578
+  ],
+  "Universidad de Sonora, Mexico": [
+    29.083525,
+    -110.9628871
+  ],
+  "Bauhaus-Universit\u00e4t Weimar, Germany": [
+    50.9757134,
+    11.3301092
+  ],
+  "Deakin University, Australia": [
+    -37.8475136,
+    145.1149474
+  ],
+  "Universit\u00e0 degli Studi di Cagliari, Italy": [
+    39.2218258,
+    9.1106594
+  ],
+  "Universidad Nacional de Ingenieria, Peru": [
+    -12.0203794,
+    -77.0481694
+  ],
+  "Shahrekord University, Iran": [
+    32.3518035,
+    50.9008449
+  ],
+  "Mid Sweden University, Sweden": [
+    63.177037,
+    14.6505828
+  ],
+  "Dr. Babasaheb Ambedkar Marathwada University, India": [
+    18.2333485,
+    76.0432649
+  ],
+  "Bu-Ali Sina University, Iran": [
+    34.7965122,
+    48.4847717
+  ],
+  "L.N.Gumilyov Eurasian National University, Kazakhstan": [
+    51.1601126,
+    71.4645985
+  ],
+  "P\u00e4dagogische Hochschule Freiburg, Germany": [
+    47.9807655,
+    7.8962155
+  ],
+  "Abdelmalek Essa\u00e2di University, Morocco": [
+    35.7365092,
+    -5.8930337
+  ],
+  "Uniwersytet Kardyna\u0142a Stefana Wyszy\u0144skiego w Warszawie, Poland": [
+    52.3122535,
+    20.9189292
+  ],
+  "Ecole Nationale Sup\u00e9rieure des Mines de Saint-Etienne, France": [
+    45.4278157,
+    4.4038713
+  ],
+  "Universite de Carthage, Tunisia": [
+    36.8714886,
+    10.3348852
+  ],
+  "Kabardino-Balkarian University, Russia": [
+    43.4961924,
+    43.5956051
+  ],
+  "South China Normal University, China": [
+    23.143019,
+    113.3386042
+  ],
+  "Sri Sathya Sai Institute of Higher Learning, India": [
+    14.1631721,
+    77.8092262
+  ],
+  "De La Salle University, Philippines": [
+    14.5670858,
+    120.9925972
+  ],
+  "Birla Institute of Technology, Pilani, India": [
+    28.3586647,
+    75.5882558
+  ],
+  "Politehnica University, Timisoara, Romania": [
+    45.7461738,
+    21.227536
+  ],
+  "Kocaeli University, Turkey": [
+    40.8187372,
+    29.922908
+  ],
+  "Yuzuncu Yil University, Turkey": [
+    38.5735694,
+    43.2907038
+  ],
+  "Lebanese University, Lebanon": [
+    33.8269232,
+    35.521298
+  ],
+  "TOBB Ekonomi ve Teknoloji \u00dcniversitesi, Turkey": [
+    39.9200738,
+    32.7985899
+  ],
+  "Savitribai Phule Pune University, India": [
+    18.5528441,
+    73.8266441
+  ],
+  "Azerbaijan State University, Azerbaijan": [
+    40.3800779,
+    49.8211039
+  ],
+  "University of South Wales, United Kingdom": [
+    51.5860894,
+    -2.990616
+  ],
+  "Izmir Institute of Technology, Turkey": [
+    38.3226588,
+    26.6377295
+  ],
+  "Victoria University, Australia": [
+    -37.7524181,
+    144.797936
+  ],
+  "King Saud University, Saudi Arabia": [
+    24.7248229,
+    46.6233911
+  ],
+  "Okayama University, Japan": [
+    34.6889496,
+    133.9220359
+  ],
+  "Uluda\u011f University, Turkey": [
+    40.238967,
+    28.8697527
+  ],
+  "Inha University, South Korea": [
+    37.4494431,
+    126.6534446
+  ],
+  "Karolinska Institutet, Sweden": [
+    59.3515453,
+    18.0310658
+  ],
+  "Instituto Nacional de Pesquisas Espaciais, Brazil": [
+    -23.209186,
+    -45.8599603
+  ],
+  "Universidad Internacional Men\u00e9ndez Pelayo, Spain": [
+    43.4732249,
+    -3.7953595
+  ],
+  "Universidad de Deusto, Spain": [
+    43.2713665,
+    -2.9386884
+  ],
+  "University of Chester, United Kingdom": [
+    53.2002643,
+    -2.8993189
+  ],
+  "University of Aston, United Kingdom": [
+    52.4844874,
+    -1.8875954
+  ],
+  "Kasetsart University, Thailand": [
+    13.8482589,
+    100.5675435
+  ],
+  "Pontif\u00edcia Universidade Cat\u00f3lica de S\u00e3o Paulo, Brazil": [
+    -23.537965,
+    -46.6712437
+  ],
+  "National Chung Hsing University, Taiwan": [
+    24.120844,
+    120.6757137
+  ],
+  "Dorodnitsyn Computing Centre, Russia": [
+    55.6944265,
+    37.5645959
+  ],
+  "Institute of Mathematics, Bucharest, Romania": [
+    44.4440814,
+    26.088534
+  ],
+  "University of Setif, Algeria": [
+    36.1875388,
+    5.3910708
+  ],
+  "Tokyo Denki University, Japan": [
+    35.7478536,
+    139.8066188
+  ],
+  "University of Alaska, Fairbanks, United States": [
+    64.8653409,
+    -147.8426097
+  ],
+  "Ball State University, United States": [
+    40.2097296,
+    -85.4112151
+  ],
+  "University of Kurdistan, Iran, Iran": [
+    35.3110267,
+    46.9942105
+  ],
+  "Mazandaran University of Science and Technology, Iran": [
+    36.5367603,
+    52.6861957
+  ],
+  "Towson University, United States": [
+    39.3869768,
+    -76.6185804
+  ],
+  "University of Southern Queensland, Australia": [
+    -27.6024301,
+    151.9309937
+  ],
+  "University of Colorado, United States": [
+    40.0075984,
+    -105.2691008
+  ],
+  "International Institute of Information Technology - Bangalore, India": [
+    12.8447999,
+    77.663239
+  ],
+  "Selcuk University, Turkey": [
+    38.0242068,
+    32.5057052
+  ],
+  "P\u00e4dagogische Hochschule Schw\u00e4bisch Gm\u00fcnd, Germany": [
+    48.7913821,
+    9.8279045
+  ],
+  "Lahore University of Management Sciences, Pakistan": [
+    31.470326,
+    74.4097439
+  ],
+  "University of Massachusetts Boston, United States": [
+    42.314068,
+    -71.0387132
+  ],
+  "M\u00e4lardalens universitet, Sweden": [
+    59.6182104,
+    16.5416357
+  ],
+  "Murdoch University, Australia": [
+    -32.0674158,
+    115.8346086
+  ],
+  "Saurashtra University, India": [
+    22.2917221,
+    70.7420344
+  ],
+  "Universitat de Girona, Spain": [
+    41.9674297,
+    2.839888
+  ],
+  "Universit\u00e9 Gustave-Eiffel, France": [
+    50.6078918,
+    3.1320651
+  ],
+  "University of Jos, Nigeria": [
+    9.9692676,
+    8.8840091
+  ],
+  "Sophia University, Japan": [
+    35.68395,
+    139.7321744
+  ],
+  "Universidad Veracruzana, Mexico": [
+    20.5244425,
+    -97.4374052
+  ],
+  "Vilniaus Gedimino technikos universitetas, Lithuania": [
+    54.7219118,
+    25.3366162
+  ],
+  "Jackson State University, United States": [
+    32.2964092,
+    -90.2074376
+  ],
+  "Universit\u00e9 de Bamako, Mali": [
+    12.6112759,
+    -7.9890216
+  ],
+  "International Islamic University Malaysia, Malaysia": [
+    3.2530813,
+    101.7356842
+  ],
+  "Embry-Riddle Aeronautical University, United States": [
+    33.8082375,
+    -118.1344224
+  ],
+  "Hong Kong Baptist University, China": [
+    22.337988,
+    114.1826259
+  ],
+  "Middlesex University, United Kingdom": [
+    51.6591227,
+    -0.1333415
+  ],
+  "Universit\u00e9 d'Abomey, Benin": [
+    6.4159381,
+    2.3417259
+  ],
+  "Ulsan National Institute of Science and Technology, South Korea": [
+    35.5737484,
+    129.1897266
+  ],
+  "Razi University, Iran": [
+    34.3910607,
+    47.1124181
+  ],
+  "Universidad Nacional de General Sarmiento, Argentina": [
+    -34.522047,
+    -58.7004841
+  ],
+  "University of Salford, United Kingdom": [
+    53.4732203,
+    -2.2970993
+  ],
+  "Universidade Federal de Juiz de Fora, Brazil": [
+    -21.7769067,
+    -43.3691606
+  ],
+  "Shanghai University of Finance and Economics, China": [
+    31.3068662,
+    121.4943346
+  ],
+  "Kazan Federal University, Russia": [
+    55.7903716,
+    49.1207062
+  ],
+  "Pulkovo Astronomical Observatory, Russia": [
+    59.7718388,
+    30.3261642
+  ],
+  "Universit\u00e0 degli Studi della Basilicata, Italy": [
+    40.6461258,
+    15.8085786
+  ],
+  "Centro Brasileiro de Pesquisas Fisicas, Brazil": [
+    -22.9540669,
+    -43.1740023
+  ],
+  "Glasgow Caledonian University, Scotland": [
+    55.8674664,
+    -4.2502454
+  ],
+  "Pontif\u00edcia Universidade Cat\u00f3lica do Rio Grande do Sul, Brazil": [
+    -30.0551712,
+    -51.1735106
+  ],
+  "Universitat de Lleida, Spain": [
+    41.6284922,
+    0.5968596
+  ],
+  "Universit\u00e0 degli Studi di Camerino, Italy": [
+    43.1396331,
+    13.0672155
+  ],
+  "Urmia University, Iran": [
+    37.6520889,
+    44.9799463
+  ],
+  "Tamkang University, Taiwan": [
+    25.1749822,
+    121.4503498
+  ],
+  "Universidade do Algarve, Portugal": [
+    37.0275303,
+    -7.9223542
+  ],
+  "Mizoram University, India": [
+    23.7357935,
+    92.6645375
+  ],
+  "The Hong Kong Polytechnic University, China": [
+    22.3044867,
+    114.1796935
+  ],
+  "Universit\u00e0 di Lecce, Italy": [
+    40.3538246,
+    18.1524341
+  ],
+  "Dongseo University, South Korea": [
+    35.1445519,
+    129.010078
+  ],
+  "Sambalpur University, India": [
+    21.4803755,
+    83.8826177
+  ],
+  "Mindanao State University \u2013 Iligan Institute of Technology, Philippines": [
+    8.2414474,
+    124.2439668
+  ],
+  "State University of New York College of Environmental Science and Forestry, United States": [
+    43.0347222,
+    -76.1355556
+  ],
+  "Shizuoka University, Japan": [
+    34.9647349,
+    138.429058
+  ],
+  "Universidade Estadual Paulista, Rio Claro, Brazil": [
+    -22.3957568,
+    -47.5441355
+  ],
+  "Universit\u00e9 Assane Seck Ziguinchor, Senegal": [
+    12.5494994,
+    -16.2830714
+  ],
+  "Indian Institute of Technology Ropar, India": [
+    30.9659501,
+    76.4729772
+  ],
+  "Max-Planck-Institut f\u00fcr Informatik, Germany": [
+    49.2579386,
+    7.0457777
+  ],
+  "Xidian University, China": [
+    34.1251589,
+    108.8289653
+  ],
+  "Ecole Mohammadia d'Ing\u00e9nieurs, Rabat, Morocco": [
+    33.998944,
+    -6.8531853
+  ],
+  "National Chengchi University, Taiwan": [
+    24.9802091,
+    121.5749593
+  ],
+  "Universidad de Guadalajara, Mexico": [
+    19.7200085,
+    -101.251118
+  ],
+  "Academia Sinica, Taiwan": [
+    25.0420743,
+    121.614046
+  ],
+  "University of Constantine, Algeria": [
+    36.2456144,
+    6.5689093
+  ],
+  "Kingston University, United Kingdom": [
+    51.4030739,
+    -0.3032181
+  ],
+  "Universidad Aut\u00f3noma de Nuevo Le\u00f3n, Mexico": [
+    25.4448519,
+    -101.0050761
+  ],
+  "Pozna\u0144 University of Technology, Poland": [
+    52.3942702,
+    16.9181304
+  ],
+  "Universidade dos A\u00e7ores, Portugal": [
+    37.746316,
+    -25.6629189
+  ],
+  "Universit\u00e9 de Lom\u00e9, Togo": [
+    6.1771502,
+    1.2119336
+  ],
+  "Universit\u00e9 Chouaib Doukkali, Morocco": [
+    33.2266726,
+    -8.4877194
+  ],
+  "Delhi Technological University, India": [
+    28.7508153,
+    77.1162765
+  ],
+  "Memphis State University, United States": [
+    35.1187044,
+    -89.9407564
+  ],
+  "Quy Nhon University, Vietnam": [
+    13.7593966,
+    109.2172639
+  ],
+  "University of Prague, Czech Republic": [
+    50.0888947,
+    14.4162757
+  ],
+  "University of Texas MD Anderson Cancer Center, United States": [
+    29.7076703,
+    -95.3978436
+  ],
+  "Mahatma Gandhi University,Kottayam, India": [
+    9.6586024,
+    76.5328816
+  ],
+  "University of Tirana , Albania": [
+    41.3166196,
+    19.8217354
+  ],
+  "Universidad Aut\u00f3noma de Guerrero, Mexico": [
+    18.4761741,
+    -99.5805249
+  ],
+  "University of Thessaly, Greece": [
+    39.3576383,
+    22.9507464
+  ],
+  "Technische Hochschule Danzig, Poland": [
+    54.3741905,
+    18.6274077
+  ],
+  "Universidad Nacional de Mar del Plata, Argentina": [
+    -38.0053216,
+    -57.5708867
+  ],
+  "Universit\u00e0 di Brescia, Italy": [
+    45.5378614,
+    10.2242813
+  ],
+  "University of Cochin, India": [
+    10.0460266,
+    76.3233045
+  ],
+  "Akademia G\u00f3rniczo-Hutnicza im. Stanis\u0142awa Staszica w Krakowie, Poland": [
+    50.0657033,
+    19.9189587
+  ],
+  "Universit\u00e9 de Dakar, Senegal": [
+    14.698142,
+    -17.4593122
+  ],
+  "Institut d'\u00e9tudes politiques de Paris, France": [
+    48.8538978,
+    2.3290212
+  ],
+  "Kauno Technologijos Universitetas, Lithuania": [
+    54.8988052,
+    23.9126526
+  ],
+  "Reykjavik University, Iceland": [
+    64.1247374,
+    -21.9275372
+  ],
+  "Dokuz Eyl\u00fcl University, Turkey": [
+    38.3943741,
+    27.0303419
+  ],
+  "Istanbul Kultur University, Turkey": [
+    40.9912277,
+    28.8320899
+  ],
+  "Institut National des Sciences Appliqu\u00e9es de Rennes, France": [
+    48.1220353,
+    -1.6355526
+  ],
+  "Annamalai University, India": [
+    11.390716,
+    79.7114928
+  ],
+  "Ludwigsburg University of Education, Germany": [
+    48.9095338,
+    9.1831892
+  ],
+  "Universit\u00e4t Ingolstadt, Germany": [
+    48.8887871,
+    11.190114
+  ],
+  "Moscow Aviation Institute, Russia": [
+    55.8108545,
+    37.5013359
+  ],
+  "Abant Izzet Baysal University, Turkey": [
+    40.7166979,
+    31.5271807
+  ],
+  "University of Peshawar, Pakistan": [
+    34.0105547,
+    71.4833157
+  ],
+  "University of Westminster, London, United Kingdom": [
+    51.5182516,
+    -0.1410735
+  ],
+  "University of Sistan and Baluchestan, Iran": [
+    29.4644185,
+    60.8564513
+  ],
+  "Hochschule der Bundeswehr M\u00fcnchen, Germany": [
+    48.0766313,
+    11.6359736
+  ],
+  "\u00c9cole des Hautes \u00c9tudes Commerciales de Paris, France": [
+    48.8787347,
+    2.3280864
+  ],
+  "Kannur University, India": [
+    11.8675005,
+    75.3744287
+  ],
+  "Ocean University of China, China": [
+    36.1614396,
+    120.4935835
+  ],
+  "Funda\u00e7\u00e3o Oswaldo Cruz, Brazil": [
+    -23.6346811,
+    -46.564511
+  ],
+  "Universidad Pablo de Olavide, Spain": [
+    37.3560809,
+    -5.9381678
+  ],
+  "INSEAD, France": [
+    48.4055966,
+    2.6846928
+  ],
+  "Universidad Miguel Hernandez de Elche, Spain": [
+    38.2769777,
+    -0.6899447
+  ],
+  "Universidad Aut\u00f3noma del Estado de M\u00e9xico, Mexico": [
+    19.2833348,
+    -99.6779406
+  ],
+  "Indian Institute of Management, Bangalore, India": [
+    12.8955829,
+    77.6026219
+  ],
+  "Southern University of Science and Technology, China": [
+    22.603603,
+    113.9968497
+  ],
+  "Indian Institute of Technology Mandi, India": [
+    31.7063321,
+    76.9385693
+  ],
+  "University of North Dakota, United States": [
+    47.9265412,
+    -97.0721209
+  ],
+  "Beirut Arab University, Lebanon": [
+    33.8729566,
+    35.4970892
+  ],
+  "Moscow Power Engineering Institute, Russia": [
+    55.7544512,
+    37.707971
+  ],
+  "SRM Institute of Science and Technology, India": [
+    12.8234361,
+    80.0450412
+  ],
+  "Instytut Matematyczny PAN, Poland": [
+    52.2215918,
+    21.0148391
+  ],
+  "National Institute of Technology, Tiruchirappalli, India": [
+    10.7633854,
+    78.8150292
+  ],
+  "University of Missouri - Rolla, United States": [
+    37.9532435,
+    -91.7742667
+  ],
+  "Universit\u00e9 Clermont Auvergne, France": [
+    45.7719719,
+    3.0917595
+  ],
+  "Vytauto Did\u017eiojo Universitetas, Lithuania": [
+    54.8984353,
+    23.9143937
+  ],
+  "Universidad Aut\u00f3noma de Aguascalientes, Mexico": [
+    21.9141626,
+    -102.3158491
+  ],
+  "Padjadjaran University, Indonesia": [
+    -6.9209644,
+    107.7722221
+  ],
+  "Indian Institute of Technology, Dhanbad, India": [
+    23.8148779,
+    86.4425786
+  ],
+  "Universit\u00e0 degli Studi di Bergamo, Italy": [
+    45.6869036,
+    9.6613356
+  ],
+  "University of Rajasthan, India": [
+    26.6276045,
+    75.0288021
+  ],
+  "Nova Southeastern University, United States": [
+    26.0788018,
+    -80.2435108
+  ],
+  "Universidad Cat\u00f3lica del Maule, Chile": [
+    -35.4354476,
+    -71.6195634
+  ],
+  "Pontificia Universidad Cat\u00f3lica del Per\u00fa, Peru": [
+    -12.0691658,
+    -77.0799348
+  ],
+  "Centre national de la recherche scientifique, France": [
+    45.7804582,
+    4.874957
+  ],
+  "Kangwon National University, South Korea": [
+    37.8672582,
+    127.7447487
+  ],
+  "Hanoi National University of Education, Vietnam": [
+    21.0390039,
+    105.7842623
+  ],
+  "Universiteti i Prishtin\u00ebs, Kosovo": [
+    42.8980836,
+    20.8658663
+  ],
+  "University of Lethbridge, Canada": [
+    49.6744567,
+    -112.8606051
+  ],
+  "Yuriy Fedkovych Chernivtsi National University, Ukraine": [
+    48.2967914,
+    25.9244764
+  ],
+  "Courant Institute, United States": [
+    40.7286994,
+    -73.9957151
+  ],
+  "Universiti Tun Hussein Onn Malaysia, Malaysia": [
+    1.8585385,
+    103.0852742
+  ],
+  "Loyola University of Chicago, United States": [
+    41.9991492,
+    -87.6573704
+  ],
+  "Universit\u00e9 Toulouse-Jean Jaur\u00e8s, France": [
+    43.5783751,
+    1.4010003
+  ],
+  "Academia Romana, Romania": [
+    44.4464354,
+    26.0900878
+  ],
+  "Shantou University, China": [
+    23.4163248,
+    116.6290685
+  ],
+  "China University of Mining and Technology, China": [
+    34.2146056,
+    117.1380776
+  ],
+  "University of Western Sydney, Australia": [
+    -33.7262272,
+    150.8793529
+  ],
+  "Escuela Politecnica Nacional, Ecuador": [
+    -0.2102789,
+    -78.488861
+  ],
+  "Samara State University, Russia": [
+    53.2225479,
+    50.1732841
+  ],
+  "University of Ulsan, South Korea": [
+    35.5737484,
+    129.1897266
+  ],
+  "Coll\u00e8ge de Montaigu, France": [
+    48.5448182,
+    2.6609637
+  ],
+  "Gazi University, Turkey": [
+    39.9342645,
+    32.8235594
+  ],
+  "Universit\u00e9 de Boumerdes, Algeria": [
+    36.7627057,
+    3.4746586
+  ],
+  "Indian Institute of Information Technology Guwahati, India": [
+    26.0804088,
+    91.5605235
+  ],
+  "Thapar Institute of Engineering and Technology, India": [
+    30.3545336,
+    76.3657969
+  ],
+  "Teesside University, United Kingdom": [
+    54.5695266,
+    -1.2355444
+  ],
+  "Universidad Industrial de Santander, Colombia": [
+    7.1409311,
+    -73.1198652
+  ],
+  "University of Ghana, Ghana": [
+    5.6465979,
+    -0.188004
+  ],
+  "King Mongkut's University of Technology North Bangkok, Thailand": [
+    13.8218432,
+    100.5131602
+  ],
+  "University of the Free State, South Africa": [
+    -29.1106677,
+    26.1864764
+  ],
+  "Shiv Nadar University, India": [
+    28.5257123,
+    77.574455
+  ],
+  "Universidad de Ja\u00e9n, Spain": [
+    37.7882087,
+    -3.776634
+  ],
+  "Leuphana Universit\u00e4t L\u00fcneburg, Germany": [
+    53.2287819,
+    10.4014752
+  ],
+  "Universit\u00e9 Mouloud Mammeri de Tizi Ouzou, Algeria": [
+    36.6978991,
+    4.0577472
+  ],
+  "Punjabi University, India": [
+    30.3580954,
+    76.4503254
+  ],
+  "University of Birjand, Iran": [
+    32.8573973,
+    59.2289938
+  ],
+  "Tennessee Technological University, United States": [
+    36.1748736,
+    -85.5089051
+  ],
+  "Universit\u00e9 du Qu\u00e9bec, Canada": [
+    46.8132139,
+    -71.2221505
+  ],
+  "Belgorod State University, Russia": [
+    50.5939358,
+    36.5762397
+  ],
+  "Nanjing University of Aeronautics and Astronautics, China": [
+    32.037419,
+    118.8153537
+  ],
+  "Odense University, Denmark": [
+    55.3678532,
+    10.4280534
+  ],
+  "Facult\u00e9 des Sciences, Orsay , France": [
+    48.7014102,
+    2.1788413
+  ],
+  "Tambov State University, Russia": [
+    52.7543165,
+    41.4325781
+  ],
+  "Oregon Health & Science University, United States": [
+    45.4981929,
+    -122.6864957
+  ],
+  "Univerzitet Singidunum, Serbia": [
+    44.7595979,
+    20.4966413
+  ],
+  "Institute of Mathematics AS Rebublic of Tajikistan , Tajikistan": [
+    38.5530087,
+    68.8589864
+  ],
+  "University of Tuebingen, Germany": [
+    48.5340595,
+    9.0712444
+  ],
+  "Universit\u00e9 Paul Val\u00e9ry Montpellier 3, France": [
+    43.6325304,
+    3.8701088
+  ],
+  "J\u00f3zsef Attila University, Hungary": [
+    46.2468912,
+    20.1418992
+  ],
+  "Dicle University, Turkey": [
+    37.9044835,
+    40.2749929
+  ],
+  "Universidade Federal do Par\u00e1, Brazil": [
+    -1.4677334,
+    -48.4435021
+  ],
+  "Saraswathi Narayanan College, India": [
+    9.8496982,
+    78.0895972
+  ],
+  "Escuela Polit\u00e9cnica Nacional-Quito, Ecuador": [
+    -0.2102789,
+    -78.488861
+  ],
+  "Northwest University, China": [
+    34.2488975,
+    108.9189773
+  ],
+  "Kumamoto University, Japan": [
+    32.8164178,
+    130.7270397
+  ],
+  "Japan Advanced Institute of Science and Technology, Japan": [
+    36.4436614,
+    136.5923335
+  ],
+  "Alzahra University, Iran": [
+    35.7683931,
+    51.3925886
+  ],
+  "Edith Cowan University, Australia": [
+    -31.9192816,
+    115.8691215
+  ],
+  "Nihon University, Japan": [
+    35.6971554,
+    139.7625818
+  ],
+  "Kennesaw State University, United States": [
+    34.0383452,
+    -84.5831053
+  ],
+  "University of Rijeka, Croatia": [
+    45.3284573,
+    14.4669239
+  ],
+  "Srinakharinwirot University, Thailand": [
+    13.7448618,
+    100.5647517
+  ],
+  "Umm Al-Qura University, Saudi Arabia": [
+    21.324832,
+    39.9448821
+  ],
+  "Osmania University, India": [
+    17.4113238,
+    78.5274316
+  ],
+  "Immanuel Kant Baltic Federal University, Russia": [
+    54.7233081,
+    20.5315392
+  ],
+  "Hitotsubashi University, Japan": [
+    35.6937953,
+    139.4439284
+  ],
+  "University of Damascus, Syria": [
+    33.5394697,
+    36.3189905
+  ],
+  "Universidade Federal de Campina Grande, Brazil": [
+    -7.214243,
+    -35.9077467
+  ],
+  "Sam Houston State University, United States": [
+    30.7133471,
+    -95.5449136
+  ],
+  "Universit\u00e9 de Guelma, Algeria": [
+    36.4512265,
+    7.4193826
+  ],
+  "Islamia University of Bahawalpur, Pakistan": [
+    29.3982985,
+    71.6910248
+  ],
+  "University of Hanoi, Vietnam": [
+    21.0055269,
+    105.8435926
+  ],
+  "Indian Institute of Technology, Jodhpur, India": [
+    26.4729401,
+    73.1143375
+  ],
+  "University of Macedonia, Greece": [
+    40.6251375,
+    22.9601033
+  ],
+  "Universidad de Bilbao, Spain": [
+    43.2627665,
+    -2.9492944
+  ],
+  "Universitat de Girona, Catalonia": [
+    41.9674297,
+    2.839888
+  ],
+  "Universit\u00e9 F\u00e9lix Houphou\u00ebt-Boigny, Cote d'Ivoire": [
+    5.3427422,
+    -3.9871308
+  ],
+  "Chonbuk National University, South Korea": [
+    35.848993,
+    127.1277411
+  ],
+  "University of Greenwich, United Kingdom": [
+    51.4825423,
+    -0.0066531
+  ],
+  "South Valley University, Egypt": [
+    26.195868,
+    32.7431485
+  ],
+  "Rajshahi University, Bangladesh": [
+    24.2897439,
+    89.008877
+  ],
+  "Universidad Tecnol\u00f3gica Nacional, Argentina": [
+    -53.7863814,
+    -67.7257848
+  ],
+  "Universidad del Norte, Colombia": [
+    11.0191398,
+    -74.8507959
+  ],
+  "East China University of Science and Technology, China": [
+    31.1450814,
+    121.4195085
+  ],
+  "National Chi Nan University, Taiwan": [
+    23.9513995,
+    120.9298161
+  ],
+  "CEA Saclay, France": [
+    48.727341,
+    2.1586191
+  ],
+  "P\u00e1zm\u00e1ny P\u00e9ter University , Hungary": [
+    47.4917027,
+    19.0661558
+  ],
+  "Universit\u00e9 de Sousse, Tunisia": [
+    35.8376576,
+    10.6071492
+  ],
+  "Xiangtan University, China": [
+    27.8852618,
+    112.8572449
+  ],
+  "University of Fort Hare, South Africa": [
+    -32.7921736,
+    26.858581
+  ],
+  "Universidad Nacional de Cuyo, Argentina": [
+    -32.8765341,
+    -68.8765926
+  ],
+  "Universit\u00e0 degli Studi della Campania \"Luigi Vanvitelli\", Italy": [
+    41.0672235,
+    14.3305232
+  ],
+  "Universit\u00e0 degli Studi di Verona, Italy": [
+    45.4363395,
+    11.0030301
+  ],
+  "H\u00f8gskolen i Molde, Norway": [
+    62.7364311,
+    7.1085197
+  ],
+  "University of the Peloponnese, Greece": [
+    37.5271168,
+    22.3716537
+  ],
+  "Minia University, Egypt": [
+    28.1077815,
+    30.7452561
+  ],
+  "Amrita Vishwa Vidyapeetham, India": [
+    12.8938021,
+    77.6759379
+  ],
+  "IMT Atlantique, France": [
+    48.3606868,
+    -4.5716376
+  ],
+  "Universit\u00e9 Mohammed VI Polytechnique, Morocco": [
+    32.2184862,
+    -7.9361419
+  ],
+  "Kyungnam University, South Korea": [
+    35.1815818,
+    128.5531977
+  ],
+  "Ahmadu Bello University, Nigeria": [
+    6.434344,
+    3.4095965
+  ],
+  "Universidad Aut\u00f3noma de Zacatecas, Mexico": [
+    20.6766706,
+    -105.2196282
+  ],
+  "Hebei Normal University, China": [
+    37.9965514,
+    114.5149368
+  ],
+  "Universiti Malaysia Sabah, Malaysia": [
+    6.0384359,
+    116.1212833
+  ],
+  "Uniwersytet Opolski, Poland": [
+    50.6726608,
+    17.931794
+  ],
+  "Universidad Popular Aut\u00f3noma del Estado de Puebla, Mexico": [
+    19.0485385,
+    -98.2166069
+  ],
+  "K\u00fchne Logistics University, Germany": [
+    53.5405721,
+    9.9943719
+  ],
+  "University of Trento, Italy": [
+    46.0661807,
+    11.1166177
+  ],
+  "Universidad EAFIT, Colombia": [
+    6.2002022,
+    -75.5784855
+  ],
+  "Nottingham Trent University, United Kingdom": [
+    52.91164,
+    -1.1866048
+  ],
+  "University of Texas Rio Grande Valley, United States": [
+    26.3071534,
+    -98.1728187
+  ],
+  "Central University of Punjab, India": [
+    30.137965,
+    74.7904002
+  ],
+  "Collegio Romano, Italy": [
+    41.8981144,
+    12.4805508
+  ],
+  "National and Kapodistrian University of Athens, Greece": [
+    37.970038,
+    23.7652367
+  ],
+  "South Ural State University, Russia": [
+    55.1269929,
+    61.3871994
+  ],
+  "Fuzhou University, China": [
+    26.0614068,
+    119.1933416
+  ],
+  "Sultan Moulay Slimane University, Morocco": [
+    32.3357435,
+    -6.3700151
+  ],
+  "Salahaddin University-Erbil, Iraq": [
+    36.1531938,
+    44.0210416
+  ],
+  "Universitat Oberta de Catalunya, Catalonia": [
+    41.1538709,
+    1.1003996
+  ],
+  "Manisa Celal Bayar University, Turkey": [
+    38.6789982,
+    27.308789
+  ],
+  "University of Munich, Germany": [
+    48.2654976,
+    11.6692249
+  ],
+  "Universidad Aut\u00f3noma del Estado de Morelos, Mexico": [
+    18.9821552,
+    -99.2351888
+  ],
+  "National Institute of Technology Calicut, India": [
+    11.32158,
+    75.934214
+  ],
+  "\u00c9cole Nationale Sup\u00e9rieure de Techniques Avanc\u00e9es, France": [
+    48.4189166,
+    -4.4731081
+  ],
+  "Sultan Qaboos University, Oman": [
+    23.5938745,
+    58.1713354
+  ],
+  "Mystras, Greece": [
+    37.072657,
+    22.3679925
+  ],
+  "Afyon Kocatepe University, Turkey": [
+    38.8323258,
+    30.5290811
+  ],
+  "University of Lincoln, United Kingdom": [
+    53.2263804,
+    -0.5461286
+  ],
+  "Max Planck Institute for Physics, Germany": [
+    48.2624715,
+    11.6709777
+  ],
+  "B\u00fclent Ecevit \u00dcniversitesi, Turkey": [
+    41.4539179,
+    31.7623104
+  ],
+  "Universidad del Cauca, Colombia": [
+    2.4464149,
+    -76.599972
+  ],
+  "Coll\u00e8ge Mazarin, France": [
+    48.7058189,
+    2.3137145
+  ],
+  "Instituto Balseiro, Argentina": [
+    -41.1200731,
+    -71.4147157
+  ],
+  "North-West University, Mafikeng, South Africa": [
+    -25.8240728,
+    25.6086913
+  ],
+  "Periyar University, India": [
+    11.718745,
+    78.0784441
+  ],
+  "Texas A&M University - Kingsville, United States": [
+    27.5279817,
+    -97.8836721
+  ],
+  "Presidency University, Kolkata, India": [
+    22.5765464,
+    88.3635222
+  ],
+  "Goa University, India": [
+    15.4552727,
+    73.8377502
+  ],
+  "Kazakh-British Technical University, Kazakhstan": [
+    43.2557179,
+    76.9431681
+  ],
+  "Gunadarma University, Indonesia": [
+    -6.1970663,
+    106.8520401
+  ],
+  "Universidade Federal de Uberl\u00e2ndia, Brazil": [
+    -18.9182252,
+    -48.2574214
+  ],
+  "San Jose State University, United States": [
+    37.3351903,
+    -121.8812255
+  ],
+  "Vilnius University, Lithuania": [
+    54.682847,
+    25.2878406
+  ],
+  "Anglia Ruskin University, United Kingdom": [
+    52.2033882,
+    0.1350226
+  ],
+  "Mimar Sinan G\u00fczel Sanatlar \u00dcniversitesi, Turkey": [
+    41.0300797,
+    28.9891205
+  ],
+  "Universidad Adolfo Ib\u00e1\u00f1ez, Chile": [
+    -33.4214361,
+    -70.5916782
+  ],
+  "Observat\u00f3rio Nacional, Brazil": [
+    -22.8948859,
+    -43.2254743
+  ],
+  "Singapore Management University, Singapore": [
+    1.296168,
+    103.8500437
+  ],
+  "Funda\u00e7\u00e3o Getulio Vargas, Brazil": [
+    -23.5599049,
+    -46.6534588
+  ],
+  "Dravidian University, India": [
+    12.7976672,
+    78.3035588
+  ],
+  "Universit\u00e9 Mustapha Stambouli de Mascara, Algeria": [
+    35.4152817,
+    0.1276161
+  ],
+  "National Yang Ming Chiao Tung University, Taiwan": [
+    24.7867677,
+    120.9972441
+  ],
+  "Dibrugarh University, India": [
+    27.4494078,
+    94.8974147
+  ],
+  "The University of Burdwan, India": [
+    22.5807484,
+    88.4249341
+  ],
+  "Royal Military College of Canada, Canada": [
+    44.2317354,
+    -76.4681093
+  ],
+  "Shaanxi Normal University, China": [
+    34.1552785,
+    108.8866313
+  ],
+  "Universit\u00e4t f\u00fcr angewandte Kunst Wien, Austria": [
+    48.2099797,
+    16.3810817
+  ],
+  "Office National d'Etudes et de Recherches A\u00e9rospatiales, France": [
+    48.7138079,
+    2.2323286
+  ],
+  "University of Tizi-Ouzou, Algeria": [
+    36.6978991,
+    4.0577472
+  ],
+  "Universidad Central Marta Abreu de Las Villas, Cuba": [
+    22.4383079,
+    -79.8959038
+  ],
+  "\u00c9cole de technologie sup\u00e9rieure, Canada": [
+    45.4945155,
+    -73.5628555
+  ],
+  "Centre de Physique Theorique, France": [
+    43.23156,
+    5.4409121
+  ],
+  "Lafayette College, United States": [
+    40.6986698,
+    -75.209255
+  ],
+  "University of Brighton, United Kingdom": [
+    50.8278078,
+    -0.1341983
+  ],
+  "Maseno University, Kenya": [
+    -0.1058409,
+    34.7521967
+  ],
+  "Universidad de Oriente, Venezuela": [
+    10.4326478,
+    -64.1950442
+  ],
+  "Universit\u00e9 Hassan II Mohammedia Casablanca, Morocco": [
+    33.7030067,
+    -7.3738661
+  ],
+  "Xinjiang University, China": [
+    43.7627814,
+    87.6190035
+  ],
+  "Universidad An\u00e1huac, Mexico": [
+    19.2770424,
+    -99.5718585
+  ],
+  "Universit\u00e9 d'Alger, Algeria": [
+    36.7121849,
+    3.1810204
+  ],
+  "L-Universit\u00e0 ta' Malta, Malta": [
+    35.9020939,
+    14.4834634
+  ],
+  "National Institute of Technology, Warangal, India": [
+    17.9833537,
+    79.5335163
+  ],
+  "Tuskegee University, United States": [
+    32.4301095,
+    -85.7067335
+  ],
+  "Harbin Engineering University, China": [
+    45.7748897,
+    126.6764826
+  ],
+  "Instituto Mexicano del Petr\u00f3leo, Mexico": [
+    19.4896703,
+    -99.1485996
+  ],
+  "Lviv Polytechnic National University, Ukraine": [
+    49.8359012,
+    24.0145142
+  ],
+  "Chaudhary Charan Singh University, India": [
+    28.967017,
+    77.7388619
+  ],
+  "Frankfurt School of Finance & Management, Germany": [
+    50.1326647,
+    8.6802221
+  ],
+  "Universit\u00e9 Polytechnique Hauts-de-France, France": [
+    50.3234557,
+    3.514554
+  ],
+  "Jeju National University, South Korea": [
+    33.513431,
+    126.5534683
+  ],
+  "Technical University of Crete, Greece": [
+    35.5292713,
+    24.0678296
+  ],
+  "San Diego State University, United States": [
+    32.7761529,
+    -117.0733037
+  ],
+  "Meiji University, Japan": [
+    35.6975029,
+    139.7613917
+  ],
+  "Firat University, Turkey": [
+    38.6837474,
+    39.1871
+  ],
+  "University of the West of England, Bristol, United Kingdom": [
+    51.5007679,
+    -2.5503106
+  ],
+  "Universit\u00e9 du Qu\u00e9bec en Outaouais, Canada": [
+    45.4222633,
+    -75.7390982
+  ],
+  "Vaasan yliopisto, Finland": [
+    63.1043241,
+    21.5935646
+  ],
+  "Universitatea Tehnic\u01ce din Cluj-Napoca, Romania": [
+    46.7693009,
+    23.5855637
+  ],
+  "University of Duhok, Iraq": [
+    36.8632502,
+    42.9206246
+  ],
+  "Uniwersytet Komisji Edukacji Narodowej w Krakowie, Poland": [
+    50.0533917,
+    19.9448114
+  ],
+  "Yokohama National University, Japan": [
+    35.4737978,
+    139.5900454
+  ],
+  "Tula State Pedagogical University, Russia": [
+    54.1917799,
+    37.6220494
+  ],
+  "Politechnika Lwowska, Poland": [
+    52.222007,
+    21.0130911
+  ],
+  "Multimedia University, Malaysia": [
+    2.927909,
+    101.6417899
+  ],
+  "Christ University, India": [
+    12.9337799,
+    77.6051611
+  ],
+  "Yuan Ze University, Taiwan": [
+    24.9686131,
+    121.2675487
+  ],
+  "De Montfort University, United Kingdom": [
+    52.6297131,
+    -1.139284
+  ],
+  "Medizinische Hochschule Hannover, Germany": [
+    52.3834796,
+    9.8044557
+  ],
+  "University of Sulaimani, Iraq": [
+    35.5781041,
+    45.360949
+  ],
+  "Tennessee State University, United States": [
+    36.1679249,
+    -86.8271487
+  ],
+  "Universidad Central de Madrid, Spain": [
+    40.4249262,
+    -3.7087096
+  ],
+  "Chungbuk National University, South Korea": [
+    36.6281688,
+    127.4538403
+  ],
+  "Universidad Aut\u00f3noma Metropolitana-Azcapotzalco, Mexico": [
+    19.50354,
+    -99.186914
+  ],
+  "Instituto Venezolano de Investigaciones Cientificas (IVIC), Venezuela": [
+    10.3965456,
+    -66.9774714
+  ],
+  "Universit\u00e9 de Maroua, Cameroon": [
+    10.5870649,
+    14.3201172
+  ],
+  "LaTrobe University, Australia": [
+    -37.7212551,
+    145.0578118
+  ],
+  "University of Ege, Turkey": [
+    38.4592206,
+    27.2232214
+  ],
+  "Bahauddin Zakariya University, Pakistan": [
+    30.2640234,
+    71.5082911
+  ],
+  "Universit\u00e9 d'Auvergne, France": [
+    45.7705479,
+    3.0874575
+  ],
+  "University of Ruse, Bulgaria": [
+    43.8534815,
+    25.9726127
+  ],
+  "Facult\u00e9 de M\u00e9decine de Paris, France": [
+    48.8378971,
+    2.3612276
+  ],
+  "Thai Nguyen University, Vietnam": [
+    21.6077024,
+    105.8412381
+  ],
+  "Tianjin University, China": [
+    39.1072533,
+    117.1778919
+  ],
+  "Nara Women's University, Japan": [
+    34.6881924,
+    135.8278824
+  ],
+  "Universit\u00e9 de Technologie de Troyes, France": [
+    48.269078,
+    4.0664959
+  ],
+  "Armenian State Pedagogical University, Armenia": [
+    40.1738588,
+    44.5149693
+  ],
+  "\u00c9cole normale sup\u00e9rieure de Rennes, France": [
+    48.0457455,
+    -1.7460712
+  ],
+  "Universidad de Guanajuato, Mexico": [
+    28.6984944,
+    -106.1339119
+  ],
+  "Asian Institute of Technology, Thailand": [
+    14.0803261,
+    100.611434
+  ],
+  "Jamia Millia Islamia, India": [
+    28.5584903,
+    77.2811647
+  ],
+  "\u00d6rebro University, Sweden": [
+    59.2539921,
+    15.2487679
+  ],
+  "Universidad Nacional del Nordeste, Argentina": [
+    -27.4647793,
+    -58.7840839
+  ],
+  "Texas Southern University, United States": [
+    29.7209058,
+    -95.3596267
+  ],
+  "Indian Institute of Technology Bhilai, India": [
+    21.2446287,
+    81.3183069
+  ],
+  "Kanpur University, India": [
+    26.5030118,
+    80.2678386
+  ],
+  "The American University in Cairo, Egypt": [
+    30.0191701,
+    31.5037433
+  ],
+  "University of Ontario Institute of Technology, Canada": [
+    43.9483414,
+    -78.8982025
+  ],
+  "Montclair State University, United States": [
+    40.8646879,
+    -74.1969213
+  ],
+  "Texas A&M University - Corpus Christi, United States": [
+    27.7127514,
+    -97.3233877
+  ],
+  "Nelson Mandela Metropolitan University, South Africa": [
+    -34.0015865,
+    25.6725405
+  ],
+  "Warsaw University of Technology, Poland": [
+    52.2216394,
+    21.0073798
+  ],
+  "Universit\u00e9 de Ngaound\u00e9r\u00e9, Cameroon": [
+    7.4184787,
+    13.5433216
+  ],
+  "Dongguk University, South Korea": [
+    37.562895,
+    127.312223
+  ],
+  "Jardin du Roi, France": [
+    48.8045042,
+    2.1107546
+  ],
+  "Zhejiang Normal University, China": [
+    29.136745,
+    119.6376144
+  ],
+  "South Kazakhstan State University, Kazakhstan": [
+    42.3210933,
+    69.5902359
+  ],
+  "Bursa Uludag University, Turkey": [
+    40.238967,
+    28.8697527
+  ],
+  "Amity University, India": [
+    13.2776015,
+    77.616056
+  ],
+  "Universidad CEU Cardenal Herrera, Spain": [
+    38.2600756,
+    -0.7013916
+  ],
+  "Jerusalem University, Israel": [
+    31.7918555,
+    35.244723
+  ],
+  "Blekinge Tekniska H\u00f6gskola, Sweden": [
+    56.1820101,
+    15.5910079
+  ],
+  "Universit\u00e9 de M'sila, Algeria": [
+    35.7416528,
+    4.5467418
+  ],
+  "Boise State University, United States": [
+    43.6032821,
+    -116.19941
+  ],
+  "Federal University of Technology, Nigeria": [
+    9.3467273,
+    12.4997293
+  ],
+  "Indian Institute of Technology Dharwad, India": [
+    15.4862017,
+    74.9385785
+  ],
+  "Universidad Internacional de La Rioja, Spain": [
+    42.4622149,
+    -2.4242019
+  ],
+  "P\u00e4dagogische Hochschule Heidelberg, Germany": [
+    49.4199801,
+    8.6838996
+  ],
+  "Golestan University, Iran": [
+    36.8543113,
+    54.4441772
+  ],
+  "Universidade Luterana do Brasil, Brazil": [
+    -28.3195902,
+    -52.7711149
+  ],
+  "University of Shanghai for Science and Technology, China": [
+    31.2950161,
+    121.5506739
+  ],
+  "University of the West of Scotland, Scotland": [
+    55.8435978,
+    -4.4299754
+  ],
+  "Northcentral University, United States": [
+    33.6411804,
+    -111.8928612
+  ],
+  "Guru Nanak Dev University, India": [
+    31.6401718,
+    74.8226685
+  ],
+  "Jomo Kenyatta University of Agriculture and Technology, Kenya": [
+    -1.0912256,
+    37.0123687
+  ],
+  "\u0130stanbul Ticaret \u00dcniversitesi, Turkey": [
+    40.9525743,
+    29.1196499
+  ],
+  "Coll\u00e8ge de Navarre, France": [
+    49.0182603,
+    1.1220552
+  ],
+  "Academia de Ciencias de Cuba, Cuba": [
+    23.1367092,
+    -82.3516096
+  ],
+  "University of Lw\u00f3w, Ukraine": [
+    49.8402168,
+    24.0222881
+  ],
+  "T\u00e9l\u00e9com Bretagne, France": [
+    48.3578233,
+    -4.570741
+  ],
+  "Politechnika Pozna\u0144ska, Poland": [
+    52.3942702,
+    16.9181304
+  ],
+  "Obuda University, Hungary": [
+    47.1915319,
+    18.427578
+  ],
+  "Brescia University, United States": [
+    37.7683615,
+    -87.111778
+  ],
+  "Universit\u00e9 de Niamey, Niger, Niger": [
+    13.5103946,
+    2.122051
+  ],
+  "Soongsil University, South Korea": [
+    37.4962989,
+    126.9567202
+  ],
+  "Gaziantep \u00dcniversitesi, Turkey": [
+    37.0354678,
+    37.3184789
+  ],
+  "University of the Philippines Baguio, Philippines": [
+    16.4056853,
+    120.5983326
+  ],
+  "Gujarat University, India": [
+    23.0373068,
+    72.5447481
+  ],
+  "Nagpur University, India": [
+    21.1477175,
+    79.0392433
+  ],
+  "Nev\u015fehir Hac\u0131 Bekta\u015f Veli \u00dcniversitesi, Turkey": [
+    38.678204,
+    34.7369901
+  ],
+  "Jawaharlal Nehru University, India": [
+    28.5401668,
+    77.1645601
+  ],
+  "Universiti Tunku Abdul Rahman, Malaysia": [
+    4.3386146,
+    101.139919
+  ],
+  "Gunma University, Japan": [
+    36.4308155,
+    139.0444871
+  ],
+  "Moscow State University of Civil Engineering, Russia": [
+    55.8560669,
+    37.6954835
+  ],
+  "Hochschule Reutlingen, Germany": [
+    48.4818765,
+    9.186824
+  ],
+  "University of Buea, Cameroon": [
+    4.1487253,
+    9.2864747
+  ],
+  "Medizinische Universit\u00e4t Wien, Austria": [
+    48.2163949,
+    16.3609242
+  ],
+  "National Institute of Technology, Kurukshetra, India": [
+    29.9457523,
+    76.8160287
+  ],
+  "DePaul University, United States": [
+    41.9245803,
+    -87.6507223
+  ],
+  "Coll\u00e8ge de Tr\u00e9guier, France": [
+    48.7827138,
+    -3.2324576
+  ],
+  "Kathmandu University, Nepal": [
+    27.6200439,
+    85.5359094
+  ],
+  "Universidade Federal Rural do Rio de Janeiro, Brazil": [
+    -22.7855401,
+    -43.6886453
+  ],
+  "Scripps Research Institute, United States": [
+    32.8984967,
+    -117.2428803
+  ],
+  "Keck Graduate Institute, United States": [
+    34.09209,
+    -117.7235247
+  ],
+  "University of Dammam, Saudi Arabia": [
+    26.3976642,
+    50.1829781
+  ],
+  "Akdeniz \u00dcniversitesi, Turkey": [
+    36.8938473,
+    30.6508866
+  ],
+  "Pace University, United States": [
+    40.7111164,
+    -74.0048044
+  ],
+  "Osaka Prefecture University, Japan": [
+    34.4139318,
+    135.3031836
+  ],
+  "Hochschule f\u00fcr Philosophie M\u00fcnchen, Germany": [
+    48.1489917,
+    11.5828061
+  ],
+  "University of Santo Tomas, Philippines": [
+    14.6098426,
+    120.9894657
+  ],
+  "Hellenic Open University, Greece": [
+    38.2065694,
+    21.7679368
+  ],
+  "Huizhou University, China": [
+    23.0798031,
+    114.4686643
+  ],
+  "Beijing University of Posts and Telecommunications, China": [
+    39.960227,
+    116.3519331
+  ],
+  "Coll\u00e8ge Sainte-Barbe, France": [
+    48.8474021,
+    2.3466639
+  ],
+  "Indian Institute of Information Technology Allahabad, India": [
+    25.4297089,
+    81.7728296
+  ],
+  "Villanova University, United States": [
+    40.0367774,
+    -75.3420233
+  ],
+  "Universit\u00e4t Flensburg, Germany": [
+    54.7739639,
+    9.4533571
+  ],
+  "Shri Mata Vaishno Devi University, India": [
+    32.9414103,
+    74.9541522
+  ],
+  "Tanta University, Egypt": [
+    30.8002088,
+    30.9922276
+  ],
+  "Pontif\u00edcia Universidade Cat\u00f3lica do Paran\u00e1, Brazil": [
+    -25.4523677,
+    -49.2513212
+  ],
+  "Kinki University, Japan": [
+    34.6711058,
+    135.7348036
+  ],
+  "Institut National de la Statistique et des Etudes Economiques, France": [
+    48.8165563,
+    2.3086278
+  ],
+  "Jawaharlal Nehru Centre for Advanced Scientific Research, India": [
+    13.0683095,
+    77.6106783
+  ],
+  "Dayalbagh Educational Institute, India": [
+    27.2279653,
+    78.01349
+  ],
+  "University of Christiania, Norway": [
+    59.9414173,
+    10.7227683
+  ],
+  "Universit\u00e9 Nazi Boni, Burkina Faso": [
+    11.2091192,
+    -4.4178497
+  ],
+  "Universidade Cat\u00f3lica de Bras\u00edlia, Brazil": [
+    -15.7419087,
+    -47.9028322
+  ],
+  "University of Mostar, Bosnia Herzegovina": [
+    43.3640286,
+    17.819665
+  ],
+  "Universidad Pontificia Bolivariana, Colombia": [
+    6.2419536,
+    -75.5895305
+  ],
+  "Konkuk University, South Korea": [
+    37.5407875,
+    127.0681712
+  ],
+  "Semmelweis Egyetem, Hungary": [
+    47.4836969,
+    19.0818525
+  ],
+  "Universidad Tecnol\u00f3gica de Bol\u00edvar, Colombia": [
+    10.4130759,
+    -75.5380537
+  ],
+  "Punjab Technical University, India": [
+    31.3532479,
+    75.4560639
+  ],
+  "Universite de Bouira, Algeria": [
+    36.3745083,
+    3.8737279
+  ],
+  "Handelshochschule Leipzig, Germany": [
+    51.3396219,
+    12.3500236
+  ],
+  "Riphah International University, Pakistan": [
+    31.4485959,
+    74.3155643
+  ],
+  "Universidad de Panam\u00e1, Panama": [
+    8.9845638,
+    -79.5329354
+  ],
+  "Institute of Chemical Technology, India": [
+    19.0239129,
+    72.8587665
+  ],
+  "National Institute of Technology, Durgapur, India": [
+    23.5486963,
+    87.2910571
+  ],
+  "Vinayaka Missions University, India": [
+    11.5974236,
+    78.0843571
+  ],
+  "Gorakhpur University, India": [
+    26.7285652,
+    83.4342065
+  ],
+  "Tokai University, Japan": [
+    34.989534,
+    138.513527
+  ],
+  "Banaras Hindu University, India": [
+    25.2663747,
+    82.9904648
+  ],
+  "University of Zilina, Slovakia": [
+    49.2058428,
+    18.7553439
+  ],
+  "International Institute of Information Technology, Hyderabad, India": [
+    17.4454957,
+    78.348547
+  ],
+  "Instituto Tecnol\u00f3gico de Buenos Aires, Argentina": [
+    -34.6034599,
+    -58.367766
+  ],
+  "Politechnika Bia\u0142ostocka, Poland": [
+    53.1175618,
+    23.1493258
+  ],
+  "Royal College of Art, London, United Kingdom": [
+    51.4792809,
+    -0.1704551
+  ],
+  "University of Roorkee, India": [
+    29.8661656,
+    77.8957348
+  ],
+  "Jain University, India": [
+    12.9181468,
+    77.5919058
+  ],
+  "University of East London, United Kingdom": [
+    51.5073682,
+    0.0656624
+  ],
+  "Politechnika Slaska, Poland": [
+    50.2901018,
+    18.6768134
+  ],
+  "Hofstra University, United States": [
+    40.7169083,
+    -73.6000225
+  ],
+  "Benha University, Egypt": [
+    30.0819833,
+    31.2445096
+  ],
+  "Katolicki Uniwersytet Lubelski Jana Paw\u0142a II, Poland": [
+    51.2375261,
+    22.5015709
+  ],
+  "University of Dhaka, Bangladesh": [
+    23.7312443,
+    90.3915283
+  ],
+  "University of South Dakota, United States": [
+    42.7913704,
+    -96.9254235
+  ],
+  "Nanjing University of Science and Technology, China": [
+    32.031826,
+    118.8521427
+  ],
+  "Universit\u00e0 di Mantova, Italy": [
+    45.1600432,
+    10.7893788
+  ],
+  "V\u00e4xj\u00f6 University, Sweden": [
+    56.8542761,
+    14.8291332
+  ],
+  "\u00c9cole Centrale de Marseille, France": [
+    43.3414223,
+    5.4379082
+  ],
+  "Shandong Jiaotong University, China": [
+    36.6832055,
+    116.9591913
+  ],
+  "Kumaun University, India": [
+    29.3911519,
+    79.4459029
+  ],
+  "Serbian Academy of Sciences and Arts, Serbia": [
+    44.8176736,
+    20.4560842
+  ],
+  "Danmarks P\u00e6dagogiske Universitet, Denmark": [
+    55.7210554,
+    12.5425019
+  ],
+  "Technical University, Sofia, Bulgaria": [
+    42.6552239,
+    23.3550724
+  ],
+  "Ionian University, Greece": [
+    38.1679631,
+    20.4968164
+  ],
+  "National University of Mongolia, Ulaanbaatar, Mongolia": [
+    47.9230199,
+    106.9186522
+  ],
+  "Anhui Normal University, China": [
+    31.3361188,
+    118.3694355
+  ],
+  "Karaganda Buketov University, Kazakhstan": [
+    49.7705481,
+    73.126189
+  ],
+  "Copenhagen Business School, Denmark": [
+    55.677873,
+    12.5216155
+  ],
+  "St. Cyril and St. Methodius University of Veliko Tarnovo, Bulgaria": [
+    43.0761479,
+    25.650201
+  ],
+  "Universidad De Valpara\u00edso, Chile": [
+    -33.0439192,
+    -71.6171173
+  ],
+  "Universidad Aut\u00f3noma Metropolitana-Cuajimalpa, Mexico": [
+    19.3519954,
+    -99.2826512
+  ],
+  "Universidad Nacional de Catamarca, Argentina": [
+    -28.4587974,
+    -65.7831518
+  ],
+  "University of British Columbia - Okanagan, Canada": [
+    49.9410437,
+    -119.3960357
+  ],
+  "Munster Technological University, Ireland": [
+    52.27142,
+    -9.6893795
+  ],
+  "Central Queensland University, Australia": [
+    -23.3183136,
+    150.5216695
+  ],
+  "University of Science and Technology Beijing, China": [
+    39.9902334,
+    116.3531753
+  ],
+  "Guangdong University of Technology, China": [
+    23.0417332,
+    113.3873582
+  ],
+  "Izmir University of Economics, Turkey": [
+    38.3884614,
+    27.0445978
+  ],
+  "Silpakorn University, Thailand": [
+    13.7531839,
+    100.4903193
+  ],
+  "Kookmin University, South Korea": [
+    37.6114792,
+    126.9964154
+  ],
+  "Santa Clara University, United States": [
+    37.3486243,
+    -121.936544
+  ],
+  "Utkal University, India": [
+    20.3023297,
+    85.8424076
+  ],
+  "Chuo University, Japan": [
+    35.6403751,
+    139.4045306
+  ],
+  "Oslo Metropolitan University, Norway": [
+    59.9219172,
+    10.7332963
+  ],
+  "Magyar Tudom\u00e1nyos Akad\u00e9mia, Hungary": [
+    47.5012627,
+    19.0461337
+  ],
+  "D\u00fczce \u00dcniversitesi, Turkey": [
+    40.9033645,
+    31.1527404
+  ],
+  "Henan Normal University, China": [
+    35.3294278,
+    113.9106158
+  ],
+  "University of Technology, Mauritius, Mauritius": [
+    -20.1769563,
+    57.4675404
+  ],
+  "China University of Petroleum, China": [
+    35.9453575,
+    120.1670032
+  ],
+  "Sudan University Of Science and Technology, Sudan": [
+    15.5607826,
+    32.5401125
+  ],
+  "Mbarara University of Science & Technology, Uganda": [
+    -0.6150212,
+    30.6574456
+  ],
+  "Visvesvaraya National Institute of Technology, Nagpur, India": [
+    21.1260843,
+    79.0497523
+  ],
+  "The Abdus Salam International Centre for Theoretical Physics, Italy": [
+    45.703696,
+    13.7186107
+  ],
+  "Albert Einstein College of Medicine, United States": [
+    40.8542807,
+    -73.8456159
+  ],
+  "Turun kauppakorkeakoulu, Finland": [
+    60.454642,
+    22.2899873
+  ],
+  "Institute for High Energy Physics, Protvino, Russia": [
+    54.875758,
+    37.1874978
+  ],
+  "Universidad Aut\u00f3noma de Tamaulipas, Mexico": [
+    22.2756763,
+    -97.8619538
+  ],
+  "Universit\u00e9 de Batna, Algeria": [
+    35.5313391,
+    6.1874138
+  ],
+  "Korea National University of Education, South Korea": [
+    36.6098093,
+    127.3598856
+  ],
+  "P\u00e4dagogische Hochschule Weingarten, Germany": [
+    47.8096103,
+    9.6441081
+  ],
+  "Universit\u00e4t Vechta, Germany": [
+    52.7198937,
+    8.2948787
+  ],
+  "Mohanlal Sukhadia University, Udaipur, India": [
+    24.5943688,
+    73.7316634
+  ],
+  "Indian Institute of Technology, Tirupati, India": [
+    13.712786,
+    79.5899932
+  ],
+  "Universit\u00e9 Virtuelle de Tunis, Tunisia": [
+    36.8345663,
+    10.1750986
+  ],
+  "Universit\u00e9 Abdou Moumouni, Niamey, Niger": [
+    13.5010665,
+    2.0900205
+  ],
+  "American University of Beirut, Lebanon": [
+    33.9000264,
+    35.4823838
+  ],
+  "PSG College of Arts and Science, India": [
+    11.0326883,
+    77.0345773
+  ],
+  "Universit\u00e9 de La R\u00e9union, France": [
+    -20.9019193,
+    55.4843818
+  ],
+  "Escola de Economia de S\u00e3o Paulo, Brazil": [
+    -23.5599049,
+    -46.6534588
+  ],
+  "Y\u0131ld\u0131z Teknik \u00dcniversitesi, Turkey": [
+    41.0522441,
+    29.0105277
+  ],
+  "Pontificia Universidad Cat\u00f3lica de Valpara\u00edso, Chile": [
+    -33.0449391,
+    -71.6067573
+  ],
+  "Institute of Philosophy, Kiev, Ukraine": [
+    50.4546608,
+    30.524272
+  ],
+  "University of Wooster, United States": [
+    40.7271761,
+    -73.9989836
+  ],
+  "Chung Hua University, Taiwan": [
+    24.7600174,
+    120.9534015
+  ],
+  "Guizhou University, China": [
+    26.4495922,
+    106.654026
+  ],
+  "Bowie State University, United States": [
+    39.0183881,
+    -76.7609512
+  ],
+  "Institut des Hautes \u00c9tudes Scientifiques, France": [
+    48.693804,
+    2.1699197
+  ],
+  "Federation University Australia, Australia": [
+    -27.4648813,
+    153.0282355
+  ],
+  "Indian Institute of Technology Jammu, India": [
+    32.8022368,
+    74.8913825
+  ],
+  "Instytut Fizyki Polskiej Akademii Nauk, Warsaw, Poland": [
+    52.176989,
+    21.0094786
+  ],
+  "Universitas Negeri Makassar, Indonesia": [
+    -5.1842596,
+    119.4296447
+  ],
+  "University of Notre Dame Australia, Australia": [
+    -33.8812322,
+    151.2188581
+  ],
+  "Universit\u00e9 du Qu\u00e9bec \u00e0 Trois-Rivi\u00e8res, Canada": [
+    46.3467036,
+    -72.579258
+  ],
+  "El Colegio de Chihuahua, Mexico": [
+    31.7424983,
+    -106.443299
+  ],
+  "Jiangsu University of Science and Technology, China": [
+    32.1980654,
+    119.4632898
+  ],
+  "University of Batangas, Philippines": [
+    13.7636622,
+    121.0594655
+  ],
+  "Yamagata University, Japan": [
+    38.2462459,
+    140.3497439
+  ],
+  "El Colegio de M\u00e9xico, Mexico": [
+    19.3038442,
+    -99.2079494
+  ],
+  "Gonville and Caius College, United Kingdom": [
+    52.2054856,
+    0.1165672
+  ],
+  "University of Engineering and Technology, Peshawar, Pakistan": [
+    34.0012956,
+    71.4852363
+  ],
+  "Escola T\u00e8cnica Superior d'Enginyeria, Catalonia": [
+    41.132712,
+    1.2432298
+  ],
+  "Kurchatov Institute, Russia": [
+    55.7962473,
+    37.4744498
+  ],
+  "Presidency College, Chennai, India": [
+    13.0590211,
+    80.2813834
+  ],
+  "University of New Zealand, New Zealand": [
+    -43.4830314,
+    172.5300711
+  ],
+  "University of the Philippines Los Ba\u00f1os, Philippines": [
+    14.160529,
+    121.2425665
+  ],
+  "\u00c7ank\u0131r\u0131 Karatekin University, Turkey": [
+    40.6225259,
+    33.6192821
+  ],
+  "Universidad T\u00e9cnica de Machala, Ecuador": [
+    -3.2853889,
+    -79.9110877
+  ],
+  "London Metropolitan University, United Kingdom": [
+    51.5173823,
+    -0.0883496
+  ],
+  "Universidad Central, Caracas, Venezuela": [
+    10.4901789,
+    -66.8916633
+  ],
+  "Politechnika Rzeszowska im. Ignacego \u0141ukasiewicza, Poland": [
+    50.0188865,
+    21.9848945
+  ],
+  "Alfred University, United States": [
+    42.255862,
+    -77.7857087
+  ],
+  "Andhra University at Waltair, India": [
+    17.7254644,
+    83.3266472
+  ],
+  "Open University of Cyprus, Cyprus": [
+    35.1549948,
+    33.3743405
+  ],
+  "Jamal Mohamed College, India": [
+    10.7854569,
+    78.6953252
+  ],
+  "Tatung University, Taiwan": [
+    25.0671934,
+    121.5210364
+  ],
+  "University of the Pacific, United States": [
+    37.9804237,
+    -121.3128472
+  ],
+  "Universit\u00e9 de T\u00e9bessa, Algeria": [
+    35.4243876,
+    8.0760054
+  ],
+  "Trakya University, Turkey": [
+    41.6946296,
+    26.5526265
+  ],
+  "Lagos State University, Nigeria": [
+    6.4737891,
+    3.1994722
+  ],
+  "Wright Institute, United States": [
+    37.8605111,
+    -122.2913705
+  ],
+  "Damghan University, Iran": [
+    36.1684627,
+    54.3237144
+  ],
+  "Grenoble Ecole de Management, France": [
+    45.1899716,
+    5.7138851
+  ],
+  "Ochanomizu University, Japan": [
+    35.7187419,
+    139.7311806
+  ],
+  "Instituto Militar de Engenharia, Brazil": [
+    -22.9559183,
+    -43.1661466
+  ],
+  "Queen Elizabeth College, United Kingdom": [
+    54.5257511,
+    -1.5654964
+  ],
+  "Institut Pertanian Bogor, Indonesia": [
+    -6.555368,
+    106.7250424
+  ],
+  "Institut de Physique du Globe de Paris, France": [
+    48.8447758,
+    2.3561335
+  ],
+  "University of Huddersfield, United Kingdom": [
+    53.6429919,
+    -1.7780783
+  ],
+  "Shanxi University, China": [
+    37.8001306,
+    112.5816662
+  ],
+  "Universiti Kuala Lumpur, Malaysia": [
+    3.1593343,
+    101.7013095
+  ],
+  "University of Sindh, Pakistan": [
+    25.3848052,
+    68.3648616
+  ],
+  "Institut National des Sciences Appliqu\u00e9es de Centre Val de Loire, France": [
+    47.0821624,
+    2.4160856
+  ],
+  "Universidad de Tarapac\u00e1, Chile": [
+    -18.4901565,
+    -70.2961678
+  ],
+  "Can Tho University (Tr\u01b0\u1eddng \u0110\u1ea1i h\u1ecdc C\u1ea7n Th\u01a1), Vietnam": [
+    10.0321492,
+    105.7683051
+  ],
+  "Netaji Subhas University of Technology, India": [
+    28.6109477,
+    77.0384563
+  ],
+  "North University of China, China": [
+    38.0148549,
+    112.4422661
+  ],
+  "University of Rzesz\u00f3w, Poland": [
+    50.0490767,
+    21.9812403
+  ],
+  "University of Ruhuna, Sri Lanka": [
+    5.9381636,
+    80.576851
+  ],
+  "University of Wisconsin-Whitewater, United States": [
+    42.8443596,
+    -88.7436664
+  ],
+  "Cardiff Metropolitan University, United Kingdom": [
+    51.49609,
+    -3.2128353
+  ],
+  "C.E.R.F.A.C.S., France": [
+    48.6110222,
+    1.2379801
+  ],
+  "Institi\u00faid Teicneola\u00edochta Bhaile \u00c1tha Luain, Ireland": [
+    53.4152579,
+    -7.8987417
+  ],
+  "Slovak University, Slovakia": [
+    48.3047008,
+    18.0957141
+  ],
+  "National University of Kyiv-Mohyla Academy, Ukraine": [
+    50.466086,
+    30.5223863
+  ],
+  "University of Rizal System, Philippines": [
+    14.5712708,
+    121.1713426
+  ],
+  "Universitatea din Bucuresti, Romania": [
+    44.4356445,
+    26.1009263
+  ],
+  "Hubei University, China": [
+    30.5796437,
+    114.3234733
+  ],
+  "University of Gloucestershire, United Kingdom": [
+    51.8731804,
+    -2.2239706
+  ],
+  "Lipetsk State Technical University, Russia": [
+    52.6011237,
+    39.5007012
+  ],
+  "Russian Space Research Institute, Russia": [
+    55.6551271,
+    37.5337195
+  ],
+  "Univerzitet u Novom Sadu, Serbia": [
+    45.2455876,
+    19.851128
+  ],
+  "Coll\u00e8ge de Colmar, France": [
+    48.0733471,
+    7.32857
+  ],
+  "Tunghai University, Taiwan": [
+    24.1788982,
+    120.6045034
+  ],
+  "Universidade Federal de Ouro Preto, Brazil": [
+    -20.3965002,
+    -43.5087541
+  ],
+  "University of Calabar, Nigeria": [
+    4.9462428,
+    8.3496114
+  ],
+  "Universitas Indonesia di Jakarta, Indonesia": [
+    -6.3560403,
+    106.8293001
+  ],
+  "The Education University of Hong Kong, HongKong": [
+    22.4693164,
+    114.1947005
+  ],
+  "Universidad Panamericana, Mexico": [
+    19.3731427,
+    -99.1829198
+  ],
+  "University of Kashmir, India": [
+    34.133915,
+    74.8367566
+  ],
+  "Institut d'Investigaci\u00f3 en Intel\u00b7lig\u00e8ncia Artificial, Spain": [
+    41.5011236,
+    2.1109371
+  ],
+  "Atlantic Technological University Sligo, Ireland": [
+    54.2786356,
+    -8.4635678
+  ],
+  "Universidad Antonio Nari\u00f1o, Colombia": [
+    4.634774,
+    -74.0580026
+  ],
+  "University of Calicut, India": [
+    11.1364101,
+    75.8904494
+  ],
+  "Hava Harp Okulu, Turkey": [
+    40.96738,
+    28.8406848
+  ],
+  "Nanhua University, Taiwan": [
+    23.5707971,
+    120.4903728
+  ],
+  "Nyenrode Business Universiteit, Netherlands": [
+    52.160782,
+    5.0058838
+  ],
+  "National Aviation University, Ukraine": [
+    50.4374612,
+    30.4282076
+  ],
+  "St. Petersburg Academic University, Russia": [
+    60.0025574,
+    30.3739126
+  ],
+  "Universidad Aut\u00f3noma del Estado de Hidalgo, Mexico": [
+    20.1281399,
+    -98.7342268
+  ],
+  "New York Medical College, United States": [
+    41.0849859,
+    -73.811039
+  ],
+  "Dagestan State University, Russia": [
+    42.9795409,
+    47.495842
+  ],
+  "Maanpuolustuskorkeakoulu, Finland": [
+    60.1536077,
+    25.0547084
+  ],
+  "University of Abertay, Scotland": [
+    56.4632546,
+    -2.9744981
+  ],
+  "Odesa National Maritime University, Ukraine": [
+    46.4836772,
+    30.7133884
+  ],
+  "Argosy University, United States": [
+    44.8373192,
+    -93.173834
+  ],
+  "Copperbelt University, Zambia": [
+    -12.8051942,
+    28.2440856
+  ],
+  "Raiganj University, India": [
+    25.6045505,
+    88.1283421
+  ],
+  "Burgas Free University, Bulgaria": [
+    42.5035964,
+    27.4688782
+  ],
+  "WHU Vallendar, Germany": [
+    50.4006693,
+    7.6139005
+  ],
+  "Universidad Nacional de General San Mart\u00edn, Argentina": [
+    -32.8795365,
+    -68.8801735
+  ],
+  "CERN, Switzerland": [
+    46.2334731,
+    6.0555685
+  ],
+  "Lietuvos edukologijos universitetas, Lithuania": [
+    54.698269,
+    25.2612179
+  ],
+  "Universidade Federal de Itajub\u00e1, Brazil": [
+    -22.4129731,
+    -45.4489197
+  ],
+  "University of Pannonia, Hungary": [
+    47.0883929,
+    17.9084885
+  ],
+  "Northern Territory University, Australia": [
+    -12.3713738,
+    130.8684834
+  ],
+  "Gonzaga University, United States": [
+    47.6671026,
+    -117.4030546
+  ],
+  "T\u00e9l\u00e9com SudParis, France": [
+    48.6246849,
+    2.4433005
+  ],
+  "Universidad Tecnol\u00f3gica de Pereira, Colombia": [
+    4.794315,
+    -75.6888918
+  ],
+  "University of Havana, Cuba": [
+    22.9884882,
+    -82.4655396
+  ],
+  "Universidade de Braga, Portugal": [
+    41.5618487,
+    -8.397293
+  ],
+  "University of Zakho, Iraq": [
+    37.1160532,
+    42.6709221
+  ],
+  "National Institute of Technology, Silchar, India": [
+    24.7552219,
+    92.7874485
+  ],
+  "Universitatea din Oradea, Romania": [
+    47.0449334,
+    21.9180637
+  ],
+  "Akita University, Japan": [
+    39.7277525,
+    140.1331901
+  ],
+  "Texas A&M University - Commerce, United States": [
+    33.2399911,
+    -95.9182528
+  ],
+  "Universit\u00e9 Saint-Joseph de Beyrouth, Lebanon": [
+    33.8898459,
+    35.5104635
+  ],
+  "\u00c9cole nationale sup\u00e9rieure polytechnique de Yaound\u00e9, Cameroon": [
+    3.8624149,
+    11.5002368
+  ],
+  "Instytut Fizyki Molekularnej PAN, Poland": [
+    52.395251,
+    16.8461299
+  ],
+  "Universit\u00e0 degli Studi di Teramo, Italy": [
+    42.6697722,
+    13.7003706
+  ],
+  "Hochschule Anhalt, Germany": [
+    51.8398414,
+    12.2280088
+  ],
+  "Presidency University, Bangalore, India": [
+    12.9655881,
+    77.6036377
+  ],
+  "Mother Teresa Women's University, India": [
+    10.2700384,
+    77.4800845
+  ],
+  "Instituto Superior de Engenharia de Coimbra, Portugal": [
+    40.1922988,
+    -8.4115939
+  ],
+  "Chhatrapati Shahu Ji Maharaj University, India": [
+    26.5030118,
+    80.2678386
+  ],
+  "Universidad Nacional de Rio Cuarto, Argentina": [
+    -33.1145141,
+    -64.3016674
+  ],
+  "Universidad de las Am\u00e9ricas Puebla, Mexico": [
+    19.0544632,
+    -98.284968
+  ],
+  "Katholische Universit\u00e4t Eichst\u00e4tt-Ingolstadt, Germany": [
+    48.8887871,
+    11.190114
+  ],
+  "Central South University, Changsha , China": [
+    28.1334119,
+    112.9858525
+  ],
+  "Fairleigh Dickinson University, United States": [
+    40.8980728,
+    -74.0307211
+  ],
+  "Kochi University, Japan": [
+    33.6208089,
+    133.719376
+  ],
+  "Prirodoslovno-matemati\u010dki fakultet, Croatia": [
+    45.8269533,
+    15.9862292
+  ],
+  "Ensai, France": [
+    48.0511495,
+    -1.7420038
+  ],
+  "Gomel State University, Belarus": [
+    52.4431572,
+    31.0008838
+  ],
+  "Max Planck Institute for Intelligent Systems, Germany": [
+    48.5355038,
+    9.0579217
+  ],
+  "Canakkale Onsekiz Mart University, Turkey": [
+    40.1120066,
+    26.4214648
+  ],
+  "INRIA Sophia Antipolis - M\u00e9diterran\u00e9e, France": [
+    43.6151726,
+    7.0688394
+  ],
+  "Beni Suef University, Egypt": [
+    29.0819499,
+    31.1007624
+  ],
+  "Kursk State University, Russia": [
+    51.7503023,
+    36.1963755
+  ],
+  "Duquesne University of the Holy Spirit, United States": [
+    40.4365311,
+    -79.9904817
+  ],
+  "Ferris State University, United States": [
+    43.6828521,
+    -85.4836192
+  ],
+  "Edinburgh Napier University, United Kingdom": [
+    55.9311064,
+    -3.2093902
+  ],
+  "Universit\u00e0 Campus Bio-Medico, Italy": [
+    41.7673727,
+    12.4695515
+  ],
+  "University of Toyama, Japan": [
+    36.6945671,
+    137.18658
+  ],
+  "National Institute of Development Administration, Thailand": [
+    13.7716018,
+    100.6544737
+  ],
+  "VIT University, India": [
+    12.969728,
+    79.1606943
+  ],
+  "North China Electric Power University, China": [
+    38.8760446,
+    115.4973873
+  ],
+  "Norges Landbruksh\u00f8gskole, Norway": [
+    59.667874,
+    10.7617344
+  ],
+  "Central University of Rajasthan, India": [
+    26.6276045,
+    75.0288021
+  ],
+  "Acad\u00e9mie des sciences, France": [
+    45.7601436,
+    4.8280054
+  ],
+  "Wuhan University of Technology, China": [
+    30.608988,
+    114.3514267
+  ],
+  "Al-Mustansiriya University, Iraq": [
+    33.3667346,
+    44.4021648
+  ],
+  "Kwangwoon University, South Korea": [
+    37.620582,
+    127.0571714
+  ],
+  "Clark Atlanta University, United States": [
+    33.7501247,
+    -84.411589
+  ],
+  "Bangladesh University of Engineering and Technology, Bangladesh": [
+    24.2897439,
+    89.008877
+  ],
+  "Hunter College, United States": [
+    40.7683107,
+    -73.964406
+  ],
+  "University of Wolverhampton, United Kingdom": [
+    52.5901648,
+    -2.1277808
+  ],
+  "Canterbury Christ Church University, United Kingdom": [
+    51.2791824,
+    1.0903628
+  ],
+  "Wilfrid Laurier University, Canada": [
+    43.4727989,
+    -80.5280863
+  ],
+  "Centrum Wiskunde & Informatica, Netherlands": [
+    52.3564886,
+    4.952115
+  ],
+  "International Burch University Sarajevo, Bosnia Herzegovina": [
+    43.8183547,
+    18.3118521
+  ],
+  "University of Economics, Prague, Czech Republic": [
+    50.0832157,
+    14.4416257
+  ],
+  "Universit\u00e4t Fulda, Germany": [
+    50.5654766,
+    9.6873451
+  ],
+  "Central Connecticut State University, United States": [
+    41.6929278,
+    -72.765429
+  ],
+  "Haverford College, United States": [
+    40.0071506,
+    -75.3069423
+  ],
+  "Rush University, United States": [
+    41.8735393,
+    -87.6688734
+  ],
+  "Dr. B. R. Ambedkar National Institute of Technology Jalandhar, India": [
+    31.3957107,
+    75.5357675
+  ],
+  "Institut de Recherche et Coordination Acoustique/Musique, France": [
+    48.8598478,
+    2.3513855
+  ],
+  "Islamic Azad University, Kerman, Iran": [
+    30.2411709,
+    57.0787617
+  ],
+  "Universit\u00e9 Nancy 2, France": [
+    48.9065949,
+    6.0587547
+  ],
+  "Eszterh\u00e1zy K\u00e1roly University, Hungary": [
+    47.4968831,
+    19.8978216
+  ],
+  "Narodowe Centrum Bada\u0144 J\u0105drowych, Poland": [
+    51.7627026,
+    19.4415421
+  ],
+  "University of Aizu, Japan": [
+    37.5236728,
+    139.9380725
+  ],
+  "Universidad de Los Lagos, Chile": [
+    -40.5864467,
+    -73.0906667
+  ],
+  "University of Abuja, Nigeria": [
+    8.9807832,
+    7.1753396
+  ],
+  "Albany Medical College, United States": [
+    42.6541229,
+    -73.7773453
+  ],
+  "Grambling State University, United States": [
+    32.5195028,
+    -92.7211638
+  ],
+  "University of Nottingham Ningbo, China": [
+    29.8022792,
+    121.5593543
+  ],
+  "Mednarodna podiplomska \u0161ola Jo\u017eefa Stefana, Slovenia": [
+    46.0419481,
+    14.4877675
+  ],
+  "I\u015f\u0131k University, Turkey": [
+    41.1696833,
+    29.5638991
+  ],
+  "Kunsthochschule f\u00fcr Medien K\u00f6ln, Germany": [
+    50.9339887,
+    6.9621063
+  ],
+  "Universit\u00e9 Le Havre Normandie, France": [
+    49.4961896,
+    0.127048
+  ],
+  "Hai Phong University, Vietnam": [
+    20.8430962,
+    106.6977704
+  ],
+  "Universidad de Cartagena, Colombia": [
+    10.4019401,
+    -75.5054963
+  ],
+  "Central University of Finance and Economics, China": [
+    39.9581476,
+    116.3362796
+  ],
+  "Hanoi University, Vietnam": [
+    20.9892907,
+    105.7952526
+  ],
+  "Benedictine University, United States": [
+    41.7779976,
+    -88.0969936
+  ],
+  "Adventist University of the Philippines, Philippines": [
+    14.2171239,
+    121.0407164
+  ],
+  "Jaypee Institute of Information Technology, India": [
+    28.6295406,
+    77.3725048
+  ],
+  "University of Maragheh, Iran": [
+    37.378607,
+    46.275202
+  ],
+  "Astrakhan State University, Russia": [
+    46.3456003,
+    48.0260122
+  ],
+  "Williams College, United States": [
+    42.7130236,
+    -73.2030082
+  ],
+  "Central University of South Bihar, India": [
+    24.8758575,
+    84.8930155
+  ],
+  "Mathematisch Centrum Amsterdam, Netherlands": [
+    52.3564886,
+    4.952115
+  ],
+  "University of Luton, United Kingdom": [
+    51.8777324,
+    -0.4100517
+  ],
+  "Inter-University Centre for Astronomy and Astrophysics, India": [
+    18.5594399,
+    73.8256101
+  ],
+  "Northeastern University, China": [
+    41.7634632,
+    123.4117577
+  ],
+  "University of Thessaloniki, Greece": [
+    40.6296719,
+    22.9591469
+  ],
+  "Liverpool John Moores University, United Kingdom": [
+    53.4037508,
+    -2.9726752
+  ],
+  "Maragheh Observatory, Iran": [
+    37.3958672,
+    46.2092839
+  ],
+  "Universit\u00e9 d'Abidjan, Cote d'Ivoire": [
+    5.3439847,
+    -4.0021611
+  ],
+  "Roosevelt University, United States": [
+    41.8761349,
+    -87.6251817
+  ],
+  "Indian Institute of Management, Ahmedabad, India": [
+    23.0308597,
+    72.5362748
+  ],
+  "Universidad Aut\u00f3noma de Ciudad Ju\u00e1rez, Mexico": [
+    31.756608,
+    -106.4499215
+  ],
+  "James Cook University, Australia": [
+    -19.3289618,
+    146.756645
+  ],
+  "Hochschule Wismar, Germany": [
+    53.890076,
+    11.4459635
+  ],
+  "Edge Hill University, United Kingdom": [
+    53.5581225,
+    -2.8687914
+  ],
+  "Montreal Neurological Institute, Canada": [
+    45.5092094,
+    -73.5807588
+  ],
+  "Institute of Technology Tralee, Ireland": [
+    52.2713575,
+    -9.6888875
+  ],
+  "Koneru Lakshmaiah Education Foundation, India": [
+    16.4423575,
+    80.6250001
+  ],
+  "Cork Institute of Technology, Ireland": [
+    51.8856204,
+    -8.5357226
+  ],
+  "Wojskowa Akademia Techniczna, Poland": [
+    52.2525244,
+    20.9039116
+  ],
+  "Kagoshima University, Japan": [
+    31.5716047,
+    130.5440871
+  ],
+  "Universidad Francisco Marroqu\u00edn, Guatemala": [
+    14.6061859,
+    -90.5057897
+  ],
+  "University of Benin, Nigeria": [
+    6.3344143,
+    5.5998271
+  ],
+  "Universit\u00e0 Cattolica del Sacro Cuore, Italy": [
+    45.4618543,
+    9.1770563
+  ],
+  "Centre de recherche sur l'information scientifique et technique, Algeria": [
+    36.7588691,
+    3.0042808
+  ],
+  "Universidad Austral, Argentina": [
+    -46.4334246,
+    -67.5204523
+  ],
+  "Veer Bahadur Singh Purvanchal University, India": [
+    25.8316832,
+    82.6800657
+  ],
+  "Hawassa University, Ethiopia": [
+    7.0529427,
+    38.4995556
+  ],
+  "University of Bolton, United Kingdom": [
+    53.5714258,
+    -2.4264783
+  ],
+  "University of South Alabama, United States": [
+    30.6972412,
+    -88.1892334
+  ],
+  "Henan University, China": [
+    34.8194726,
+    113.8143648
+  ],
+  "Jamia Hamdard, India": [
+    28.5153806,
+    77.2502919
+  ],
+  "Norges tekniske h\u00f8gskole, Norway": [
+    63.4086108,
+    10.4687213
+  ],
+  "Univerzita Mateja Bela, Slovakia": [
+    48.7513355,
+    19.155224
+  ],
+  "Polytechnic University of Tirana, Albania": [
+    41.3166196,
+    19.8217354
+  ],
+  "Agrocampus Ouest, France": [
+    48.1129135,
+    -1.7052793
+  ],
+  "University of Southwestern Louisiana, United States": [
+    30.2117256,
+    -92.0195772
+  ],
+  "University of Malakand, Pakistan": [
+    34.6692498,
+    72.0613703
+  ],
+  "Institute of Mathematics and Mechanics Sverdlovsk (Yekaterinburg), Russia": [
+    56.8478545,
+    60.654546
+  ],
+  "Patna University, India": [
+    25.5424381,
+    84.8516072
+  ],
+  "Hanoi University of Science and Technology, Vietnam": [
+    21.0055269,
+    105.8435926
+  ],
+  "Universidad de Carabobo, Venezuela": [
+    10.2743683,
+    -67.999855
+  ],
+  "Providence University, Taiwan": [
+    24.2268822,
+    120.580697
+  ],
+  "Kim Il Sung University, North Korea": [
+    39.0584702,
+    125.7678609
+  ],
+  "St. Xavier's College, India": [
+    18.9429649,
+    72.8314839
+  ],
+  "National Dong Hwa University, Taiwan": [
+    23.8973249,
+    121.542578
+  ],
+  "Malm\u00f6 University, Sweden": [
+    55.6088853,
+    12.9932225
+  ],
+  "Instituto de Astrof\u00edsica de Canarias, Canary Islands": [
+    28.4747026,
+    -16.3082208
+  ],
+  "P\u00e4dagogische Hochschule Karlsruhe, Germany": [
+    49.0137117,
+    8.3927565
+  ],
+  "Lawrence University, United States": [
+    44.2607247,
+    -88.398891
+  ],
+  "Tehran University of Medical Sciences, Iran": [
+    35.7058628,
+    51.3941557
+  ],
+  "Bilecik \u015eeyh Edebali \u00dcniversitesi, Turkey": [
+    40.1900369,
+    29.9668186
+  ],
+  "Alagappa University, India": [
+    10.0781833,
+    78.7990272
+  ],
+  "Georgia Southern University, United States": [
+    32.4214381,
+    -81.7845053
+  ],
+  "Uniformed Services University, United States": [
+    39.0018688,
+    -77.0863719
+  ],
+  "Nasarawa State University, Nigeria": [
+    8.8431624,
+    7.9066259
+  ],
+  "Universitas Pendidikan Indonesia, Indonesia": [
+    -6.8611533,
+    107.591677
+  ],
+  "Universit\u00e9 Dr. Yahia Far\u00e8s de M\u00e9d\u00e9a, Algeria": [
+    36.2649519,
+    2.7976246
+  ],
+  "Shiraz University of Technology, Iran": [
+    29.5837398,
+    52.5800434
+  ],
+  "Bentley University, United States": [
+    42.3834189,
+    -71.2225864
+  ],
+  "California State University San Marcos, United States": [
+    33.1295667,
+    -117.1606492
+  ],
+  "Universit\u00e0 degli Studi di Palermo, Italy": [
+    38.0333906,
+    12.5348262
+  ],
+  "Sternberg Astronomical Institute, Russia": [
+    55.7009719,
+    37.5427945
+  ],
+  "S\u00e1rospatak, Hungary": [
+    48.3216823,
+    21.5655524
+  ],
+  "Alfr\u00e9d R\u00e9nyi Institute of Mathematics, Hungary": [
+    47.4928629,
+    19.05898
+  ],
+  "Chia Nan University of Pharmacy and Science, Taiwan": [
+    22.9222593,
+    120.2276409
+  ],
+  "Politecnico di Bari, Italy": [
+    41.1089093,
+    16.8785783
+  ],
+  "Central University of Tamil Nadu, India": [
+    10.8125257,
+    79.6111666
+  ],
+  "Sookmyung Women's University, South Korea": [
+    37.5453844,
+    126.9643169
+  ],
+  "Langensalza, Germany": [
+    52.1714124,
+    9.6598954
+  ],
+  "Guangzhou University, China": [
+    23.0446501,
+    113.3631548
+  ],
+  "ESSEC Business School, France": [
+    49.0334826,
+    2.0770491
+  ],
+  "German University in Cairo, Egypt": [
+    29.9877558,
+    31.4419752
+  ],
+  "Southern Connecticut State University, United States": [
+    41.3342104,
+    -72.9450826
+  ],
+  "RAND Graduate School, United States": [
+    34.0100266,
+    -118.4911857
+  ],
+  "Gaziosmanpa\u015fa \u00dcniversitesi, Turkey": [
+    40.3281039,
+    36.4806021
+  ],
+  "Universidad Nacional de San Juan, Argentina": [
+    -31.5416793,
+    -68.5776998
+  ],
+  "Rikkyo University, Japan": [
+    35.7298505,
+    139.7030216
+  ],
+  "Okinawa Institute of Science and Technology, Japan": [
+    26.4612095,
+    127.8305983
+  ],
+  "Hochschule f\u00fcr Angewandte Wissenschaften Hamburg, Germany": [
+    53.5550238,
+    10.017753
+  ],
+  "Punjab Engineering College, India": [
+    30.7664868,
+    76.7850788
+  ],
+  "University of Jeddah, Saudi Arabia": [
+    21.592884,
+    39.1453807
+  ],
+  "Pepperdine University, United States": [
+    34.1388191,
+    -118.707359
+  ],
+  "INPL Nancy, France": [
+    48.6509204,
+    6.1466534
+  ],
+  "Ibaraki University, Japan": [
+    36.4007974,
+    140.4431453
+  ],
+  "Universit\u00e9 de Technologie de Belfort-Montb\u00e9liard, France": [
+    47.5882192,
+    6.8658612
+  ],
+  "University of Chemical Technology and Metallurgy, Sofia, Bulgaria": [
+    42.6588287,
+    23.357078
+  ],
+  "Baba Ghulam Shah Badshah University, India": [
+    33.3946356,
+    74.3458426
+  ],
+  "Institute of Biophysics RAN, Russia": [
+    55.9895252,
+    92.7598463
+  ],
+  "Bennett University, India": [
+    28.4506108,
+    77.5839118
+  ],
+  "Hampton University, United States": [
+    37.0210096,
+    -76.3386255
+  ],
+  "Technical University of Varna, Bulgaria": [
+    43.2237428,
+    27.9356554
+  ],
+  "Cleveland State University, United States": [
+    41.5025834,
+    -81.6750871
+  ],
+  "Wilmington University, United States": [
+    39.6821331,
+    -75.5869978
+  ],
+  "Visva-Bharati University, India": [
+    23.6794559,
+    87.689454
+  ],
+  "Universidad Nacional de Salta, Argentina": [
+    -24.7265576,
+    -65.4075347
+  ],
+  "Barkatullah University, India": [
+    23.2018097,
+    77.4526188
+  ],
+  "University of the Sunshine Coast, Australia": [
+    -26.7184666,
+    153.0651536
+  ],
+  "Lapin yliopisto, Finland": [
+    66.4857191,
+    25.718134
+  ],
+  "Mu\u011fla S\u0131tk\u0131 Ko\u00e7man University, Turkey": [
+    37.1670905,
+    28.3744845
+  ],
+  "Fayoum University, Egypt": [
+    29.3212445,
+    30.8355711
+  ],
+  "Union Institute & University, United States": [
+    39.1271838,
+    -84.5000838
+  ],
+  "Universidade Europeia, Portugal": [
+    38.7601078,
+    -9.1939826
+  ],
+  "Covenant University, Nigeria": [
+    6.6719406,
+    3.1573472
+  ],
+  "Univerza v Novi Gorici, Slovenia": [
+    45.9423231,
+    13.6390927
+  ],
+  "The Open University of Tanzania, Tanzania": [
+    -6.7828404,
+    39.2656665
+  ],
+  "Adnan Menderes \u00dcniversitesi, Turkey": [
+    37.8566801,
+    27.8547332
+  ],
+  "Vellore Institute of Technology, India": [
+    12.969728,
+    79.1606943
+  ],
+  "Collegio di Parma, Italy": [
+    44.7988694,
+    10.3334198
+  ],
+  "H\u00f6gskolan i Halmstad, Sweden": [
+    56.6634033,
+    12.8792927
+  ],
+  "Macau University of Science and Technology, Macao": [
+    22.1526454,
+    113.568041
+  ],
+  "University of Engineering and Technology, Taxila, Pakistan": [
+    33.7650089,
+    72.8213848
+  ],
+  "Uniwersytet Sl\u0105ski, Poland": [
+    50.2859252,
+    19.1300369
+  ],
+  "University of the Incarnate Word, United States": [
+    29.4688466,
+    -98.4691039
+  ],
+  "Uniwersytet Przyrodniczy we Wroc\u0142awiu, Poland": [
+    51.1132683,
+    17.0627708
+  ],
+  "National University of Defense Technology, China": [
+    28.2290273,
+    112.9949229
+  ],
+  "South Dakota School of Mines & Technology, United States": [
+    44.0739534,
+    -103.2056622
+  ],
+  "Dakota State University, United States": [
+    44.0132052,
+    -97.1111565
+  ],
+  "Chang-Kang University, Taiwan": [
+    24.9579477,
+    121.5257002
+  ],
+  "Cumberland University, United States": [
+    36.2046352,
+    -86.2997137
+  ],
+  "Uniwersytet Warminsko-Mazurski, Olsztyn, Poland": [
+    53.8923565,
+    20.6694975
+  ],
+  "University of Canberra, Australia": [
+    -35.2365904,
+    149.0845097
+  ],
+  "Nanchang University, China": [
+    28.6612687,
+    115.7975974
+  ],
+  "Univerzitet u Biha\u0107u, Bosnia Herzegovina": [
+    44.7903102,
+    15.8599366
+  ],
+  "Nazarbayev University, Kazakhstan": [
+    51.0906532,
+    71.3973878
+  ],
+  "Hankuk University of Foreign Studies, South Korea": [
+    37.5969903,
+    127.0642032
+  ],
+  "Tallinna \u00dclikool, Estonia": [
+    59.4393125,
+    24.7723471
+  ],
+  "Ecole Polytechnique Universitaire (Marseille), France": [
+    43.3454708,
+    5.4367804
+  ],
+  "Kyoto Sangyo University, Japan": [
+    35.0733427,
+    135.7563402
+  ],
+  "Hohai University, China": [
+    32.0576594,
+    118.7550399
+  ],
+  "Univerzita Kon\u0161tant\u00edna Filozofa v Nitre, Slovakia": [
+    48.3087089,
+    18.0919271
+  ],
+  "Universit\u00e9 Rennes 2, France": [
+    48.1193848,
+    -1.701487
+  ],
+  "Zagazig University, Egypt": [
+    30.5886075,
+    31.4819297
+  ],
+  "Weierstra\u00df-Institut f\u00fcr Angewandte Analysis und Stochastik, Germany": [
+    52.5126571,
+    13.396034
+  ],
+  "Universidad de Le\u00f3n, Spain": [
+    42.613309,
+    -5.5604122
+  ]
+}

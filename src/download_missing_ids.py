@@ -5,13 +5,13 @@ import json
 import os
 import time
 
-TOKEN = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwdWJsaWNfaWQiOiI0ZjU4MDJiMi1hN2ZiLTRmNjMtOGE1NS0wOTJjYzIzNDg0ODYiLCJyb2xlIjoidXNlciIsImV4cCI6MTc2MjY1MjM3N30.JMB2_fkVGTr3R1ef0PWtp4-iO7K3st_FCaFl5pSfAUc"
+TOKEN = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwdWJsaWNfaWQiOiI0ZjU4MDJiMi1hN2ZiLTRmNjMtOGE1NS0wOTJjYzIzNDg0ODYiLCJyb2xlIjoidXNlciIsImV4cCI6MTc2NDczNDYyN30.o7pxlHdYHkBY3ZzbDmGnyHxEsSV2ZkHrDqS2alOlyO0"
 
 PROTOCOL = "https"
 HOSTNAME = "mathgenealogy.org"
 PORT = "8000"
 
-def find_missing_ids(merged_file="mgp_cache/all_academics_merged.json"):
+def find_missing_ids(merged_file="src/mgp_cache/all_academics_merged_complete.json"):
     """Find all missing IDs from the merged data."""
     print("Loading merged data...")
     
@@ -32,14 +32,14 @@ def find_missing_ids(merged_file="mgp_cache/all_academics_merged.json"):
     
     return missing_ids
 
-def download_missing_ids(cache_dir="mgp_cache"):
+def download_missing_ids(cache_dir="src/mgp_cache"):
     """
     Download only the missing IDs one at a time (most reliable for gaps).
     """
-    merged_file = os.path.join(cache_dir, "all_academics_merged.json")
+    merged_file = os.path.join(cache_dir, "all_academics_merged_complete.json")
     
     if not os.path.exists(merged_file):
-        print("all_academics_merged.json not found!")
+        print("all_academics_merged_complete.json not found!")
         print("Run merge_checkpoints.py first!")
         return
     
@@ -136,4 +136,4 @@ def download_missing_ids(cache_dir="mgp_cache"):
         print(f"First few non-existent IDs: {sorted(not_found)[:10]}")
 
 if __name__ == '__main__':
-    download_missing_ids(cache_dir="mgp_cache")
+    download_missing_ids(cache_dir="src/mgp_cache")

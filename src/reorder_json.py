@@ -4,7 +4,7 @@ import json
 import os
 from collections import OrderedDict
 
-def reorder_json_by_id(input_file="mgp_cache/all_academics_merged.json"):
+def reorder_json_by_id(input_file="mgp_cache/all_academics_merged_complete.json"):
     """
     Reorder JSON file so IDs are in numerical order from smallest to largest.
     """
@@ -81,8 +81,8 @@ def reorder_json_by_id(input_file="mgp_cache/all_academics_merged.json"):
     print(f"Reordered file saved to: {os.path.basename(input_file)}")
 
 if __name__ == '__main__':
-    # Reorder all_academics_merged.json
-    reorder_json_by_id("mgp_cache/all_academics_merged.json")
+    # Reorder all_academics_merged_complete.json
+    reorder_json_by_id("mgp_cache/all_academics_merged_complete.json")
     
     # You can also reorder other files:
     # reorder_json_by_id("mgp_cache/all_academics_checkpoints.json")
